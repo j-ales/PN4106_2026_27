@@ -1,13 +1,13 @@
 #
 
-This repository contain the resources for the PN4106 module running Fall 2025 at University of St Andrews.  Instructor: Justin Ales. 
+This repository contain the resources for the PN4106 module running Fall 2026 at University of St Andrews.  Instructor: Justin Ales. 
 
 Use the following URL or the button below to launch this in a cloud hosted jupyter notebook. 
 
-https://mybinder.org/v2/gh/j-ales/PN4106_2025_26/main
+https://mybinder.org/v2/gh/j-ales/PN4106_2026_27/main
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/j-ales/PN4106_2025_26/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/j-ales/PN4106_2026_27/main)
 
 # Resources
 Helpful Resources for PN4106 Students
@@ -27,6 +27,11 @@ https://inferentialthinking.com/chapters/intro.html
 Principles and Techniques of Data Science
 By Sam Lau, Joey Gonzalez, and Deb Nolan.
 https://www.textbook.ds100.org/intro.html
+
+MODERN-DAY ORACLES or BULLSHIT MACHINES? (How to thrive in a ChatGPT world)
+Carl T. Bergstrom and Jevin D. West
+https://thebullshitmachines.com
+
 
 #### Basic Python: 
 - [Python Crash Course](https://ehmatthes.github.io/pcc/) (book) 
