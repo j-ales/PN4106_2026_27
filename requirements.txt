@@ -4,5 +4,5 @@ pandas
 scikit-learn
 seaborn
 openpyxl
-transformers
+odfpy
 
