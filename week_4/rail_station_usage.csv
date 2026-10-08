@@ -1,0 +1,2590 @@
+StationCode,StationName,EntriesExits,Interchanges
+AAP,Alexandra Palace,1855806,37178
+AAT,Achanalt,550,0
+ABA,Aberdare,341438,0
+ABC,Altnabreac [note 1],,
+ABD,Aberdeen,2377660,218903
+ABE,Aber,145234,0
+ABH,Abererch,3552,0
+ABW,Abbey Wood,11873686,1879075
+ABY,Ashburys,105284,0
+ACB,Acton Bridge (Cheshire),54980,0
+ACC,Acton Central,1574010,0
+ACG,Acocks Green,417750,0
+ACH,Achnashellach,890,0
+ACK,Acklington,856,0
+ACL,Acle,47882,0
+ACN,Achnasheen,3340,0
+ACR,Accrington,503794,0
+ACT,Ascot (Berks),947036,292322
+ACY,Abercynon,189820,19118
+ADC,Adlington (Cheshire),24710,0
+ADD,Adderley Park,147180,0
+ADK,Ardwick,262,0
+ADL,Adlington (Lancashire),166760,0
+ADM,Adisham,26556,0
+ADN,Ardrossan Town,17108,0
+ADR,Airdrie,809690,0
+ADS,Ardrossan Harbour,84144,0
+ADV,Andover,1141420,7053
+ADW,Addiewell,18496,0
+AFK,Ashford International,3791778,852249
+AFS,Ashford (Surrey),882266,0
+AFV,Ansdell and Fairhaven,48776,0
+AGL,Abergele and Pensarn,104922,0
+AGS,Argyle Street,1279026,0
+AGT,Aldrington,169826,0
+AGV,Abergavenny,423316,0
+AHD,Ashtead,1023956,0
+AHN,Ashton-Under-Lyne,180238,0
+AHS,Ashurst (Kent),27738,0
+AHT,Aldershot,1371112,105047
+AHV,Ash Vale,358324,100146
+AIG,Aigburth,597462,0
+AIN,Aintree,977074,0
+AIR,Airbles,109620,0
+ALB,Albrighton,92196,0
+ALD,Alderley Edge,244220,0
+ALF,Alfreton,382994,0
+ALK,Aslockton,23218,0
+ALM,Alnmouth,378954,149
+ALN,Althorne (Essex),33650,0
+ALO,Alloa,528768,0
+ALP,Althorpe,3816,0
+ALR,Alresford (Essex),97088,0
+ALT,Altrincham,316474,163
+ALV,Alvechurch,163368,0
+ALW,Allens West,99646,0
+ALX,Alexandria,185556,0
+AMB,Ambergate,39004,0
+AMF,Ammanford,23694,0
+AML,Acton Main Line,2699464,0
+AMR,Amersham,1892926,0
+AMT,Aldermaston,71290,0
+AMY,Amberley,89218,0
+ANC,Ancaster,5532,0
+AND,Anderston,419400,0
+ANF,Ashurst New Forest,108328,0
+ANG,Angmering,843312,0
+ANL,Anniesland,1013182,0
+ANN,Annan,127412,0
+ANS,Ainsdale,892242,0
+ANZ,Anerley,948840,0
+AON,Alton,590922,0
+APB,Appley Bridge,126192,0
+APD,Appledore (Kent),29092,0
+APF,Appleford,9074,0
+APG,Aspley Guise,8300,0
+APP,Appleby,63348,0
+APS,Apsley,518088,0
+APY,Apperley Bridge,455666,0
+ARB,Arbroath,362306,2708
+ARD,Ardgay,5734,0
+ARG,Arisaig,5572,0
+ARL,Arlesey,688476,0
+ARM,Armadale (West Lothian),232232,0
+ARN,Arnside,119618,0
+ARR,Arram,1030,0
+ART,Arrochar and Tarbet,20438,0
+ARU,Arundel,308686,0
+ASB,Ardrossan South Beach,167462,258
+ASC,Ashchurch for Tewkesbury,108740,0
+ASD,Ashley Down,50988,0
+ASF,Ashfield,64718,0
+ASG,Alsager,115024,0
+ASH,Ash,259336,43911
+ASK,Askam,70730,0
+ASL,Ashington,130630,0
+ASN,Addlestone,382112,0
+ASP,Aspatria,31666,0
+ASS,Alness,20482,0
+AST,Aston,613448,28082
+ASY,Ashley,8648,0
+ATB,Attenborough,96094,0
+ATH,Atherstone,113120,0
+ATL,Attleborough,175046,0
+ATN,Atherton,218476,0
+ATT,Attadale,1034,0
+AUD,Audley End,814130,5000
+AUG,Aughton Park,185634,0
+AUI,Ardlui,4050,0
+AUK,Auchinleck,64852,0
+AUR,Aberdour,116962,0
+AUW,Ascott-Under-Wychwood,1282,0
+AVF,Avoncliff,25078,0
+AVM,Aviemore,123654,60
+AVN,Avonmouth,171440,0
+AVP,Aylesbury Vale Parkway,127578,0
+AVY,Aberdovey,49838,0
+AWK,Adwick,175978,0
+AWM,Ashwell and Morden,173122,0
+AWT,Armathwaite,13282,0
+AXM,Axminster,417946,0
+AXP,Alexandra Parade,343914,0
+AYH,Aylesham,106320,0
+AYL,Aylesford,184616,0
+AYP,Albany Park,775024,0
+AYR,Ayr,795560,38459
+AYS,Aylesbury,900484,6334
+AYW,Aberystwyth,298878,0
+BAA,Barnham,1032190,794250
+BAB,Balcombe,213026,0
+BAC,Bache,495366,0
+BAD,Banstead,148780,0
+BAG,Bagshot,120552,0
+BAH,Bank Hall,226404,0
+BAI,Blairhill,377514,0
+BAJ,Baglan,35200,0
+BAK,Battersea Park,2183506,1524
+BAL,Balham,5955232,267295
+BAM,Bamford,72778,0
+BAN,Banbury,2269872,220056
+BAR,Bare Lane,119252,0
+BAS,Bere Alston,39426,0
+BAT,Battle,511760,0
+BAU,Barton-On-Humber,33106,0
+BAV,Barrow Haven,1194,0
+BAW,Blackwater,383848,0
+BAY,Bayford,78874,0
+BBG,Bishopbriggs,758698,0
+BBK,Bilbrook,139092,0
+BBL,Bat and Ball,218476,0
+BBN,Blackburn,1297980,82591
+BBS,Bordesley,29062,0
+BBW,Berry Brow,27114,0
+BCB,Burscough Bridge,166054,0
+BCC,Beccles,129850,0
+BCE,Bracknell,1775202,19538
+BCF,Beaconsfield,1146906,0
+BCG,Birchgrove,53024,0
+BCH,Birchington-On-Sea,350024,0
+BCJ,Burscough Junction,50780,0
+BCK,Buckley,44006,0
+BCN,Branchton,122300,0
+BCS,Bicester North,822816,4264
+BCU,Brockenhurst,986394,230305
+BCV,Bruce Grove,1364934,0
+BCY,Brockley,3668366,0
+BCZ,Brent Cross West,675392,0
+BDA,Brundall,103312,1154
+BDB,Broadbottom,130298,0
+BDG,Bridgeton,802898,0
+BDH,Bedhampton,86206,0
+BDI,Bradford Interchange,2359354,89871
+BDK,Baldock,568602,0
+BDL,Birkdale,1064598,0
+BDM,Bedford,3763978,52169
+BDN,Brading,17080,0
+BDQ,Bradford Forster Square,1457418,35780
+BDS,Bond Street,42752242,11198
+BDT,Bridlington,546078,1203
+BDW,Bedwyn,99948,0
+BDY,Bredbury,172036,0
+BEA,Bridge Of Allan,268412,0
+BEB,Bebington,917836,0
+BEC,Beckenham Hill,378666,0
+BEE,Beeston,606570,35371
+BEF,Benfleet,2439326,0
+BEG,Beltring,14532,0
+BEH,Bedworth,69046,0
+BEL,Beauly,33508,0
+BEM,Bempton,23682,0
+BEN,Bentham,41208,0
+BEP,Bermuda Park,28434,0
+BER,Bearley,2552,0
+BES,Bescar Lane,2442,0
+BET,Bethnal Green,1564066,0
+BEU,Beaulieu Road,19838,0
+BEV,Beverley,754186,12
+BEX,Bexhill,1488932,0
+BEY,Ben Rhydding,218968,0
+BFD,Brentford,976928,0
+BFE,Bere Ferrers,14614,0
+BFF,Blaenau Ffestiniog,47240,0
+BFN,Byfleet and New Haw,408252,0
+BFR,London Blackfriars,15193088,2234915
+BGA,Brundall Gardens,17886,0
+BGD,Bargoed,188436,0
+BGE,Broad Green,415724,0
+BGG,Brigg,1636,0
+BGH,Brighouse,387592,36630
+BGI,Bargeddie,98846,0
+BGL,Bugle,6528,0
+BGM,Bellingham,623114,0
+BGN,Bridgend,1379566,55517
+BGS,Bogston,27266,0
+BGV,Barking Riverside,1209476,0
+BHC,Balloch,444334,0
+BHD,Brithdir,13052,0
+BHG,Bathgate,938148,0
+BHI,Birmingham International,5002974,276067
+BHK,Bush Hill Park,1188288,0
+BHM,Birmingham New Street,36623678,5641463
+BHO,Blackhorse Road,2693538,0
+BHR,Builth Road,5582,0
+BHS,Brockholes,37888,0
+BIA,Bishop Auckland,169032,0
+BIC,Billericay,2348512,0
+BID,Bidston,301450,102377
+BIF,Barrow-In-Furness,589658,24412
+BIG,Billingshurst,447136,0
+BIK,Birkbeck,105178,0
+BIL,Billingham,118110,0
+BIN,Bingham,72680,0
+BIO,Baillieston,162068,0
+BIP,Bishopstone (Sussex),51166,0
+BIS,Bishops Stortford,3003190,123676
+BIT,Bicester Village,1925568,219
+BIW,Biggleswade,894928,0
+BIY,Bingley,1017970,0
+BKA,Bookham,212440,0
+BKC,Birkenhead Central,644332,0
+BKD,Blakedown,96472,0
+BKG,Barking,13359426,1162662
+BKH,Blackheath,2278510,7933
+BKJ,Beckenham Junction,1694068,65489
+BKL,Bickley,738246,3599
+BKM,Berkhamsted,1322820,0
+BKN,Birkenhead North,944022,91287
+BKO,Brookwood,874760,54611
+BKP,Birkenhead Park,669528,0
+BKQ,Birkenhead Hamilton Square,1657330,330845
+BKR,Blackridge,51822,0
+BKS,Bekesbourne,37720,0
+BKT,Blake Street,344892,0
+BKW,Berkswell,284690,0
+BLA,Blair Atholl,16446,0
+BLB,Battlesbridge,22560,0
+BLD,Baildon,210976,0
+BLE,Bramley (West Yorkshire),336358,0
+BLG,Bellgrove,744374,25024
+BLH,Bellshill,643576,85124
+BLK,Blackrod,226316,0
+BLL,Bardon Mill,10046,0
+BLM,Belmont,200356,0
+BLN,Blundellsands and Crosby,1563538,0
+BLO,Blaydon,69496,0
+BLP,Belper,219184,2601
+BLT,Blantyre,413806,0
+BLV,Belle Vue,15288,0
+BLW,Bulwell,71838,0
+BLX,Bloxwich,114166,0
+BLY,Bletchley,1385658,72052
+BMB,Bamber Bridge,75068,0
+BMC,Bromley Cross (Lancs),311940,0
+BMD,Brimsdown,1135474,0
+BME,Broome,1682,0
+BMF,Broomfleet,1300,0
+BMG,Barming,236990,0
+BMH,Bournemouth,2664456,71883
+BML,Bramhall,214228,0
+BMN,Bromley North,226164,0
+BMO,Birmingham Moor Street,7148012,448181
+BMP,Brampton (Cumbria),15976,0
+BMR,Bromborough Rake,222626,0
+BMS,Bromley South,6193798,975612
+BMT,Bedminster,140918,0
+BMV,Bromsgrove,695994,0
+BMY,Bramley (Hampshire),264730,0
+BNA,Burnage,171926,0
+BNC,Burnley Central,114562,6
+BND,Brandon,128812,0
+BNE,Bourne End,254624,125661
+BNF,Briton Ferry,41642,0
+BNG,Bangor (Gwynedd),720066,610
+BNH,Barnehurst,955890,0
+BNI,Barnes Bridge,872264,0
+BNL,Barnhill,84686,0
+BNM,Burnham (Buckinghamshire),1725890,0
+BNP,Barnstaple,608780,0
+BNS,Barnes,2251810,24911
+BNT,Brinnington,88708,0
+BNV,Banavie,6796,0
+BNW,Bootle New Strand,885026,0
+BNY,Barnsley,1519762,30321
+BOA,Bradford-On-Avon,532216,5217
+BOC,Bootle (Cumbria),13844,0
+BOD,Bodmin Parkway,305298,0
+BOE,Botley,154578,0
+BOG,Bognor Regis,1086762,0
+BOH,Bosham,69330,0
+BOM,Bromborough,530726,0
+BON,Bolton,3011850,495120
+BOP,Bowes Park,524702,0
+BOR,Bodorgan,7414,0
+BOT,Bootle Oriel Road,691544,0
+BOW,Bow Street,34538,0
+BPB,Blackpool Pleasure Beach,118576,0
+BPK,Brookmans Park,275238,0
+BPN,Blackpool North,2065566,2062
+BPS,Blackpool South,113644,0
+BPT,Bishopton (Renfrewshire),701908,0
+BPW,Bristol Parkway,2325558,875145
+BRA,Brora,5836,0
+BRC,Breich,5924,0
+BRE,Brentwood,3232020,0
+BRF,Brierfield,36894,0
+BRG,Borough Green and Wrotham,438368,0
+BRH,Borth,61940,0
+BRI,Bristol Temple Meads,10877308,1644247
+BRK,Berwick (Sussex),79434,0
+BRL,Barrhill,3878,0
+BRM,Barmouth,236854,0
+BRN,Bearsden,399528,0
+BRO,Bridge Of Orchy,7958,0
+BRP,Brampton (Suffolk),14508,0
+BRR,Barrhead,553018,0
+BRS,Berrylands,363954,0
+BRU,Bruton,53002,0
+BRV,Bournville,996134,0
+BRW,Brunswick,847394,0
+BRX,Brixton,804378,0
+BRY,Barry,600062,4288
+BSB,Bleasby,7552,0
+BSC,Bescot Stadium,154824,0
+BSD,Bearsted,316948,0
+BSE,Bury St Edmunds,929244,1198
+BSH,Bushey,1225400,0
+BSI,Balmossie,1708,0
+BSJ,Bedford St Johns,175552,0
+BSK,Basingstoke,4793820,829653
+BSL,Beasdale,230,0
+BSM,Branksome,280126,0
+BSN,Boston,267184,2
+BSO,Basildon,2566830,0
+BSP,Brondesbury Park,1067324,0
+BSR,Broadstairs,794074,0
+BSS,Barassie,154888,0
+BSU,Brunstane,156782,0
+BSV,Buckshaw Parkway,355252,0
+BSW,Birmingham Snow Hill,3153970,300549
+BSY,Brondesbury,2442938,0
+BTB,Barnetby,61434,4740
+BTD,Bolton-Upon-Dearne,77700,0
+BTE,Bitterne,83962,0
+BTF,Bottesford,56560,0
+BTG,Barnt Green,327146,71264
+BTH,Bath Spa,6510506,206808
+BTL,Batley,227096,0
+BTN,Brighton,15328450,1297590
+BTO,Betchworth,14482,0
+BTP,Braintree Freeport,141614,0
+BTR,Braintree,630814,0
+BTS,Burntisland,206194,0
+BTT,Battersby,2524,0
+BTY,Bentley (Hampshire),109846,0
+BUB,Burnley Barracks,29796,0
+BUC,Buckenham,284,0
+BUD,Burneside (Cumbria),28192,0
+BUE,Bures,53342,0
+BUG,Burgess Hill,1676614,0
+BUH,Brough,551506,10742
+BUI,Burnside (South Lanarkshire),225114,0
+BUJ,Burton Joyce,13392,0
+BUK,Bucknell,3858,0
+BUL,Butlers Lane,193930,0
+BUO,Bursledon,68028,0
+BUS,Busby,110486,0
+BUT,Burton-On-Trent,913000,8132
+BUU,Burnham-On-Crouch,227510,0
+BUW,Burley-In-Wharfedale,606872,0
+BUX,Buxton,381872,0
+BUY,Burley Park,756200,0
+BVD,Belvedere,696406,0
+BWB,Bow Brickhill,32874,0
+BWD,Birchwood,437172,0
+BWG,Bowling,27310,0
+BWK,Berwick-Upon-Tweed,707310,14439
+BWN,Bloxwich North,123090,0
+BWO,Bricket Wood,27058,0
+BWS,Barrow-Upon-Soar,101842,0
+BWT,Bridgwater,486562,0
+BXB,Broxbourne,1797220,343497
+BXD,Buxted,99310,0
+BXH,Bexleyheath,1475374,0
+BXW,Box Hill and Westhumble,145860,0
+BXY,Bexley,1096808,0
+BYA,Berney Arms,802,0
+BYB,Blythe Bridge,103852,0
+BYC,Betws-y-Coed,52838,0
+BYD,Barry Docks,285566,0
+BYE,Bynea,2716,0
+BYF,Broughty Ferry,148586,0
+BYI,Barry Island,446058,0
+BYK,Bentley (South Yorkshire),157944,0
+BYL,Barry Links,450,0
+BYM,Burnley Manchester Road,583322,14982
+BYN,Bryn,105238,0
+BYS,Braystones,1472,0
+CAA,Coventry Arena,135028,0
+CAC,Caldercruix,73754,0
+CAD,Cadoxton,322908,0
+CAG,Carrbridge,7020,0
+CAK,Cark and Cartmel,93858,0
+CAM,Camberley,364372,0
+CAN,Carnoustie,137292,0
+CAO,Cannock,329244,0
+CAR,Carlisle,2316310,368419
+CAS,Castleton (Manchester),141112,0
+CAT,Caterham,584834,0
+CAU,Causeland,2108,0
+CAY,Carntyne,383786,0
+CBB,Carbis Bay,276938,0
+CBC,Coatbridge Central,45164,0
+CBD,Conon Bridge,11716,0
+CBE,Canterbury East,1170446,38101
+CBG,Cambridge,10597572,579281
+CBH,Cambridge Heath,1050568,0
+CBK,Cranbrook (Devon),120374,0
+CBL,Cambuslang,831150,54701
+CBN,Camborne,372746,0
+CBP,Castle Bar Park,112884,0
+CBR,Cooksbridge,91322,0
+CBS,Coatbridge Sunnyside,472270,0
+CBW,Canterbury West,2723706,158448
+CBX,Cameron Bridge,45796,0
+CBY,Charlbury,343240,0
+CCC,Criccieth,36588,0
+CCH,Chichester,2687308,49322
+CCT,Cathcart,544872,1600
+CDB,Cardiff Bay,755714,0
+CDD,Cardenden,43222,0
+CDF,Cardiff Central,12513720,1779150
+CDI,Crediton,187194,0
+CDN,Coulsdon Town,97562,0
+CDO,Cardonald,222856,0
+CDQ,Cardiff Queen Street,2010584,630758
+CDR,Cardross,156448,0
+CDS,Coulsdon South,1959570,44387
+CDT,Caldicot,87972,0
+CDU,Cam and Dursley,239284,0
+CDY,Cartsdyke,99116,0
+CEA,Cleland,107380,0
+CED,Cheddington,83010,0
+CEF,Chapel-En-Le-Frith,77786,0
+CEH,Coleshill Parkway,205662,0
+CEL,Chelford (Cheshire),46262,0
+CES,Cressing (Essex),51142,0
+CET,Colchester Town,1012034,0
+CEY,Cononley,182966,0
+CFB,Catford Bridge,2512134,82277
+CFD,Castleford,487384,29455
+CFF,Croftfoot,215558,0
+CFH,Chafford Hundred Lakeside,2317972,0
+CFL,Crossflatts,442214,0
+CFN,Clifton Down,817690,0
+CFO,Chalfont and Latimer,780010,0
+CFR,Chandlers Ford,157796,0
+CFT,Crofton Park,699392,0
+CGD,Craigendoran,163838,0
+CGM,Cottingham,318072,0
+CGN,Cogan,308096,0
+CGW,Caergwrle,14738,0
+CHC,Charing Cross (Glasgow),1562948,0
+CHD,Chesterfield,1820668,175215
+CHE,Cheam,932574,0
+CHF,Church Fenton,159050,8663
+CHG,Charing (Kent),94218,0
+CHH,Christs Hospital,168878,0
+CHI,Chingford,2036058,0
+CHK,Chiswick,707048,0
+CHL,Chilworth,27352,0
+CHM,Chelmsford,7030130,77269
+CHN,Cheshunt,2547310,314476
+CHO,Cholsey,275420,0
+CHP,Chipstead,87736,0
+CHR,Christchurch,484080,0
+CHT,Chathill,1580,0
+CHU,Cheadle Hulme,650726,6324
+CHW,Chalkwell,1286264,0
+CHX,London Charing Cross,19767784,315874
+CHY,Chertsey,638340,0
+CIL,Chilham,66206,0
+CIM,Cilmeri,1066,0
+CIR,Caledonian Road and Barnsbury,1566788,0
+CIT,Chislehurst,1012880,0
+CKH,Corkerhill,209532,0
+CKL,Corkickle,65558,0
+CKN,Crewkerne,177884,0
+CKS,Clarkston,320542,0
+CKT,Crookston,184128,0
+CKY,Crosskeys,91558,0
+CLA,Clandon,165566,0
+CLC,Castle Cary,354740,84303
+CLD,Chelsfield,593350,0
+CLE,Cleethorpes,307184,0
+CLG,Claygate,516838,0
+CLH,Clitheroe,264536,0
+CLI,Clifton (Manchester),1102,0
+CLJ,Clapham Junction,24447510,20404411
+CLK,Clock House,1067284,901
+CLL,Collington,182218,0
+CLM,Collingham,141448,0
+CLN,Chapeltown (South Yorkshire),382952,0
+CLP,Clapham High Street,1383296,0
+CLR,Clarbeston Road,7670,0
+CLS,Chester-Le-Street,232324,0
+CLT,Clacton-on-Sea,836512,0
+CLU,Carluke,292568,0
+CLV,Claverdon,7820,0
+CLW,Chorleywood,493600,0
+CLY,Chinley,128746,6524
+CMB,Cambridge North,1459946,2070
+CMD,Camden Road,4330314,5740
+CME,Combe (Oxon),1326,0
+CMF,Cromford,49680,0
+CMH,Cwmbach,49736,0
+CML,Carmyle,129922,0
+CMN,Carmarthen,439846,10963
+CMO,Camelon,165762,0
+CMR,Cromer,249402,0
+CMY,Crossmyloof,710384,0
+CNE,Colne,82154,0
+CNF,Carnforth,196102,16795
+CNG,Congleton,323770,0
+CNL,Canley,453276,0
+CNM,Cheltenham Spa,2418292,276080
+CNN,Canonbury,2834562,835651
+CNO,Chetnole,2638,0
+CNP,Conway Park,630102,0
+CNR,Crianlarich,16156,4000
+CNS,Conisbrough,96416,0
+CNW,Conwy,83682,0
+CNY,Cantley,20390,0
+COA,Coatdyke,236050,0
+COB,Cooden Beach,131188,0
+COE,Coombe Junction Halt,224,0
+COH,Crowborough,254886,0
+COI,Crosshill,297828,0
+COL,Colchester,3648216,501251
+COM,Commondale,2120,0
+CON,Connel Ferry,18594,0
+COO,Cookham,204462,0
+COP,Copplestone,41732,0
+COR,Corby,561182,471
+COS,Cosford,82350,0
+COT,Cottingley,52858,0
+COV,Coventry,6826768,506355
+COW,Cowdenbeath,121674,0
+COY,Coryton,76514,0
+CPA,Corpach,3776,0
+CPH,Caerphilly,623058,0
+CPK,Carpenders Park,1224684,0
+CPM,Chippenham,1713674,26498
+CPN,Chapelton (Devon),160,0
+CPT,Clapton,2130232,0
+CPU,Capenhurst,206002,0
+CPW,Chepstow,239434,0
+CPY,Clapham (North Yorkshire),9690,0
+CRA,Cradley Heath,719310,0
+CRB,Corbridge,77068,0
+CRD,Chester Road,658658,0
+CRE,Crewe,3389590,1427867
+CRF,Carfin,118882,0
+CRG,Cross Gates,474490,0
+CRH,Crouch Hill,901274,0
+CRI,Cricklewood,859464,0
+CRK,Chirk,106900,0
+CRL,Chorley,716034,0
+CRM,Cramlington,183856,0
+CRN,Crowthorne,248220,0
+CRO,Croy,1402586,0
+CRR,Corrour,20500,0
+CRS,Carstairs,31886,11793
+CRT,Chartham,102986,0
+CRV,Craven Arms,99908,1368
+CRW,Crawley,1370856,2404
+CRY,Crayford,1086958,0
+CSA,Cosham,895766,0
+CSB,Carshalton Beeches,786788,0
+CSD,Cobham and Stoke D'abernon,508614,0
+CSG,Cressington,530514,0
+CSH,Carshalton,1139060,0
+CSK,Calstock,38968,0
+CSL,Codsall,135854,0
+CSM,Castleton Moor,6668,0
+CSN,Chessington North,488812,0
+CSO,Croston,56382,0
+CSR,Chassen Road,42472,0
+CSS,Chessington South,344218,0
+CST,London Cannon Street,7507972,258224
+CSW,Chestfield and Swalecliffe,107718,0
+CSY,Coseley,519672,0
+CTE,Chatelherault,76190,0
+CTF,Catford,777398,187837
+CTH,Chadwell Heath,4874090,0
+CTK,City Thameslink,7635634,298478
+CTL,Cattal,103416,0
+CTM,Chatham,2397976,240
+CTN,Charlton,1269452,20420
+CTO,Carlton,52580,0
+CTR,Chester,5271572,834570
+CTT,Church Stretton,123462,0
+CTW,Church and Oswaldtwistle,59450,0
+CUA,Culrain,318,0
+CUB,Cumbernauld,187882,3999
+CUD,Cuddington,83840,0
+CUF,Cuffley,662862,0
+CUH,Curriehill,124218,0
+CUM,Culham,113542,0
+CUP,Cupar,196056,0
+CUS,Custom House,9794628,0
+CUW,Clunderwen,22754,0
+CUX,Cuxton,60952,0
+CWB,Colwyn Bay,357852,181
+CWC,Chappel and Wakes Colne,32962,0
+CWD,Creswell,40768,0
+CWE,Crowle,14622,0
+CWH,Crews Hill,119492,0
+CWL,Colwall,63456,0
+CWM,Cwmbran,431856,0
+CWN,Cowden (Kent),48136,0
+CWS,Caersws,69134,0
+CWU,Crowhurst,45154,0
+CWX,Canary Wharf,15927588,145
+CYB,Cefn-Y-Bedd,8550,0
+CYK,Clydebank,304952,0
+CYN,Cynghordy,1188,0
+CYP,Crystal Palace,2781506,156806
+CYS,Cathays,933746,0
+CYT,Cherry Tree,33742,0
+DAG,Dalgety Bay,229602,0
+DAK,Dalmarnock,462014,0
+DAL,Dalmally,13690,0
+DAM,Dalmeny,488872,0
+DAN,Darnall,22132,0
+DAR,Darlington,2827176,612574
+DAT,Datchet,228122,0
+DBC,Dumbarton Central,483282,63659
+DBD,Denby Dale,107738,0
+DBE,Dumbarton East,339724,0
+DBG,Mottisfont and Dunbridge,28832,0
+DBL,Dunblane,451060,0
+DBR,Derby Road (Ipswich),95046,0
+DBY,Derby,4106660,608101
+DCG,Duncraig,354,0
+DCH,Dorchester South,466422,562
+DCT,Danescourt,83824,0
+DCW,Dorchester West,96844,0
+DDG,Dorridge,824680,0
+DDK,Dagenham Dock,424946,0
+DDP,Dudley Port,375972,0
+DEA,Deal,529856,0
+DEE,Dundee,1763546,79138
+DEN,Dean (Wilts),38188,0
+DEP,Deptford,1643802,0
+DEW,Dewsbury,947090,0
+DFD,Dartford,4815874,416020
+DFE,Dunfermline City,569702,0
+DFI,Duffield,66536,0
+DFL,Dunfermline Queen Margaret,129910,0
+DFR,Drumfrochar,71638,0
+DGC,Denham Golf Club,33726,0
+DGL,Dingle Road,161876,0
+DGT,Deansgate,1719378,0
+DGY,Deganwy,24334,0
+DHM,Durham,2809984,3612
+DHN,Deighton,63430,0
+DID,Didcot Parkway,2884000,669914
+DIG,Digby and Sowton,968412,0
+DIN,Dingwall,62120,383
+DIS,Diss,701420,0
+DKD,Dunkeld and Birnam,61270,0
+DKG,Dorking (Main),834808,49192
+DKT,Dorking West,40162,0
+DLG,Dolgarrog,3588,0
+DLH,Doleham,1706,0
+DLJ,Dalston Junction,5648732,17981
+DLK,Dalston Kingsland,5308786,0
+DLM,Delamere,57136,0
+DLR,Dalreoch,196628,0
+DLS,Dalston (Cumbria),57392,0
+DLT,Dalton (Cumbria),78420,0
+DLW,Dalwhinnie,3356,0
+DLY,Dalry,168264,0
+DMC,Drumchapel,331424,0
+DMF,Dumfries,346310,750
+DMG,Dinas (Rhondda),46050,0
+DMH,Dilton Marsh,21574,0
+DMK,Denmark Hill,6020036,1262055
+DMP,Dumpton Park,45098,0
+DMR,Dalmuir,767842,4218
+DMS,Dormans,122678,0
+DMY,Drumry,233208,0
+DND,Dinsdale,88380,0
+DNG,Dunton Green,195198,0
+DNL,Dunlop,76002,0
+DNM,Denham,212456,0
+DNO,Dunrobin Castle,1544,0
+DNS,Dinas Powys,94876,0
+DNT,Dent,9598,0
+DNY,Danby,8520,0
+DOC,Dockyard (Devonport),15102,0
+DOD,Dodworth,47920,0
+DOL,Dolau,818,0
+DON,Doncaster,4533514,1673640
+DOR,Dore and Totley,240254,0
+DOT,Dunston,50828,0
+DOW,Downham Market,440550,0
+DPD,Dorking (Deepdene),506136,67097
+DPT,Devonport,49756,0
+DRF,Driffield,275396,0
+DRG,Drayton Green,23270,0
+DRI,Drigg,7076,0
+DRM,Drem,152528,0
+DRN,Duirinish,904,0
+DRO,Dronfield,229562,0
+DRT,Darton,120506,0
+DRU,Drumgelloch,275672,0
+DSL,Disley,156050,0
+DSM,Darsham,68476,0
+DST,Duke Street,224988,0
+DSY,Daisy Hill,195254,0
+DTG,Dinting,87032,0
+DTN,Denton,100,0
+DTW,Droitwich Spa,519318,64673
+DUD,Duddeston,340568,0
+DUL,Dullingham,32026,0
+DUM,Dumbreck,148736,0
+DUN,Dunbar,416356,0
+DUR,Durrington-On-Sea,506616,0
+DVC,Dovercourt,168182,0
+DVH,Dove Holes,10384,0
+DVN,Davenport,291496,0
+DVP,Dover Priory,1029332,86844
+DVY,Dovey Junction,41454,13454
+DWD,Dolwyddelan,6412,0
+DWL,Dawlish,580660,0
+DWN,Darwen,345590,0
+DWW,Dawlish Warren,248086,0
+DYC,Dyce,308806,0
+DYF,Dyffryn Ardudwy,21934,0
+DYP,Drayton Park,728922,0
+DZY,Danzey,6170,0
+EAD,Earlsfield,5569216,0
+EAG,Eaglescliffe,211956,0
+EAL,Ealing Broadway,15456598,85703
+EAR,Earley,425632,0
+EBA,Euxton Balshaw Lane,75928,0
+EBB,Ebbw Vale Town,248760,0
+EBD,Ebbsfleet International,1765258,87338
+EBK,Eastbrook,142166,0
+EBN,Eastbourne,3754614,19169
+EBR,Edenbridge (Kent),175966,9145
+EBT,Edenbridge Town,322154,6724
+EBV,Ebbw Vale Parkway,40736,0
+ECC,Eccles (Manchester),257328,0
+ECL,Eccleston Park,74390,0
+ECP,Energlyn and Churchill Park,80900,0
+ECR,East Croydon,20592106,3709103
+ECS,Eccles Road,1534,0
+EDB,Edinburgh,22755164,1583408
+EDG,Edge Hill,209880,7499
+EDL,Edale,171814,0
+EDN,Eden Park,558530,0
+EDP,Edinburgh Park,558812,0
+EDR,Edmonton Green,3486764,20177
+EDW,East Dulwich,1335792,0
+EDY,East Didsbury,299254,0
+EFF,Effingham Junction,243110,13969
+EFL,East Farleigh,38974,0
+EGF,East Garforth,185360,0
+EGG,Eggesford,52658,0
+EGH,Egham,1851978,0
+EGN,Eastrington,3378,0
+EGR,East Grinstead,1100494,0
+EGT,Egton,10100,0
+EGY,Edinburgh Gateway,254676,16732
+EKB,Eskbank,286350,0
+EKL,East Kilbride,582794,0
+ELD,Earlswood (Surrey),352176,0
+ELE,Elmers End,802120,0
+ELG,Elgin,295372,0
+ELO,Elton and Orston,68,0
+ELP,Ellesmere Port,556188,154
+ELR,Elsecar,196124,0
+ELS,Elstree and Borehamwood,2760150,0
+ELT,East Linton,66982,0
+ELW,Eltham,1758352,0
+ELY,Ely,2299024,431002
+EMD,East Midlands Parkway,355098,15373
+EML,East Malling,93032,0
+EMP,Emerson Park,302740,0
+EMS,Emsworth,362368,5129
+ENC,Enfield Chase,1166152,1254
+ENF,Enfield Town,2343318,0
+ENL,Enfield Lock,1459366,0
+ENT,Entwistle,19988,0
+EPD,Epsom Downs,125822,0
+EPH,Elephant and Castle,2169236,441903
+EPS,Epsom (Surrey),3342368,117631
+ERA,Eastham Rake,371254,0
+ERD,Erdington,481364,0
+ERH,Erith,740404,0
+ERI,Eridge,82636,0
+ERL,Earlestown,330956,43987
+ESD,Elmstead Woods,927220,0
+ESH,Esher,877074,0
+ESL,Eastleigh,1191848,106994
+ESM,Elsenham (Essex),222928,0
+EST,Easterhouse,317196,0
+ESW,Elmswell,121748,0
+ETC,Etchingham,209228,0
+ETL,East Tilbury,384542,0
+EUS,London Euston,40248974,2432912
+EVE,Evesham,287118,558
+EWD,Earlswood (West Midlands),33834,0
+EWE,Ewell East,490410,0
+EWR,East Worthing,470512,0
+EWW,Ewell West,970948,0
+EXC,Exeter Central,2962450,329880
+EXD,Exeter St David's,2922288,1524885
+EXG,Exhibition Centre (Glasgow),1772544,0
+EXM,Exmouth,999764,0
+EXN,Exton,25256,0
+EXR,Essex Road,697932,0
+EXT,Exeter St Thomas,329086,0
+EYN,Eynsford,155580,0
+FAL,Falmouth Docks,145458,0
+FAV,Faversham,1525470,158923
+FAZ,Fazakerley,1107238,0
+FBY,Formby,1606086,0
+FCN,Falconwood,823276,0
+FEA,Featherstone,86004,0
+FEL,Feltham,3626102,0
+FEN,Fenny Stratford,26144,0
+FER,Fernhill,27334,0
+FFA,Ffairfach,3992,0
+FFD,Freshford,55412,0
+FGH,Fishguard Harbour,9606,0
+FGT,Faygate,9478,0
+FGW,Fishguard and Goodwick,18262,0
+FIL,Filey,172798,0
+FIN,Finstock,1136,0
+FIT,Filton Abbey Wood,693586,0
+FKC,Folkestone Central,817324,601
+FKG,Falkirk Grahamston,611856,119884
+FKK,Falkirk High,773200,3274
+FKW,Folkestone West,970078,0
+FLD,Fauldhouse,46148,0
+FLE,Fleet,1400680,720
+FLF,Flowery Field,183740,0
+FLI,Flixton,119346,0
+FLM,Flimby,17316,0
+FLN,Flint,333542,0
+FLT,Flitwick,1276900,0
+FLW,Fulwell,437388,0
+FLX,Felixstowe,278504,0
+FML,Frimley,204590,0
+FMR,Falmer,1421366,0
+FMT,Falmouth Town,278064,0
+FNB,Farnborough (Main),2235212,11168
+FNC,Farncombe,568436,0
+FNH,Farnham,1494080,28809
+FNN,Farnborough North,483280,0
+FNR,Farningham Road,131516,0
+FNT,Feniton,54896,0
+FNV,Furness Vale,25792,0
+FNW,Farnworth,50790,0
+FNY,Finchley Road and Frognal,1876386,0
+FOC,Falls Of Cruachan,1782,0
+FOD,Ford,116966,103334
+FOG,Forest Gate,5835876,0
+FOH,Forest Hill,4229240,0
+FOK,Four Oaks,701024,0
+FOR,Forres,131372,0
+FOX,Foxfield,14572,0
+FPK,Finsbury Park,11176026,2202802
+FRB,Fairbourne,44390,0
+FRD,Frodsham,269138,0
+FRE,Freshfield,589314,0
+FRF,Fairfield,25986,0
+FRI,Frinton-on-Sea,208700,0
+FRL,Fairlie,38032,0
+FRM,Fareham,1740046,148293
+FRN,Fearn,3780,0
+FRO,Frome,288048,101
+FRS,Forsinard,1562,0
+FRT,Frant,112566,0
+FRW,Fairwater,105640,0
+FRY,Ferriby,55512,0
+FSB,Fishbourne (Sussex),67938,0
+FSG,Fishersgate,97326,0
+FSK,Fiskerton,27828,0
+FST,London Fenchurch Street,10862630,843565
+FTM,Fort Matilda,115730,0
+FTN,Fratton,2080340,80911
+FTW,Fort William,176226,224
+FWY,Five Ways,1302172,0
+FXN,Foxton,98982,0
+FYS,Ferryside,16476,0
+FZH,Frizinghall,433232,0
+FZP,Furze Platt,178240,0
+FZW,Fitzwilliam,273296,723
+GAL,Galashiels,309374,0
+GAR,Garrowhill,369700,0
+GBD,Gilberdyke,76958,899
+GBG,Gorebridge,121090,0
+GBK,Greenbank,214818,0
+GBL,Gainsborough Lea Road,211442,96
+GBS,Goring-By-Sea,549464,0
+GCH,Garelochhead,17740,0
+GCR,Gloucester,1763556,153970
+GCT,Great Coates,6340,0
+GCW,Glan Conwy,7148,0
+GDH,Gordon Hill,1152836,0
+GDL,Godley,74244,0
+GDN,Godstone,67778,0
+GDP,Gidea Park,2998252,0
+GEA,Gretna Green,51464,0
+GER,Gerrards Cross,1102694,31531
+GFD,Greenford,140064,0
+GFF,Gilfach Fargoed,5142,0
+GFN,Giffnock,235042,0
+GGJ,Georgemas Junction,1992,0
+GGV,Gargrave,40672,0
+GIG,Giggleswick,15486,0
+GIL,Gillingham (Dorset),357614,0
+GIP,Gipsy Hill,1401264,0
+GIR,Girvan,61504,0
+GKC,Greenock Central,244898,675
+GKW,Greenock West,334786,0
+GLC,Glasgow Central,25293930,3879568
+GLD,Guildford,6372542,891662
+GLE,Gleneagles,104594,0
+GLF,Glenfinnan,18274,0
+GLG,Glengarnock,290886,0
+GLH,Glasshoughton,108944,0
+GLM,Gillingham (Kent),2542112,136775
+GLO,Glossop,739966,0
+GLQ,Glasgow Queen Street,14950752,2008872
+GLS,Glaisdale,19420,0
+GLT,Glenrothes with Thornton,50756,0
+GLY,Glynde,68736,0
+GLZ,Glazebrook,25546,0
+GMB,Grimsby Town,438712,20434
+GMD,Grimsby Docks,3676,0
+GMG,Garth (Bridgend County),22396,0
+GMN,Great Missenden,399198,0
+GMT,Grosmont,15484,0
+GMV,Great Malvern,428770,427
+GMY,Goodmayes,4772640,0
+GNB,Gainsborough Central,2372,57
+GNF,Greenfield,350528,0
+GNH,Greenhithe for Bluewater,856592,0
+GNL,Green Lane,374800,0
+GNR,Green Road,7480,0
+GNT,Gunton,36122,0
+GNW,Greenwich,2439476,0
+GOB,Gobowen,247608,0
+GOD,Godalming,1687572,0
+GOE,Goldthorpe,72756,0
+GOF,Golf Street,1292,0
+GOL,Golspie,5352,0
+GOM,Gomshall,58620,0
+GOO,Goole,324606,3309
+GOR,Goring and Streatley,360440,0
+GOS,Grange-Over-Sands,154568,0
+GOX,Goxhill,10864,0
+GPK,Grange Park,493126,0
+GPO,Gospel Oak,2664268,1749395
+GRA,Grantham,1484114,304676
+GRB,Great Bentley,105230,0
+GRC,Great Chesterford,100560,0
+GRF,Garforth,561056,0
+GRH,Gartcosh,180516,0
+GRK,Gourock,400706,0
+GRL,Greenfaulds,115778,0
+GRN,Grindleford,126460,0
+GRP,Grove Park,2296634,364629
+GRS,Garscadden,217630,0
+GRT,Grateley,281170,0
+GRV,Gravesend,2886256,277082
+GRY,Grays,3585722,105963
+GSC,Gilshochill,68720,0
+GSD,Garsdale,17054,0
+GSL,Gunnislake,50302,0
+GSN,Garston (Hertfordshire),53142,0
+GST,Gathurst,74078,0
+GSW,Garswood,135728,0
+GSY,Guiseley,1019178,0
+GTA,Great Ayton,13508,0
+GTH,Garth (Powys),1118,0
+GTN,Grangetown (Cardiff),258616,8399
+GTO,Gorton,58130,0
+GTR,Goostrey,39526,0
+GTW,Gatwick Airport,21211048,1156551
+GTY,Gatley,373524,0
+GUI,Guide Bridge,268220,4530
+GUN,Gunnersbury,1961546,0
+GVE,Garve,3964,0
+GVH,Gravelly Hill,390286,0
+GWE,Gwersyllt,29408,0
+GWN,Gowerton,158620,0
+GYM,Great Yarmouth,439660,164
+GYP,Gypsy Lane,44024,0
+HAB,Habrough,59518,586
+HAC,Hackney Downs,3015486,1880306
+HAD,Haddiscoe,14758,0
+HAF,Heathrow Terminal 4 (Rail Station Only),2058248,0
+HAG,Hagley,494246,0
+HAI,Halling,109218,0
+HAL,Hale (Manchester),130750,0
+HAM,Hamworthy,145478,0
+HAN,Hanwell,1691400,0
+HAP,Hatfield Peverel,361514,0
+HAS,Halesworth,124996,0
+HAT,Hatfield (Herts),2458060,0
+HAV,Havant,2082866,282970
+HAY,Hayes and Harlington,8450164,187003
+HAZ,Hazel Grove,518622,568
+HBB,Hubberts Bridge,764,0
+HBD,Hebden Bridge,907830,35136
+HBL,Headbolt Lane,1410668,17871
+HBN,Hollingbourne,62252,0
+HBP,Hornbeam Park,458274,0
+HBY,Hartlebury,66184,0
+HCB,Hackbridge,911110,0
+HCH,Holmes Chapel,243856,0
+HCN,Headcorn,578394,0
+HCT,Huncoat,24574,0
+HDB,Haydon Bridge,47444,0
+HDE,Hedge End,402116,0
+HDF,Hadfield,262940,0
+HDG,Heald Green,420190,3886
+HDH,Hampstead Heath,3511646,0
+HDL,Headstone Lane,516542,0
+HDM,Haddenham and Thame Parkway,888752,0
+HDN,Harlesden,1553164,0
+HDW,Hadley Wood,362264,0
+HDY,Headingley,391286,0
+HEC,Heckington,40268,0
+HED,Halewood,58030,0
+HEI,Heighington,37274,0
+HEL,Hensall,580,0
+HEN,Hendon,1027036,0
+HER,Hersham,722278,0
+HES,Hessle,82812,0
+HEV,Hever,46240,0
+HEW,Heworth,45528,0
+HEX,Hexham,431278,5679
+HFD,Hereford,1229916,45539
+HFE,Hertford East,1076556,0
+HFN,Hertford North,1031580,446
+HFS,Hatfield and Stainforth,72000,9174
+HFX,Halifax,1803018,55050
+HGD,Hungerford,311612,0
+HGF,Hag Fold,73542,0
+HGG,Haggerston,3651250,0
+HGM,Higham,138280,7
+HGN,Hough Green,192584,0
+HGR,Hither Green,2899052,212143
+HGS,Hastings,2168544,33339
+HGT,Harrogate,1879366,1439
+HGY,Harringay,1140210,0
+HHB,Heysham Port,12764,0
+HHD,Holyhead,236886,433
+HHE,Haywards Heath,3957580,383780
+HHL,Heath High Level,424834,0
+HHY,Highbury and Islington,23982528,3233923
+HIA,Hampton-In-Arden,210864,0
+HIB,High Brooms,1148824,0
+HID,Hall-I'-Th'-Wood,196486,0
+HIG,Highbridge and Burnham,248906,0
+HIL,Hillside,641590,0
+HIN,Hindley,240130,26115
+HIP,Highams Park,2737710,0
+HIR,Horton-In-Ribblesdale,23176,0
+HIT,Hitchin,2940178,170803
+HKC,Hackney Central,5316954,1782085
+HKH,Hawkhead,217388,0
+HKM,Hykeham,208754,0
+HKN,Hucknall,168608,0
+HKW,Hackney Wick,4211192,1
+HLB,Hildenborough,352930,0
+HLC,Helensburgh Central,671306,0
+HLD,Hellifield,42272,766
+HLE,Hillington East,230266,0
+HLF,Hillfoot,258436,0
+HLG,Hall Green,339132,0
+HLI,Healing,6680,0
+HLL,Heath Low Level,47556,0
+HLM,Holmwood,55806,0
+HLN,Harlington (Bedfordshire),307596,0
+HLR,Hall Road,383818,0
+HLS,Hilsea,360224,38086
+HLU,Helensburgh Upper,12520,9926
+HLW,Hillington West,274120,0
+HLY,Holytown,165274,2
+HMC,Hampton Court,1469460,0
+HMD,Hampden Park (Sussex),861166,185554
+HME,Hamble,89658,0
+HML,Hemel Hempstead,1610586,11101
+HMM,Hammerton,56850,0
+HMN,Homerton,4685786,0
+HMP,Hampton (London),948726,0
+HMS,Helmsdale,4242,0
+HMT,Ham Street,81830,0
+HMW,Hampton Wick,810634,0
+HMY,Hairmyres,436178,0
+HNA,Hinton Admiral,134158,0
+HNB,Herne Bay,834602,0
+HNC,Hamilton Central,686520,6116
+HND,Hanborough,376462,0
+HNF,Hednesford,276156,0
+HNG,Hengoed,128690,0
+HNH,Herne Hill,2434224,1029213
+HNK,Hinckley (Leics),377764,0
+HNL,Henley-In-Arden,88760,0
+HNT,Huntly,65636,0
+HNW,Hamilton West,683164,0
+HNX,Hunts Cross,1400326,5915
+HOC,Hockley,818190,0
+HOH,Harrow-On-The-Hill,3069228,0
+HOK,Hook,487728,0
+HOL,Holton Heath,42058,0
+HON,Honiton,337040,9084
+HOO,Hooton,729906,94154
+HOP,Hope (Derbyshire),97946,0
+HOR,Horley,1312392,0
+HOT,Henley-On-Thames,835354,0
+HOU,Hounslow,850306,1382
+HOV,Hove,2028988,208086
+HOW,Howden,135878,0
+HOX,Hoxton,4083552,0
+HOY,Honley,45226,0
+HOZ,Howwood (Renfrewshire),75126,0
+HPA,Honor Oak Park,2553270,0
+HPD,Harpenden,2806312,5864
+HPE,Hope (Flintshire),23332,0
+HPL,Hartlepool,713672,3344
+HPN,Hapton,13360,0
+HPQ,Harwich International,117528,3
+HPT,Hopton Heath,2230,0
+HRD,Harling Road,1768,0
+HRE,Horden,164582,0
+HRH,Horsham,2464238,76483
+HRL,Harlech,129000,0
+HRM,Harrietsham,98904,0
+HRN,Hornsey,1664926,0
+HRO,Harold Wood,3637666,0
+HRR,Harrington,36300,0
+HRS,Horsforth,889978,3995
+HRW,Harrow and Wealdstone,3966818,496471
+HRY,Harringay Green Lanes,1425034,0
+HSB,Helsby,123710,85005
+HSC,Hoscar,802,0
+HSD,Hamstead (Birmingham),230862,0
+HSG,Hathersage,112126,0
+HSK,Hassocks,1254686,0
+HSL,Haslemere,1457816,62499
+HST,High Street (Glasgow),841292,0
+HSW,Heswall,91244,0
+HSY,Horsley,348950,0
+HTC,Heaton Chapel,623242,0
+HTE,Hatch End,695916,0
+HTF,Hartford (Cheshire),218272,0
+HTH,Handforth,333294,0
+HTN,Hatton,34912,0
+HTO,Hightown,297352,0
+HTW,Hartwood,15140,0
+HTY,Hattersley,87516,0
+HUB,Hunmanby,40664,0
+HUD,Huddersfield,3136040,751429
+HUL,Hull,2908428,75196
+HUN,Huntingdon,1572480,0
+HUP,Humphrey Park,30068,0
+HUR,Hurst Green,515280,47862
+HUT,Hutton Cranswick,44492,0
+HUY,Huyton,694522,23207
+HVF,Haverfordwest,113300,0
+HVN,Havenhouse,902,0
+HWB,Hawarden Bridge,10230,0
+HWC,Harwich Town,112064,0
+HWD,Hawarden,30564,0
+HWH,Haltwhistle,96252,0
+HWI,Horwich Parkway,549902,0
+HWM,Harlow Mill,278544,0
+HWN,Harlow Town,1847334,0
+HWV,Heathrow Terminal 5 (Rail Station Only),4704568,0
+HWW,How Wood (Hertfordshire),29104,0
+HWY,High Wycombe,2160748,75476
+HXM,Hoveton and Wroxham,134424,0
+HXX,Heathrow Terminals 2 and 3 (Rail Station Only),7938962,0
+HYB,Honeybourne,113180,0
+HYC,Hyde Central,68992,0
+HYD,Heyford,45552,0
+HYH,Hythe (Essex),433168,0
+HYK,Hoylake,470456,0
+HYL,Hayle,154548,0
+HYM,Haymarket,3334408,730121
+HYN,Hyndland,1389628,989587
+HYR,Haydons Road,322800,0
+HYS,Hayes (Kent),940160,0
+HYT,Hyde North,43946,0
+HYW,Hinchley Wood,283410,0
+IFD,Ilford,10927468,47
+IFI,Ifield,257986,0
+IGD,Invergordon,23476,0
+ILK,Ilkley,1358126,0
+ILN,Ilkeston,203260,0
+IMW,Imperial Wharf,2859328,0
+INC,Ince (Manchester),12836,0
+INE,Ince and Elton (Cheshire),98,0
+ING,Invergowrie,22066,0
+INH,Invershin,362,0
+INK,Inverkeithing,953162,44854
+INP,Inverkip,82900,0
+INR,Inverurie,359792,0
+INS,Insch,66866,0
+INT,Ingatestone,779214,0
+INV,Inverness,1172640,54976
+IPS,Ipswich,3371206,761485
+IRL,Irlam,262430,0
+IRV,Irvine,685016,0
+ISL,Isleworth,956838,0
+ISP,Islip,39188,0
+IVA,Inverness Airport,61166,0
+IVR,Iver,362658,0
+IVY,Ivybridge,136994,0
+JCH,James Cook University Hospital,60804,0
+JEQ,Jewellery Quarter,446292,0
+JHN,Johnstone (Renfrewshire),1139862,0
+JOH,Johnston (Pembs),9062,0
+JOR,Jordanhill,264422,0
+KBC,Kinbrace,406,0
+KBF,Kirkby-In-Furness,22706,0
+KBK,Kents Bank,30544,0
+KBN,Kilburn High Road,758448,0
+KBW,Knebworth,436866,0
+KBX,Kirby Cross,62896,0
+KCK,Knockholt,188588,0
+KDB,Kidbrooke,1620822,0
+KDG,Kidsgrove,287730,31758
+KDY,Kirkcaldy,856236,19552
+KEH,Keith,76798,0
+KEI,Keighley,1405910,1285
+KEL,Kelvedon,599812,0
+KEM,Kemble,444760,0
+KEN,Kendal,180094,0
+KET,Kettering,1136558,431919
+KEY,Keyham,16126,0
+KGE,Kingsknowe,34444,0
+KGH,Kinghorn,97662,0
+KGL,Kings Langley,507206,0
+KGM,Kingham,251844,0
+KGN,Kings Nympton,6498,0
+KGP,Kings Park,191560,0
+KGS,Kings Sutton,82030,0
+KGT,Kilgetty,17452,0
+KGX,London Kings Cross,27727108,1552750
+KID,Kidderminster,1242114,0
+KIL,Kildonan,312,0
+KIN,Kingussie,42058,0
+KIR,Kirkby (Merseyside),1605216,6943
+KIT,Kintbury,75280,0
+KIV,Kiveton Bridge,69186,0
+KKB,Kirkby-in-Ashfield,121654,0
+KKD,Kirkdale,930362,119835
+KKH,Kirkhill,64162,0
+KKM,Kirkham and Wesham,397926,6044
+KKN,Kirknewton,71168,0
+KKS,Kirk Sandall,85804,0
+KLD,Kildale,1672,0
+KLF,Kirkstall Forge,378822,0
+KLM,Kilmaurs,82350,0
+KLN,Kings Lynn,853200,410
+KLY,Kenley,268508,0
+KMH,Kempston Hardwick,9782,0
+KMK,Kilmarnock,467114,6916
+KML,Kemsley,208860,0
+KMP,Kempton Park Racecourse,58120,0
+KMS,Kemsing,16834,0
+KNA,Knaresborough,605486,0
+KND,Kingswood,150156,0
+KNE,Kennett,53638,0
+KNF,Knutsford,371236,0
+KNG,Kingston,4360664,0
+KNI,Knighton,19208,0
+KNL,Kensal Green,999796,0
+KNN,Kings Norton,933856,5861
+KNO,Knottingley,156292,0
+KNR,Kensal Rise,2607790,0
+KNS,Kennishead,157902,0
+KNT,Kenton,1438022,0
+KNU,Knucklas,4156,0
+KNW,Kenilworth,181266,0
+KPA,Kensington Olympia,2831588,14596
+KPT,Kilpatrick,76814,0
+KRK,Kirkconnel,18724,0
+KSL,Kearsley (Manchester),54888,0
+KSN,Kearsney (Kent),47626,0
+KSW,Kirkby Stephen,35744,0
+KTH,Kent House,814336,0
+KTL,Kirton Lindsey,740,0
+KTN,Kentish Town,2589668,0
+KTR,Kintore,124436,0
+KTW,Kentish Town West,1886418,0
+KVD,Kelvindale,58426,0
+KVP,Kiveton Park,58108,0
+KWB,Kew Bridge,1162156,0
+KWD,Kirkwood,135706,0
+KWG,Kew Gardens,1368612,0
+KWL,Kidwelly,34566,0
+KWN,Kilwinning,781106,83979
+KYL,Kyle Of Lochalsh,46788,0
+KYN,Keynsham,566218,0
+LAC,Lancing,979620,0
+LAD,Ladywell,1254886,0
+LAG,Langwith-Whaley Thorns,9816,0
+LAI,Laindon,1926978,0
+LAK,Lakenheath,920,0
+LAM,Lamphey,5862,0
+LAN,Lancaster,2184042,450228
+LAP,Lapford,8488,0
+LAR,Largs,384942,0
+LAS,Llansamlet,38484,0
+LAU,Laurencekirk,87390,0
+LAW,Landywood,168684,0
+LAY,Layton (Lancs),74558,0
+LBG,London Bridge,54685648,6980031
+LBK,Long Buckby,330332,0
+LBO,Loughborough,1421786,13159
+LBR,Llanbedr,14612,0
+LBT,Larbert,812100,0
+LBZ,Leighton Buzzard,1523698,0
+LCC,Lochluichart,424,0
+LCG,Lochgelly,57418,0
+LCK,Lockwood,47656,0
+LCL,Lochailort,2438,0
+LCN,Lincoln,2286040,19773
+LCS,Locheilside,462,0
+LDN,Llandanwg,6086,0
+LDS,Leeds,27309508,2877961
+LDY,Ladybank,86454,4348
+LEA,Leagrave,1496012,0
+LEB,Lea Bridge,877314,0
+LED,Ledbury,194606,3
+LEE,Lee (London),1482668,0
+LEG,Lea Green,400690,0
+LEH,Lea Hall,442584,0
+LEI,Leicester,5527136,517869
+LEL,Lelant,31072,0
+LEM,Leyton Midland Road,1551332,0
+LEN,Lenham,130998,0
+LEO,Leominster,260220,17
+LER,Leytonstone High Road,1151934,0
+LES,Leigh-On-Sea,1689868,0
+LET,Letchworth Garden City,1779634,0
+LEU,Leuchars (For St. Andrews),584032,0
+LEV,Leven,185424,0
+LEW,Lewisham,7023970,1504910
+LEY,Leyland,450718,0
+LFD,Lingfield,415280,0
+LGB,Langbank,62206,0
+LGD,Lingwood,49708,0
+LGE,Long Eaton,651792,11535
+LGF,Longfield,438942,0
+LGG,Langley Green,161198,0
+LGJ,Loughborough Junction,1233640,0
+LGK,Longbeck,58346,0
+LGM,Langley Mill,100238,0
+LGN,Longton,81226,0
+LGO,Llangynllo,752,0
+LGS,Langside,225812,0
+LGW,Langwathby,20288,0
+LHA,Loch Awe,6166,0
+LHD,Leatherhead,1480646,12718
+LHE,Loch Eil Outward Bound,5294,0
+LHM,Lealholm,6868,0
+LHO,Langho,36914,0
+LHS,Limehouse,2559778,0
+LHW,Lochwinnoch,134594,0
+LIC,Lichfield City,777334,0
+LID,Lidlington,16576,0
+LIH,Leigh (Kent),41564,0
+LIN,Linlithgow,1058874,0
+LIP,Liphook,608654,0
+LIS,Liss,308448,0
+LIT,Littlehampton,804446,890
+LIV,Liverpool Lime Street,14430214,986504
+LKE,Lake,19744,0
+LLA,Llanaber,3844,0
+LLC,Llandecwyn,1226,0
+LLD,Llandudno,456052,0
+LLE,Llanelli,392682,23059
+LLF,Llanfairfechan,37652,0
+LLG,Llangadog,4016,0
+LLH,Llangennech,4322,0
+LLI,Llandybie,8604,0
+LLJ,Llandudno Junction,397122,161394
+LLL,Llandeilo,15906,0
+LLM,Llangammarch,2156,0
+LLN,Llandaf,430768,0
+LLO,Llandrindod,30278,0
+LLR,Llanharan,125092,0
+LLS,Llanishen,225800,0
+LLT,Llanbister Road,990,0
+LLV,Llandovery,13702,0
+LLW,Llwyngwril,38780,0
+LLY,Llwynypia,53140,0
+LMR,Low Moor,292378,0
+LMS,Leamington Spa,2544520,228744
+LNB,Llanbradach,69198,0
+LND,Longniddry,205200,0
+LNG,Longcross,84920,0
+LNK,Lanark,263532,0
+LNR,Llanwrda,1186,0
+LNW,Llanwrtyd,5300,0
+LNY,Langley (Berks),1153338,0
+LNZ,Lenzie,719886,0
+LOB,Longbridge,891698,0
+LOC,Lockerbie,210848,0
+LOF,London Fields,1911346,0
+LOH,Lostock Hall,24366,0
+LOO,Looe,119600,0
+LOS,Lostwithiel,94184,0
+LOT,Lostock,285908,0
+LOW,Lowdham,55184,0
+LPG,Llanfairpwll,38650,0
+LPR,Long Preston,18214,460
+LPT,Longport,79242,0
+LPW,Lapworth,38396,0
+LPY,Liverpool South Parkway,2164108,231539
+LRB,London Road (Brighton),391726,0
+LRD,London Road (Guildford),868894,0
+LRG,Lairg,3978,0
+LRH,Larkhall,254940,0
+LSK,Liskeard,353556,63806
+LSN,Livingston North,1033616,0
+LST,London Liverpool Street,98015658,6534549
+LSW,Leasowe,520920,0
+LSY,Lower Sydenham,786602,0
+LTG,Lostock Gralam,60696,0
+LTH,Llanhilleth,94018,0
+LTK,Little Kimble,8926,0
+LTL,Littleborough,378280,0
+LTM,Lytham,128104,0
+LTN,Luton Airport Parkway,4740742,7632
+LTP,Littleport,251780,0
+LTS,Lelant Saltings,650,0
+LTT,Little Sutton,184024,0
+LTV,Lichfield Trent Valley,887958,83390
+LUD,Ludlow,271100,477
+LUT,Luton,3665966,73669
+LUX,Luxulyan,3196,0
+LVC,Liverpool Central,14820216,1018090
+LVG,Livingston South,370340,0
+LVJ,Liverpool James Street,3120046,0
+LVM,Levenshulme,472012,0
+LVN,Littlehaven,281142,0
+LVT,Lisvane and Thornhill,241176,0
+LWH,Lawrence Hill,339856,0
+LWM,Llantwit Major,265804,0
+LWR,Llanrwst,27604,0
+LWS,Lewes,2626246,581212
+LWT,Lowestoft,468156,9861
+LYC,Lympstone Commando,86996,0
+LYD,Lydney,194028,0
+LYE,Lye (West Midlands),81124,0
+LYM,Lympstone Village,92994,0
+LYP,Lymington Pier,100770,0
+LYT,Lymington Town,242040,0
+LZB,Lazonby and Kirkoswald,18548,0
+MAC,Macclesfield,1486408,8728
+MAG,Maghull,1299672,0
+MAI,Maidenhead,4850106,644539
+MAL,Malden Manor,484006,0
+MAN,Manchester Piccadilly,27401610,2144028
+MAO,Martins Heron,432940,0
+MAR,Margate,1287330,9245
+MAS,Manors,63914,0
+MAT,Matlock,227012,0
+MAU,Mauldeth Road,318064,0
+MAX,Maxwell Park,116450,0
+MAY,Maybole,35058,0
+MBK,Millbrook (Hants),36446,0
+MBR,Middlesbrough,1543226,86879
+MBT,Marsh Barton,108848,0
+MCB,Moulsecoomb,444586,0
+MCE,MetroCentre,632322,0
+MCH,March,373732,64
+MCM,Morecambe,174950,0
+MCN,Machynlleth,128212,68832
+MCO,Manchester Oxford Road,6392614,957922
+MCV,Manchester Victoria,8378502,1183890
+MDB,Maidstone Barracks,274994,4295
+MDE,Maidstone East,1727430,28955
+MDG,Midgham,44038,0
+MDL,Middlewood,21278,0
+MDN,Maiden Newton,21882,0
+MDS,Morden South,75948,0
+MDW,Maidstone West,561432,71567
+MEC,Meols Cop,78640,0
+MEL,Meldreth,245846,0
+MEN,Menheniot,6232,0
+MEO,Meols,414164,0
+MEP,Meopham,258728,0
+MER,Merthyr Tydfil,412970,0
+MES,Melton (Suffolk),89082,0
+MEV,Merthyr Vale,59920,0
+MEW,Maesteg (Ewenny Road),17476,0
+MEX,Mexborough,170228,0
+MEY,Merryton,74472,0
+MFA,Morfa Mawddach,13508,0
+MFF,Minffordd,18174,0
+MFH,Milford Haven,55930,0
+MFL,Mount Florida,1184706,5394
+MFT,Mansfield,323412,0
+MGM,Metheringham,81930,0
+MGN,Marston Green,589260,0
+MHM,Merstham,744448,0
+MHR,Market Harborough,943468,0
+MHS,Meadowhall,1910838,48761
+MIA,Manchester Airport,5518084,21499
+MIC,Micheldever,131552,0
+MIH,Mills Hill (Manchester),303860,0
+MIJ,Mitcham Junction,408018,0
+MIK,Micklefield,220364,2024
+MIL,Mill Hill Broadway,1874860,125
+MIM,Moreton-In-Marsh,375804,0
+MIN,Milliken Park,196074,0
+MIR,Mirfield,364112,43652
+MIS,Mistley,63776,0
+MKC,Milton Keynes Central,6099600,240791
+MKM,Melksham,60930,0
+MKR,Market Rasen,65162,0
+MKT,Marks Tey,474352,339446
+MLB,Millbrook (Bedfordshire),9282,0
+MLD,Mouldsworth,25904,0
+MLF,Milford (Surrey),193900,0
+MLG,Mallaig,90476,0
+MLH,Mill Hill (Lancs),60484,0
+MLM,Millom,186654,0
+MLN,Milngavie,762998,0
+MLT,Malton,375622,0
+MLW,Marlow,361450,0
+MLY,Morley,274298,0
+MMO,Melton Mowbray,257134,0
+MNC,Markinch,235210,0
+MNE,Manea,29708,0
+MNG,Manningtree,1043404,248801
+MNN,Menston,658260,0
+MNP,Manor Park,4426692,0
+MNR,Manor Road,293490,0
+MNS,Maghull North,613510,0
+MOB,Mobberley,22512,0
+MOG,Moorgate,8791382,380285
+MON,Monifieth,43194,0
+MOO,Muir Of Ord,46002,0
+MOR,Mortimer,157958,0
+MOS,Moss Side,4778,0
+MOT,Motspur Park,822372,7759
+MPK,Mosspark,129970,0
+MPL,Marple,325750,0
+MPT,Morpeth,622614,1620
+MRB,Manorbier,9896,0
+MRD,Morchard Road,21854,0
+MRF,Moorfields,6630098,851735
+MRN,Marden (Kent),485824,0
+MRP,Moorthorpe,207902,0
+MRR,Morar,4290,0
+MRS,Monks Risborough,20538,0
+MRT,Moreton (Merseyside),552768,0
+MRW,Meridian Water,494354,0
+MRY,Maryport,117158,0
+MSD,Moorside,42856,0
+MSH,Mossley Hill,199224,0
+MSK,Marske,62908,0
+MSL,Mossley (Manchester),260288,0
+MSN,Marsden (Yorks),220584,0
+MSO,Moston,105960,0
+MSR,Minster,91432,1918
+MSS,Moses Gate,36928,0
+MST,Maesteg,156162,0
+MSW,Mansfield Woodhouse,122546,0
+MTA,Mountain Ash,130748,0
+MTB,Matlock Bath,83590,0
+MTC,Mitcham Eastfields,1318094,0
+MTG,Mottingham,1374680,0
+MTH,Motherwell,1049030,100406
+MTL,Mortlake,1546638,0
+MTM,Martin Mill,68058,0
+MTN,Moreton (Dorset),78828,0
+MTO,Marton,32222,0
+MTP,Montpelier,252028,0
+MTS,Montrose,317406,0
+MTV,Mount Vernon,63544,0
+MUB,Musselburgh,461092,0
+MUI,Muirend,336620,0
+MVL,Malvern Link,320672,14831
+MYB,London Marylebone,11772892,1036405
+MYH,Maryhill,85594,0
+MYL,Maryland,4055440,0
+MYT,Mytholmroyd,195820,0
+MZH,Maze Hill,1397904,0
+NAN,Nantwich,223396,0
+NAR,Narberth,22492,0
+NAY,Newton Aycliffe,78114,0
+NBA,New Barnet,1272760,0
+NBC,New Beckenham,721184,0
+NBE,Newbridge,152740,0
+NBN,New Brighton,1192234,0
+NBR,Narborough,293674,0
+NBT,Norbiton,2269820,0
+NBW,North Berwick,566242,0
+NBY,Newbury,1538658,130672
+NCE,New Clee,3550,0
+NCK,New Cumnock,23022,0
+NCL,Newcastle,10548216,428980
+NCM,North Camp,251252,0
+NCO,Newcourt,154772,0
+NCT,Newark Castle,618574,33213
+NDL,North Dulwich,730666,0
+NEG,Newtongrange,149962,0
+NEH,New Eltham,2038220,0
+NEI,Neilston,375994,0
+NEL,Nelson,113780,0
+NEM,New Malden,3077144,33976
+NES,Neston,41204,0
+NET,Netherfield,10000,0
+NEW,Newcraighall,233352,0
+NFA,North Fambridge,69574,0
+NFD,Northfield,643106,0
+NFL,Northfleet,257642,0
+NFN,Nafferton,40808,0
+NGT,Newington,140788,0
+NHD,Nunhead,997310,0
+NHE,New Hythe,184448,0
+NHL,New Holland,10354,0
+NIT,Nitshill,131358,0
+NLN,New Lane,2140,0
+NLR,North Llanrwst,4392,0
+NLS,Nailsea and Backwell,476312,0
+NLT,Northolt Park,176218,0
+NLW,Newton-Le-Willows,1106560,363013
+NMC,New Mills Central,162396,2082
+NMK,Newmarket,374156,0
+NMN,New Mills Newtown,212402,0
+NMP,Northampton,2847378,1079
+NMT,Needham Market,129588,0
+NNG,Newark Northgate,1078800,141774
+NNP,Ninian Park,156046,0
+NNT,Nunthorpe,59464,0
+NOA,Newton-On-Ayr,80008,0
+NOR,Normanton,202022,0
+NOT,Nottingham,8112724,557919
+NPD,New Pudsey,789024,0
+NQU,North Queensferry,121520,0
+NQY,Newquay,125534,0
+NRB,Norbury,2348766,0
+NRC,Newbury Racecourse,114628,0
+NRD,North Road (Darlington),51248,0
+NRN,Nairn,137890,0
+NRT,Nethertown,1334,0
+NRW,Norwich,4556674,553617
+NSB,Normans Bay,22490,0
+NSD,Newstead,32816,0
+NSG,New Southgate,920392,0
+NSH,North Sheen,342020,0
+NTA,Newton Abbot,1334872,514502
+NTC,Newton St Cyres,7648,0
+NTH,Neath,838778,0
+NTL,Netley,82450,0
+NTN,Newton (Lanark),609912,55407
+NTR,Northallerton,797766,0
+NUF,Nutfield,54730,0
+NUM,Northumberland Park,1052358,0
+NUN,Nuneaton,1353578,601480
+NUT,Nutbourne,66914,0
+NVH,Newhaven Harbour,27934,0
+NVN,Newhaven Town,430560,0
+NVR,Navigation Road,96498,0
+NWA,North Walsham,227692,0
+NWB,North Wembley,1231422,0
+NWD,Norwood Junction,4627090,909783
+NWE,Newport (Essex),206012,0
+NWH,Newsham,15576,0
+NWI,Northwich,188520,0
+NWM,New Milton,555078,0
+NWN,Newton For Hyde,139956,0
+NWP,Newport (South Wales),2817472,563224
+NWR,Newtonmore,8454,0
+NWT,Newtown (Powys),171366,0
+NWX,New Cross,3180844,469891
+NXG,New Cross Gate,4550170,129133
+OBN,Oban,201750,0
+OCK,Ockendon,1027566,0
+OHL,Old Hill,153512,0
+OKE,Okehampton,347920,0
+OKL,Oakleigh Park,924194,0
+OKM,Oakham,226030,3005
+OKN,Oakengates,71964,0
+OLD,Old Street,6077166,0
+OLF,Oldfield Park,385994,0
+OLT,Olton,462908,0
+OLY,Ockley,34176,0
+OMS,Ormskirk,2297090,24090
+OPK,Orrell Park,976174,0
+ORE,Ore,272106,0
+ORN,Old Roan,963306,0
+ORP,Orpington,4989622,725083
+ORR,Orrell,97674,0
+OTF,Otford,445500,48704
+OUN,Oulton Broad North,137218,0
+OUS,Oulton Broad South,60488,0
+OUT,Outwood,310366,0
+OVE,Overpool,224060,0
+OVR,Overton,174202,0
+OXF,Oxford,8145214,539490
+OXN,Oxenholme Lake District,675144,701346
+OXP,Oxford Parkway,654542,0
+OXS,Oxshott,449494,0
+OXT,Oxted,1336338,0
+PAD,London Paddington,69897084,3848407
+PAL,Palmers Green,1557022,0
+PAN,Pangbourne,373542,0
+PAR,Par,222704,101405
+PAT,Patricroft,147502,0
+PBL,Parbold,98762,0
+PBO,Peterborough,5299726,960218
+PBR,Potters Bar,2486164,51414
+PBY,Pembrey and Burry Port,130610,0
+PCD,Pencoed,232302,0
+PCN,Paisley Canal,299938,0
+PDG,Padgate,118198,0
+PDW,Paddock Wood,1090192,169808
+PEA,Peartree,5256,0
+PEB,Pevensey Bay,5848,0
+PEG,Pegswood,1468,0
+PEM,Pemberton,48658,0
+PEN,Penarth,507526,0
+PER,Penrhiwceiber,46492,0
+PES,Pensarn (Gwynedd),1636,0
+PET,Petts Wood,1707602,0
+PEV,Pevensey and Westham,165740,0
+PEW,Pewsey,209098,0
+PFL,Purfleet,572914,0
+PFM,Pontefract Monkhill,228628,9912
+PFR,Pontefract Baghill,18130,0
+PFY,Poulton-Le-Fylde,630046,0
+PGM,Pengam,214248,0
+PGN,Paignton,707018,24
+PHG,Penhelig,8192,0
+PHR,Penshurst,46678,0
+PIL,Pilning,294,0
+PIN,Pinhoe,231830,0
+PIT,Pitlochry,131400,0
+PKG,Penkridge,292594,0
+PKS,Parkstone (Dorset),229410,0
+PKT,Park Street,22170,0
+PLC,Pluckley,114656,0
+PLD,Portslade,1034778,0
+PLE,Pollokshields East,337600,0
+PLG,Polegate,1079980,0
+PLK,Plockton,10396,0
+PLM,Plumley,18548,0
+PLN,Portlethen,68214,0
+PLS,Pleasington,9764,0
+PLT,Pontlottyn,31640,0
+PLU,Plumstead,923038,0
+PLW,Pollokshields West,146994,0
+PLY,Plymouth,2672762,128466
+PMA,Portsmouth Arms,596,0
+PMB,Pembroke,35106,0
+PMD,Pembroke Dock,46394,0
+PMH,Portsmouth Harbour,2091304,44300
+PMP,Plumpton,104762,0
+PMR,Peckham Rye,6136674,1140205
+PMS,Portsmouth and Southsea,1585586,26477
+PMT,Polmont,696294,0
+PMW,Penmaenmawr,19668,0
+PNA,Penally,8964,0
+PNC,Penychain,8892,0
+PNE,Penge East,1235544,93
+PNF,Penyffordd,28554,0
+PNL,Pannal,191634,0
+PNM,Penmere,208582,0
+PNR,Penrith (North Lakes),715822,208586
+PNS,Penistone,162898,0
+PNW,Penge West,634966,0
+PNY,Pen-Y-Bont (Mid Wales),1264,0
+PNZ,Penzance,685470,4548
+POK,Pokesdown,377104,0
+POL,Polsloe Bridge,188694,0
+PON,Ponders End,884028,0
+POO,Poole,965090,6630
+POP,Poppleton,120380,0
+POR,Porth,224524,0
+POT,Pontefract Tanshelf,98558,0
+PPD,Pontypridd,779980,32696
+PPK,Possilpark and Parkhouse,87906,0
+PPL,Pontypool and New Inn,127216,0
+PRA,Prestwick International Airport,85954,0
+PRB,Prestbury,64196,0
+PRE,Preston (Lancs),5356076,1228102
+PRH,Penrhyndeudraeth,61622,0
+PRI,Portway Park and Ride,59376,0
+PRL,Prittlewell,362280,0
+PRN,Parton,12556,0
+PRP,Preston Park,1126092,0
+PRR,Princes Risborough,513436,113434
+PRS,Prees,9328,0
+PRT,Prestatyn,368882,0
+PRU,Prudhoe,184264,0
+PRW,Perranwell,41538,0
+PRY,Perry Barr,184662,0
+PSC,Prescot,292684,0
+PSE,Pitsea,1143894,191581
+PSH,Pershore,115878,0
+PSL,Port Sunlight,678432,0
+PSN,Parson Street,204214,0
+PST,Prestonpans,257514,0
+PSW,Polesworth,154,0
+PTA,Port Talbot Parkway,612070,0
+PTB,Pentre-Bach,30388,0
+PTC,Portchester,366574,0
+PTD,Pontarddulais,6412,0
+PTF,Pantyffynnon,4910,0
+PTG,Port Glasgow,390992,9767
+PTH,Perth,853236,110940
+PTK,Partick,3091680,560824
+PTL,Priesthill and Darnley,167280,0
+PTM,Porthmadog,100700,0
+PTR,Petersfield,1221202,6732
+PTT,Patterton,488400,0
+PTW,Prestwick Town,340592,0
+PUL,Pulborough,320322,0
+PUO,Purley Oaks,480890,0
+PUR,Purley,2777102,576772
+PUT,Putney,5645484,0
+PWE,Pollokshaws East,362074,0
+PWL,Pwllheli,98420,0
+PWW,Pollokshaws West,304684,0
+PWY,Patchway,94176,0
+PYC,Pontyclun,277812,0
+PYE,Pye Corner,124914,0
+PYG,Paisley Gilmour Street,3241120,193147
+PYJ,Paisley St James,96238,0
+PYL,Pyle,104258,0
+PYN,Penryn (Cornwall),284974,0
+PYP,Pont-y-Pant,994,0
+PYT,Poynton,209572,0
+QBR,Queenborough,196028,0
+QPK,Queens Park (Glasgow),728778,0
+QPW,Queens Park (London),4882030,0
+QRB,Queenstown Road (Battersea),806010,0
+QRP,Queens Road (Peckham),2914668,13021
+QUI,Quintrell Downs,3514,0
+QYD,Quakers Yard,53228,0
+RAD,Radley,131590,0
+RAI,Rainham (Kent),1702048,7214
+RAM,Ramsgate,1375656,186228
+RAN,Rannoch,7802,0
+RAU,Rauceby,5004,0
+RAV,Ravenglass for Eskdale,38812,0
+RAY,Raynes Park,3497682,97448
+RBR,Robertsbridge,274328,0
+RCA,Risca and Pontymister,95416,0
+RCC,Redcar Central,411366,0
+RCD,Rochdale,1629872,74104
+RCE,Redcar East,106420,0
+RDA,Redland,230370,0
+RDB,Redbridge,33394,2375
+RDC,Redditch,910428,0
+RDD,Riddlesdown,287038,0
+RDF,Radcliffe (Nottinghamshire),13844,0
+RDG,Reading,14324664,4057839
+RDH,Redhill,3175326,699087
+RDM,Riding Mill,33170,0
+RDN,Reddish North,163300,0
+RDR,Radyr,450356,67009
+RDS,Reddish South,102,0
+RDT,Radlett,1270406,0
+RDW,Reading West,481548,15434
+REC,Rectory Road,1325536,0
+RED,Redruth,415576,0
+REE,Reedham (Norfolk),41566,890
+REI,Reigate,1168558,0
+RET,Retford,602590,104595
+RFD,Rochford,671248,0
+RFY,Rock Ferry,686206,0
+RGL,Rugeley Trent Valley,201346,65040
+RGP,Reading Green Park,221482,0
+RGT,Rugeley Town,185286,0
+RGW,Ramsgreave and Wilpshire,91780,0
+RHD,Ribblehead,33682,0
+RHI,Rhiwbina,81840,0
+RHL,Rhyl,611984,0
+RHM,Reedham (London),105708,0
+RHO,Rhosneigr,14042,0
+RHY,Rhymney,122510,0
+RIA,Rhoose Cardiff International Airport,172314,0
+RIC,Rickmansworth,998182,0
+RID,Ridgmont,17682,0
+RIL,Rice Lane,422834,0
+RIS,Rishton,41332,0
+RKT,Ruskington,70984,0
+RLG,Rayleigh,1552860,0
+RLN,Rowlands Castle,132580,0
+RMB,Roman Bridge,612,0
+RMC,Rotherham Central,463418,3179
+RMD,Richmond (London),9515642,1110813
+RMF,Romford,12143302,641463
+RML,Romiley,287016,9807
+RNF,Rainford,26220,0
+RNH,Rainhill,186148,0
+RNM,Rainham (Essex),1525196,0
+RNR,Roughton Road,21340,0
+ROB,Roby,201256,0
+ROC,Roche,5230,0
+ROE,Rotherhithe,1739436,0
+ROG,Rogart,1084,0
+ROL,Rolleston,4602,0
+ROM,Romsey,456802,0
+ROO,Roose,79286,0
+ROR,Rogerstone,87268,0
+ROS,Rosyth,198140,0
+ROW,Rowley Regis,1014812,0
+RRB,Ryder Brow,28052,0
+RRN,Robroyston,243276,0
+RSG,Rose Grove,73300,5674
+RSH,Rose Hill Marple,119744,0
+RSN,Reston,29896,0
+RTN,Renton,67362,0
+RTR,Rochester,2059228,42930
+RUA,Ruabon,117454,0
+RUE,Runcorn East,195576,0
+RUF,Rufford,24438,0
+RUG,Rugby,2392296,170035
+RUN,Runcorn,731962,53679
+RUS,Ruswarp,4112,0
+RUT,Rutherglen,871338,0
+RVB,Ravensbourne,235210,0
+RVN,Ravensthorpe,31442,0
+RWC,Rawcliffe,412,0
+RYB,Roy Bridge,3332,0
+RYD,Ryde Esplanade,130196,0
+RYE,Rye (Sussex),480232,0
+RYH,Rye House,436060,0
+RYN,Roydon,133388,0
+RYP,Ryde Pier Head,129184,13968
+RYR,Ryde St Johns Road,53256,0
+RYS,Royston,1415838,18806
+SAA,St Albans Abbey,149394,3
+SAB,Smallbrook Junction,8978,0
+SAC,St Albans City,6668998,110208
+SAD,Sandwell and Dudley,1005688,0
+SAE,Saltaire,748546,0
+SAF,Salfords (Surrey),158338,0
+SAH,Salhouse,14372,0
+SAJ,St Johns (London),842382,0
+SAL,Salisbury,2004688,247544
+SAM,Saltmarshe,1566,0
+SAN,Sandown,81918,0
+SAR,St Andrews Road,81974,0
+SAS,St Annes-On-The-Sea,147988,0
+SAT,South Acton,747478,0
+SAU,St Austell,525828,0
+SAV,Stratford-Upon-Avon,840832,112
+SAW,Sawbridgeworth,471296,0
+SAX,Saxmundham,176536,0
+SAY,Swanley,1523582,180928
+SBE,Starbeck,267220,0
+SBF,St Budeaux Ferry Road,4484,0
+SBJ,Stourbridge Junction,1471990,319696
+SBK,South Bank,29630,0
+SBM,South Bermondsey,632694,0
+SBP,Stonebridge Park,1355426,0
+SBR,Spean Bridge,7516,0
+SBS,St Bees,84302,0
+SBT,Stourbridge Town,378582,0
+SBU,Southbury,1038924,0
+SBV,St Budeaux Victoria Road,11864,0
+SBY,Selby,695840,29440
+SCA,Scarborough,1001114,0
+SCF,Stechford,417294,0
+SCG,Stone Crossing,318702,0
+SCH,Scotstounhill,430906,0
+SCR,St Columb Road,3542,0
+SCS,Starcross,107218,0
+SCT,Scotscalder,226,0
+SCU,Scunthorpe,379072,405
+SCY,South Croydon,1088648,0
+SDA,Snodland,275854,0
+SDB,Sandbach,294738,0
+SDC,Shoreditch High Street,7294534,383375
+SDE,Shadwell,3917292,0
+SDF,Saundersfoot,11452,0
+SDG,Sandling,75282,0
+SDH,Sudbury Hill Harrow,53868,0
+SDL,Sandhills,1049448,842213
+SDM,Shieldmuir,121668,0
+SDN,St Denys,232936,44971
+SDP,Sandplace,966,0
+SDR,Saunderton,69922,0
+SDW,Sandwich,320174,0
+SDY,Sandy,679484,0
+SEA,Seaham,164994,0
+SEC,Seaton Carew,98362,0
+SED,Shelford (Cambs),221546,0
+SEE,Southease,27332,0
+SEF,Seaford (Sussex),707298,0
+SEG,Selling,99572,0
+SEH,Shoreham (Kent),82766,0
+SEJ,Seaton Delaval,73076,0
+SEL,Sellafield,187002,168
+SEM,Seamer,164494,39694
+SEN,Shenstone,149888,0
+SER,St Erth,444754,265787
+SES,South Elmsall,288510,0
+SET,Settle,147464,0
+SEV,Sevenoaks,3741030,1264894
+SFA,Stratford International,2738944,214467
+SFD,Salford Central,814746,0
+SFI,Shawfair,72472,0
+SFL,Seaforth and Litherland,852056,0
+SFN,Shifnal,236680,0
+SFO,Stanford-Le-Hope,744904,0
+SFR,Shalford (Surrey),95490,0
+SGB,Smethwick Galton Bridge,697590,493769
+SGL,South Gyle,220542,0
+SGM,St Germans,75942,0
+SGN,South Greenford,52212,0
+SGR,Slade Green,1103814,43117
+SHB,Shirebrook,75060,0
+SHC,Streethouse,25606,0
+SHD,Shildon,60288,0
+SHE,Sherborne,207354,0
+SHF,Sheffield,10315220,937768
+SHH,Shirehampton,63976,0
+SHI,Shiplake,128782,0
+SHJ,St Helens Junction,206320,0
+SHL,Shawlands,132560,0
+SHM,Sheringham,267898,0
+SHN,Shanklin,146234,0
+SHO,Sholing,90740,0
+SHP,Shepperton,346958,0
+SHR,Shrewsbury,2321270,244743
+SHS,Shotts,173044,0
+SHT,Shotton,276948,22323
+SHU,Stonehouse,193140,0
+SHW,Shawford,140042,0
+SHY,Shipley (Yorks),1195542,329396
+SIA,Southend Airport,231806,0
+SIC,Silecroft,7644,0
+SID,Sidcup,2614930,0
+SIE,Sherburn-In-Elmet,122098,0
+SIH,St Helier (London),156764,0
+SIL,Sileby,153360,0
+SIN,Singer,358320,0
+SIP,Shipton,3904,0
+SIT,Sittingbourne,2326816,416366
+SIV,St Ives (Cornwall),850992,0
+SJP,St James Park (Exeter),145446,0
+SJS,St James Street (Walthamstow),1551778,0
+SKE,Skewen,43980,0
+SKG,Skegness,397520,0
+SKI,Skipton,1286418,11602
+SKM,Stoke Mandeville,191900,0
+SKN,St Keyne Wishing Well Halt,1586,0
+SKS,Stocksfield,52404,0
+SKW,Stoke Newington,1465574,0
+SLA,Slateford,71928,0
+SLB,Saltburn,356108,0
+SLD,Salford Crescent,1306766,175992
+SLH,Sleights,6848,0
+SLK,Silkstone Common,34104,0
+SLL,Stallingborough,6166,0
+SLO,Slough,5503680,1278291
+SLQ,St Leonards Warrior Square,1001396,156493
+SLR,Sleaford,295790,35611
+SLS,Shettleston,651582,0
+SLT,Saltcoats,275344,0
+SLV,Silver Street,2136452,0
+SLW,Salwick,1624,0
+SLY,Selly Oak,2308762,0
+SMA,Small Heath,224446,0
+SMB,Smithy Bridge,191406,0
+SMD,Stamford (Lincs),343052,0
+SMG,St Margarets (London),1014718,0
+SMH,Stamford Hill,676276,0
+SMK,Stowmarket,975908,81458
+SML,Sea Mills,81946,0
+SMN,Southminster,93504,0
+SMO,South Merton,125436,0
+SMR,Smethwick Rolfe Street,403964,27
+SMT,St Margarets (Herts),350664,0
+SMY,St Mary Cray,1334744,0
+SNA,Sandal and Agbrigg,202168,0
+SND,Sandhurst (Berks),142410,0
+SNE,Stone (Staffs),246412,0
+SNF,Shenfield,5814886,1070565
+SNG,Sunningdale,597214,0
+SNH,St Helens Central,669452,0
+SNI,Snaith,1254,0
+SNK,Sankey For Penketh,1204,0
+SNL,Stoneleigh,807086,0
+SNN,Swinton (Manchester),165282,0
+SNO,St Neots,1081866,0
+SNR,Sanderstead,844182,0
+SNS,Staines,2371110,327430
+SNT,Stanlow and Thornton [note 1],,
+SNW,Swanwick,562910,0
+SNY,Sunnymeads,27266,0
+SOA,Southampton Airport Parkway,1444254,122226
+SOB,Southbourne,229080,0
+SOC,Southend Central,2242080,1934
+SOE,Southend East,1272114,0
+SOF,South Woodham Ferrers,318044,0
+SOG,Stonegate,124278,0
+SOH,South Hampstead,477560,0
+SOI,Stow,74988,0
+SOJ,Soham,65796,0
+SOK,South Kenton,643152,0
+SOL,Solihull,1898584,11093
+SOM,South Milford,135578,0
+SON,Steeton and Silsden,594902,0
+SOO,Strood (Kent),1167638,534077
+SOP,Southport,3788568,14712
+SOR,Sole Street,55630,0
+SOT,Stoke-On-Trent,3015802,177469
+SOU,Southampton Central,6172960,975473
+SOV,Southend Victoria,1385546,0
+SOW,Sowerby Bridge,417306,0
+SPA,Spalding,207774,0
+SPB,Shepherd's Bush,6931918,10289
+SPF,Springfield,1438,0
+SPH,Shepherds Well,70278,0
+SPI,Spital,377240,0
+SPK,Sutton Parkway,141302,0
+SPN,Spooner Row,686,0
+SPO,Spondon,47006,0
+SPP,Shippea Hill,76,0
+SPR,Springburn,386114,25722
+SPS,Stepps,267652,0
+SPT,Stockport,4295970,461907
+SPU,Staplehurst,731008,0
+SPY,Shepley,62316,0
+SQE,Surrey Quays,4933592,1272957
+SQH,Sanquhar,26594,0
+SQU,Squires Gate,27524,0
+SRA,Stratford (London),51473518,4873825
+SRC,Streatham Common,2765402,91029
+SRD,Stapleton Road,305052,0
+SRG,Seer Green and Jordans,107334,0
+SRH,Streatham Hill,1824266,0
+SRI,Spring Road,162146,0
+SRL,Shirley,314972,0
+SRN,Strines,13686,0
+SRO,Shireoaks,54282,0
+SRR,Sarn,56976,0
+SRS,Selhurst,1217928,809
+SRT,Shortlands,1128652,7369
+SRU,South Ruislip,165020,0
+SRY,Shoeburyness,540912,0
+SSC,Seascale,48928,0
+SSD,Stansted Airport,10090904,2276
+SSE,Shoreham-By-Sea,1302590,0
+SSM,Stocksmoor,22892,0
+SSS,Sheerness-On-Sea,439094,0
+SST,Stansted Mountfitchet,551240,11591
+STA,Stafford,2456512,533274
+STC,Strathcarron,6620,0
+STD,Stroud (Gloucs),655356,0
+STE,Streatham (Greater London),2437720,298484
+STF,Stromeferry,1132,0
+STG,Stirling,2527778,462222
+STH,Shepreth,109514,0
+STJ,Severn Tunnel Junction,212668,33770
+STK,Stockton,120000,0
+STL,Southall,7669160,0
+STM,St Michaels,1015344,0
+STN,Stonehaven,480362,0
+STO,South Tottenham,1357436,0
+STP,London St Pancras International,38842772,2741892
+STR,Stranraer,30196,0
+STS,Saltash,162224,0
+STT,Stewarton,248494,0
+STU,Sturry,112180,0
+STV,Stevenston,99624,0
+STW,Strawberry Hill,687594,518
+STY,Stratford-upon-Avon Parkway,109072,1258
+SUC,Sutton Common,265722,0
+SUD,Sudbury and Harrow Road,22952,0
+SUG,Sugar Loaf,842,0
+SUM,Summerston,113996,0
+SUN,Sunderland,709098,5702
+SUO,Sutton (London),4639520,470441
+SUP,Sundridge Park,193024,0
+SUR,Surbiton,7589564,635591
+SUT,Sutton Coldfield,1034854,0
+SUU,Sunbury,390536,0
+SUY,Sudbury (Suffolk),347900,0
+SVB,Severn Beach,131212,0
+SVG,Stevenage,4676446,1192784
+SVK,Seven Kings,4084206,0
+SVL,Staveley (Cumbria),42876,0
+SVR,Silverdale,48316,0
+SVS,Seven Sisters,8394182,17
+SWA,Swansea,2303850,29264
+SWD,Swinderby,22092,0
+SWE,Swineshead,1232,0
+SWG,Swaythling,74572,0
+SWI,Swindon (Wilts),3150912,234297
+SWK,Southwick,342014,0
+SWL,Swale,7300,0
+SWM,Swanscombe,339604,0
+SWN,Swinton (South Yorks),346188,3770
+SWO,Snowdown,11674,0
+SWR,Stewartby,84976,0
+SWS,South Wigston,133846,0
+SWT,Slaithwaite,235294,0
+SWY,Sway,81398,0
+SXY,Saxilby,93894,0
+SYA,Styal,28058,0
+SYB,Stalybridge,840136,54442
+SYD,Sydenham (London),3541540,0
+SYH,Sydenham Hill,694346,0
+SYL,Syon Lane,868730,0
+SYS,Syston,213180,0
+SYT,Somerleyton,11958,0
+TAB,Tame Bridge Parkway,632172,42805
+TAC,Tackley,25334,0
+TAD,Tadworth,209262,0
+TAF,Taffs Well,256722,0
+TAI,Tain,23284,0
+TAL,Talsarnau,4988,0
+TAM,Tamworth,1240246,358577
+TAP,Taplow,528968,0
+TAT,Tattenham Corner,149554,0
+TAU,Taunton,1615614,82424
+TAY,Taynuilt,38888,0
+TBD,Three Bridges,3307440,1076845
+TBW,Tunbridge Wells,3038690,65618
+TBY,Thornaby,659792,60295
+TCR,Tottenham Court Road,68133826,60
+TDU,Tondu,49950,0
+TEA,Teesside Airport [note 1],,
+TED,Teddington,1717082,94434
+TEN,Tenby,133446,0
+TEO,Theobalds Grove,751174,0
+TEY,Teynham,181476,0
+TFC,Telford Central,1177576,3835
+TGM,Teignmouth,760568,0
+TGS,Ty Glas,94494,0
+THA,Thatcham,464916,0
+THB,Thornliebank,196424,0
+THC,Thurnscoe,82394,0
+THD,Thames Ditton,760682,0
+THE,Theale,390508,0
+THH,Thatto Heath,148722,0
+THI,Thirsk,288024,0
+THL,Tile Hill,541526,0
+THO,Thornford,2312,0
+THP,Thanet Parkway,123724,824
+THS,Thurso,36980,0
+THT,Thorntonhall,18166,0
+THU,Thurgarton,3204,0
+THW,The Hawthorns,334428,0
+TIL,Tilbury Town,1110752,22660
+TIP,Tipton,358656,0
+TIR,Tir-Phil,28360,0
+TIS,Tisbury,191224,0
+TLB,Talybont,35872,0
+TLC,Tal-y-Cafn,2972,0
+TLH,Tilehurst,385312,0
+TLK,The Lakes (Warks),17778,0
+TLS,Thorpe-le-Soken,143078,288537
+TMC,Templecombe,91732,0
+TNA,Thornton Abbey,724,0
+TNF,Tonfanau,2490,0
+TNN,Thorne North,178734,484
+TNP,Tonypandy,112292,0
+TNS,Thorne South,66512,0
+TOD,Todmorden,718118,0
+TOK,Three Oaks,15482,0
+TOL,Tolworth,575870,0
+TOM,Tottenham Hale,9256456,751212
+TON,Tonbridge,4048158,480924
+TOO,Tooting,803666,0
+TOP,Topsham,300338,0
+TOT,Totnes,797324,0
+TPB,Thorpe Bay,667938,0
+TPC,Thorpe Culvert,788,0
+TPN,Ton Pentre,79222,0
+TQY,Torquay,508086,1174
+TRA,Trafford Park,44548,0
+TRB,Treherbert,175190,0
+TRD,Troed-Y-Rhiw,40862,0
+TRE,Trefforest Estate,121436,0
+TRF,Trefforest,712434,0
+TRH,Trehafod,38404,0
+TRI,Tring,787982,0
+TRM,Trimley,57066,0
+TRN,Troon,498042,7100
+TRO,Trowbridge,904324,36224
+TRR,Torre,376492,0
+TRS,Thurston,123640,0
+TRU,Truro,1334668,283377
+TRY,Treorchy,125344,0
+TTF,Thetford,305618,6
+TTH,Thornton Heath,2432008,15190
+TTN,Totton,216312,0
+TUH,Tulse Hill,2181520,390929
+TUL,Tulloch,2252,0
+TUR,Turkey Street,990634,0
+TUT,Tutbury and Hatton,89778,0
+TVP,Tiverton Parkway,682906,0
+TWB,Tweedbank,405824,0
+TWI,Twickenham,4972204,279755
+TWN,Town Green,409698,0
+TWY,Twyford,1754790,772325
+TYC,Ty Croes,8244,0
+TYG,Tygwyn,1092,0
+TYL,Tyndrum Lower,5986,0
+TYS,Tyseley,243730,10489
+TYW,Tywyn,133700,0
+UCK,Uckfield,235458,0
+UDD,Uddingston,702066,0
+UHA,Uphall,488056,0
+UHL,Upper Holloway,1425670,0
+ULC,Ulceby,4480,0
+ULL,Ulleskelf,16502,0
+ULV,Ulverston,290354,0
+UMB,Umberleigh,54078,0
+UNI,University (Birmingham),3755612,0
+UPH,Upper Halliford,106454,0
+UPL,Upholland,27684,0
+UPM,Upminster,5020900,811429
+UPT,Upton (Merseyside),22192,0
+UPW,Upwey,53534,17018
+URM,Urmston,371074,0
+UTT,Uttoxeter,188406,0
+UTY,Upper Tyndrum,5760,2
+UWL,Upper Warlingham,850836,0
+VAL,Valley,21588,0
+VIC,London Victoria,53784358,3232110
+VIR,Virginia Water,649794,94411
+VXH,Vauxhall,15534168,0
+WAC,Warrington Central,1268378,81594
+WAD,Wadhurst,358610,0
+WAE,London Waterloo East,6841002,802753
+WAF,Wallyford,349262,0
+WAL,Walton-On-Thames,2425886,0
+WAM,Walmer,222274,0
+WAN,Wanborough,62150,0
+WAO,Walton (Merseyside),370070,0
+WAR,Ware (Herts),1068458,0
+WAS,Watton-At-Stone,168318,0
+WAT,London Waterloo,70389546,4464632
+WAV,Wavertree Technology Park,292708,0
+WAW,Warrington West,388970,3661
+WBC,Waterbeach,371828,0
+WBD,Whitley Bridge,860,0
+WBL,Warblington,34634,0
+WBO,Wimbledon Chase,271590,0
+WBP,West Brompton,4515126,0
+WBQ,Warrington Bank Quay,1468418,394616
+WBR,Whaley Bridge,134408,0
+WBY,West Byfleet,1172146,0
+WCB,Westcombe Park,931670,0
+WCF,Westcliff,1056440,0
+WCH,Whitchurch (Hampshire),200976,0
+WCK,Wick,16046,0
+WCL,West Calder,140058,0
+WCM,Wickham Market,67636,0
+WCP,Worcester Park,1422222,0
+WCR,Whitecraigs,321218,0
+WCX,Wembley Stadium,884860,0
+WCY,West Croydon,4370176,308065
+WDB,Woodbridge,229388,0
+WDD,Widdrington,2652,0
+WDE,Wood End,15744,0
+WDH,Woodhouse,40388,0
+WDL,Woodhall,48326,0
+WDM,Windermere,402704,0
+WDN,Walsden,80466,0
+WDO,Waddon,604552,0
+WDS,Woodlesford,258528,0
+WDT,West Drayton,3533610,0
+WDU,West Dulwich,864428,0
+WEA,West Ealing,2548676,93991
+WEE,Weeley,42386,0
+WEH,West Ham,11065018,5599
+WEL,Wellingborough,980522,4805
+WEM,Wem,112096,0
+WES,Westerton,674870,26787
+WET,Weeton,94500,0
+WEY,Weymouth,751302,28590
+WFF,Whifflet,244552,8876
+WFH,Watford High Street,1363368,0
+WFI,Westerfield,21666,5891
+WFJ,Watford Junction,6940122,381822
+WFL,Wainfleet,47824,0
+WFN,Watford North,64798,0
+WGA,Westgate-On-Sea,199128,0
+WGC,Welwyn Garden City,2516216,8564
+WGN,Wigan North Western,1359554,894090
+WGR,Woodgrange Park,938768,0
+WGT,Wigton,64902,0
+WGV,Wargrave,110690,0
+WGW,Wigan Wallgate,1253014,286727
+WHA,Westenhanger,62914,0
+WHC,Walthamstow Central,4272090,0
+WHD,West Hampstead,3944888,573653
+WHE,Whalley (Lancashire),81118,0
+WHG,Westhoughton,166134,0
+WHI,Whitstable,876818,0
+WHL,White Hart Lane,2616980,0
+WHM,Whimple,51140,0
+WHN,Whiston,177588,0
+WHP,West Hampstead Thameslink,3147648,935688
+WHR,West Horndon,411970,0
+WHS,Whyteleafe South,114664,0
+WHT,Whitchurch (Cardiff),22818,0
+WHY,Whyteleafe,228198,0
+WIC,Wickford,1838264,406901
+WID,Widnes,428030,0
+WIH,Winchmore Hill,1408426,0
+WIJ,Willesden Junction,7041954,2424898
+WIL,Willington,40140,0
+WIM,Wimbledon,13244436,917370
+WIN,Winchester,4593936,97244
+WIV,Wivenhoe,352166,471
+WKB,West Kilbride,126748,0
+WKD,Walkden,300502,0
+WKF,Wakefield Westgate,2333910,116315
+WKG,Workington,229786,0
+WKI,West Kirby,1235638,0
+WKK,Wakefield Kirkgate,611788,209305
+WKM,Wokingham,1902086,73552
+WLC,Waltham Cross,1297696,0
+WLD,West St Leonards,138188,0
+WLE,Whittlesea,51194,0
+WLF,Whittlesford Parkway,454262,0
+WLG,Wallasey Grove Road,498762,0
+WLI,Welling,1527888,0
+WLM,Williamwood,286358,0
+WLN,Wellington (Shropshire),676396,0
+WLO,Waterloo (Merseyside),1508982,0
+WLP,Welshpool,176730,0
+WLS,Woolston,180344,0
+WLT,Wallington,1609134,0
+WLV,Wallasey Village,469056,0
+WLW,Welwyn North,386640,0
+WLY,Woodley,50970,0
+WMA,West Malling,896670,0
+WMB,Wembley Central,4445524,82629
+WMC,Wilmcote,19570,0
+WMD,Wymondham,197704,0
+WME,Woodmansterne,126744,0
+WMG,Welham Green,253196,0
+WMI,Wildmill,28878,0
+WML,Wilmslow,1248708,110393
+WMN,Warminster,355954,17188
+WMR,Widney Manor,345804,0
+WMS,Wemyss Bay,211252,0
+WMW,Walthamstow Queen's Road,997432,0
+WNC,Windsor and Eton Central,1708274,26094
+WND,Wendover,328532,0
+WNE,Wilnecote (Staffs),98734,0
+WNF,Winchfield,229000,0
+WNG,Waun-gron Park,116002,0
+WNH,Warnham,9706,0
+WNL,Whinhill,43124,0
+WNM,Weston Milton,106898,0
+WNN,Wennington,6632,0
+WNP,Wanstead Park,1071144,26795
+WNR,Windsor and Eton Riverside,1143218,29022
+WNS,Winnersh,384120,0
+WNT,Wandsworth Town,3786146,0
+WNW,West Norwood,1507342,34525
+WNY,White Notley,7660,0
+WOB,Woburn Sands,47880,0
+WOF,Worcester Foregate Street,1914248,169971
+WOH,Woldingham,348954,0
+WOK,Woking,6522202,1363139
+WOL,Wolverton,338874,0
+WOM,Wombwell,223542,0
+WON,Walton-on-the-Naze,140642,0
+WOO,Wool,208834,0
+WOP,Worcestershire Parkway,456184,133875
+WOR,Worle,397542,0
+WOS,Worcester Shrub Hill,577194,122921
+WPE,Wapping,2471208,0
+WPL,Worplesdon,142318,0
+WRB,Wrabness,26698,0
+WRE,Wrenbury,11238,0
+WRH,Worthing,2177490,100194
+WRK,Worksop,515488,33938
+WRL,Wetheral,50658,0
+WRM,Wareham (Dorset),301986,0
+WRN,West Runton,34872,0
+WRP,Warwick Parkway,493384,0
+WRS,Wressle,1064,0
+WRT,Worstead,29316,0
+WRU,West Ruislip,136408,9636
+WRW,Warwick,619458,0
+WRX,Wrexham General,684566,12693
+WRY,Wraysbury,82070,0
+WSA,West Allerton,61846,0
+WSB,Westbury,543050,264345
+WSE,Winchelsea,19260,0
+WSF,Winsford,215328,0
+WSH,Wishaw,405264,0
+WSL,Walsall,1240358,5246
+WSM,Weston-Super-Mare,1041126,8823
+WSR,Woodsmoor,247350,0
+WST,Wood Street,1938180,0
+WSU,West Sutton,265900,0
+WSW,Wandsworth Common,961536,0
+WTA,Wester Hailes,62844,0
+WTB,Whitby,153478,0
+WTC,Whitchurch (Shropshire),164476,0
+WTE,Whitlocks End,223908,0
+WTG,Watlington,133888,0
+WTH,Whitehaven,285082,0
+WTI,Winnersh Triangle,217550,0
+WTL,Whitland,44580,2752
+WTM,Witham,1924032,157630
+WTN,Whitton (London),1291066,0
+WTO,Water Orton,46796,0
+WTR,Wateringbury,71746,0
+WTS,Whatstandwell,28430,0
+WTT,Witton (West Midlands),342226,0
+WTY,Witley,210956,0
+WVF,Wivelsfield,467022,23506
+WVH,Wolverhampton,5249278,298366
+WWA,Woolwich Arsenal,2269060,0
+WWC,Woolwich,13755990,0
+WWD,Woolwich Dockyard,315464,0
+WWI,West Wickham,792638,0
+WWL,Whitwell (Derbyshire),10686,0
+WWO,West Worthing,672120,0
+WWR,Wandsworth Road,610410,0
+WWW,Wootton Wawen,19398,0
+WXC,Wrexham Central,63048,0
+WYB,Weybridge,1987922,592146
+WYE,Wye,228560,0
+WYL,Wylde Green,520686,0
+WYM,Wylam,110738,0
+WYT,Wythall,65636,0
+YAE,Yate,359704,0
+YAL,Yalding,42188,0
+YAT,Yatton,527348,0
+YEO,Yeoford,19890,0
+YET,Yetminster,7088,0
+YNW,Ynyswen,2538,0
+YOK,Yoker,202332,0
+YRD,Yardley Wood,409064,0
+YRK,York,10464102,1247676
+YRM,Yarm,145970,0
+YRT,Yorton,8554,0
+YSM,Ystrad Mynach,222144,0
+YSR,Ystrad Rhondda,55836,0
+YVJ,Yeovil Junction,221442,20383
+YVP,Yeovil Pen Mill,169742,21348
+ZCW,Canada Water,18668762,3719
+ZFD,Farringdon,50171290,9341764
+ZLW,Whitechapel,37140828,13770478

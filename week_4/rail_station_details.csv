@@ -1,0 +1,2596 @@
+TLC,StationName,Region,LocalAuthority,StationFacilityOwner
+AAP,Alexandra Palace,London,Haringey,Govia Thameslink Railway (Great Northern)
+AAT,Achanalt,Scotland,Highland,ScotRail
+ABA,Aberdare,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+ABC,Altnabreac,Scotland,Highland,ScotRail
+ABD,Aberdeen,Scotland,Aberdeen City,ScotRail
+ABE,Aber,Wales,Caerphilly - Caerffili,TfW Rail
+ABH,Abererch,Wales,Gwynedd - Gwynedd,TfW Rail
+ABW,Abbey Wood,London,Greenwich,Elizabeth line
+ABY,Ashburys,North West,Manchester,Northern Trains
+ACB,Acton Bridge (Cheshire),North West,Cheshire West and Chester,West Midlands Trains (London Northwestern Railway)
+ACC,Acton Central,London,Ealing,London Overground
+ACG,Acocks Green,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+ACH,Achnashellach,Scotland,Highland,ScotRail
+ACK,Acklington,North East,Northumberland,Northern Trains
+ACL,Acle,East of England,Broadland,Greater Anglia
+ACN,Achnasheen,Scotland,Highland,ScotRail
+ACR,Accrington,North West,Hyndburn,Northern Trains
+ACT,Ascot (Berks),South East,Windsor and Maidenhead,South Western Railway
+ACY,Abercynon,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+ADC,Adlington (Cheshire),North West,Cheshire East,Northern Trains
+ADD,Adderley Park,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+ADK,Ardwick,North West,Manchester,Northern Trains
+ADL,Adlington (Lancashire),North West,Chorley,Northern Trains
+ADM,Adisham,South East,Canterbury,Southeastern
+ADN,Ardrossan Town,Scotland,North Ayrshire,ScotRail
+ADR,Airdrie,Scotland,North Lanarkshire,ScotRail
+ADS,Ardrossan Harbour,Scotland,North Ayrshire,ScotRail
+ADV,Andover,South East,Test Valley,South Western Railway
+ADW,Addiewell,Scotland,West Lothian,ScotRail
+AFK,Ashford International,South East,Ashford,Southeastern
+AFS,Ashford (Surrey),South East,Spelthorne,South Western Railway
+AFV,Ansdell and Fairhaven,North West,Fylde,Northern Trains
+AGL,Abergele and Pensarn,Wales,Conwy - Conwy,TfW Rail
+AGS,Argyle Street,Scotland,Glasgow City,ScotRail
+AGT,Aldrington,South East,Brighton and Hove,Govia Thameslink Railway (Southern)
+AGV,Abergavenny,Wales,Monmouthshire - Sir Fynwy,TfW Rail
+AHD,Ashtead,South East,Mole Valley,Govia Thameslink Railway (Southern)
+AHN,Ashton-under-Lyne,North West,Tameside,Northern Trains
+AHS,Ashurst (Kent),South East,Tunbridge Wells,Govia Thameslink Railway (Southern)
+AHT,Aldershot,South East,Rushmoor,South Western Railway
+AHV,Ash Vale,South East,Guildford,South Western Railway
+AIG,Aigburth,North West,Liverpool,Merseyrail
+AIN,Aintree,North West,Sefton,Merseyrail
+AIR,Airbles,Scotland,North Lanarkshire,ScotRail
+ALB,Albrighton,West Midlands,Shropshire,West Midlands Trains (West Midlands Railway)
+ALD,Alderley Edge,North West,Cheshire East,Northern Trains
+ALF,Alfreton,East Midlands,Amber Valley,East Midlands Railway
+ALK,Aslockton,East Midlands,Rushcliffe,East Midlands Railway
+ALM,Alnmouth,North East,Northumberland,Northern Trains
+ALN,Althorne (Essex),East of England,Maldon,Greater Anglia
+ALO,Alloa,Scotland,Clackmannanshire,ScotRail
+ALP,Althorpe,Yorkshire and The Humber,North Lincolnshire,Northern Trains
+ALR,Alresford (Essex),East of England,Tendring,Greater Anglia
+ALT,Altrincham,North West,Trafford,Northern Trains
+ALV,Alvechurch,West Midlands,Bromsgrove,West Midlands Trains (West Midlands Railway)
+ALW,Allens West,North East,Stockton-on-Tees,Northern Trains
+ALX,Alexandria,Scotland,West Dunbartonshire,ScotRail
+AMB,Ambergate,East Midlands,Amber Valley,East Midlands Railway
+AMF,Ammanford,Wales,Carmarthenshire - Sir Gaerfyrddin,TfW Rail
+AML,Acton Main Line,London,Ealing,Elizabeth line
+AMR,Amersham,South East,Buckinghamshire,London Underground
+AMT,Aldermaston,South East,West Berkshire,Great Western Railway
+AMY,Amberley,South East,Horsham,Govia Thameslink Railway (Southern)
+ANC,Ancaster,East Midlands,South Kesteven,East Midlands Railway
+AND,Anderston,Scotland,Glasgow City,ScotRail
+ANF,Ashurst New Forest,South East,New Forest,South Western Railway
+ANG,Angmering,South East,Arun,Govia Thameslink Railway (Southern)
+ANL,Anniesland,Scotland,Glasgow City,ScotRail
+ANN,Annan,Scotland,Dumfries and Galloway,ScotRail
+ANS,Ainsdale,North West,Sefton,Merseyrail
+ANZ,Anerley,London,Bromley,London Overground
+AON,Alton,South East,East Hampshire,South Western Railway
+APB,Appley Bridge,North West,West Lancashire,Northern Trains
+APD,Appledore (Kent),South East,Ashford,Govia Thameslink Railway (Southern)
+APF,Appleford,South East,Vale of White Horse,Great Western Railway
+APG,Aspley Guise,East of England,Central Bedfordshire,West Midlands Trains (London Northwestern Railway)
+APP,Appleby,North West,Westmorland and Furness,Northern Trains
+APS,Apsley,East of England,Dacorum,West Midlands Trains (London Northwestern Railway)
+APY,Apperley Bridge,Yorkshire and The Humber,Bradford,Northern Trains
+ARB,Arbroath,Scotland,Angus,ScotRail
+ARD,Ardgay,Scotland,Highland,ScotRail
+ARG,Arisaig,Scotland,Highland,ScotRail
+ARL,Arlesey,East of England,Central Bedfordshire,Govia Thameslink Railway (Great Northern)
+ARM,Armadale (West Lothian),Scotland,West Lothian,ScotRail
+ARN,Arnside,North West,Westmorland and Furness,Northern Trains
+ARR,Arram,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+ART,Arrochar and Tarbet,Scotland,Argyll and Bute,ScotRail
+ARU,Arundel,South East,Arun,Govia Thameslink Railway (Southern)
+ASB,Ardrossan South Beach,Scotland,North Ayrshire,ScotRail
+ASC,Ashchurch for Tewkesbury,South West,Tewkesbury,Great Western Railway
+ASD,Ashley Down,South West,"Bristol, City of",Great Western Railway
+ASF,Ashfield,Scotland,Glasgow City,ScotRail
+ASG,Alsager,North West,Cheshire East,East Midlands Railway
+ASH,Ash,South East,Guildford,South Western Railway
+ASK,Askam,North West,Westmorland and Furness,Northern Trains
+ASL,Ashington,North East,Northumberland,Northern Trains
+ASN,Addlestone,South East,Runnymede,South Western Railway
+ASP,Aspatria,North West,Cumberland,Northern Trains
+ASS,Alness,Scotland,Highland,ScotRail
+AST,Aston,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+ASY,Ashley,North West,Cheshire East,Northern Trains
+ATB,Attenborough,East Midlands,Broxtowe,East Midlands Railway
+ATH,Atherstone,West Midlands,North Warwickshire,West Midlands Trains (London Northwestern Railway)
+ATL,Attleborough,East of England,Breckland,Greater Anglia
+ATN,Atherton,North West,Wigan,Northern Trains
+ATT,Attadale,Scotland,Highland,ScotRail
+AUD,Audley End,East of England,Uttlesford,Greater Anglia
+AUG,Aughton Park,North West,West Lancashire,Merseyrail
+AUI,Ardlui,Scotland,Argyll and Bute,ScotRail
+AUK,Auchinleck,Scotland,East Ayrshire,ScotRail
+AUR,Aberdour,Scotland,Fife,ScotRail
+AUW,Ascott-under-Wychwood,South East,West Oxfordshire,Great Western Railway
+AVF,Avoncliff,South West,Wiltshire,Great Western Railway
+AVM,Aviemore,Scotland,Highland,ScotRail
+AVN,Avonmouth,South West,"Bristol, City of",Great Western Railway
+AVP,Aylesbury Vale Parkway,South East,Buckinghamshire,Chiltern Railways
+AVY,Aberdovey,Wales,Gwynedd - Gwynedd,TfW Rail
+AWK,Adwick,Yorkshire and The Humber,Doncaster,Northern Trains
+AWM,Ashwell and Morden,East of England,South Cambridgeshire,Govia Thameslink Railway (Great Northern)
+AWT,Armathwaite,North West,Westmorland and Furness,Northern Trains
+AXM,Axminster,South West,East Devon,South Western Railway
+AXP,Alexandra Parade,Scotland,Glasgow City,ScotRail
+AYH,Aylesham,South East,Dover,Southeastern
+AYL,Aylesford,South East,Tonbridge and Malling,Southeastern
+AYP,Albany Park,London,Bexley,Southeastern
+AYR,Ayr,Scotland,South Ayrshire,ScotRail
+AYS,Aylesbury,South East,Buckinghamshire,Chiltern Railways
+AYW,Aberystwyth,Wales,Ceredigion - Ceredigion,TfW Rail
+BAA,Barnham,South East,Arun,Govia Thameslink Railway (Southern)
+BAB,Balcombe,South East,Mid Sussex,Govia Thameslink Railway (Southern)
+BAC,Bache,North West,Cheshire West and Chester,Merseyrail
+BAD,Banstead,South East,Reigate and Banstead,Govia Thameslink Railway (Southern)
+BAG,Bagshot,South East,Surrey Heath,South Western Railway
+BAH,Bank Hall,North West,Liverpool,Merseyrail
+BAI,Blairhill,Scotland,North Lanarkshire,ScotRail
+BAJ,Baglan,Wales,Neath Port Talbot - Castell-nedd Port Talbot,TfW Rail
+BAK,Battersea Park,London,Wandsworth,Govia Thameslink Railway (Southern)
+BAL,Balham,London,Wandsworth,Govia Thameslink Railway (Southern)
+BAM,Bamford,East Midlands,High Peak,Northern Trains
+BAN,Banbury,South East,Cherwell,Chiltern Railways
+BAR,Bare Lane,North West,Lancaster,Northern Trains
+BAS,Bere Alston,South West,West Devon,Great Western Railway
+BAT,Battle,South East,Rother,Southeastern
+BAU,Barton-on-Humber,Yorkshire and The Humber,North Lincolnshire,East Midlands Railway
+BAV,Barrow Haven,Yorkshire and The Humber,North Lincolnshire,East Midlands Railway
+BAW,Blackwater,South East,Hart,Great Western Railway
+BAY,Bayford,East of England,East Hertfordshire,Govia Thameslink Railway (Great Northern)
+BBG,Bishopbriggs,Scotland,East Dunbartonshire,ScotRail
+BBK,Bilbrook,West Midlands,South Staffordshire,West Midlands Trains (West Midlands Railway)
+BBL,Bat and Ball,South East,Sevenoaks,Southeastern
+BBN,Blackburn,North West,Blackburn with Darwen,Northern Trains
+BBS,Bordesley,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+BBW,Berry Brow,Yorkshire and The Humber,Kirklees,Northern Trains
+BCB,Burscough Bridge,North West,West Lancashire,Northern Trains
+BCC,Beccles,East of England,East Suffolk,Greater Anglia
+BCE,Bracknell,South East,Bracknell Forest,South Western Railway
+BCF,Beaconsfield,South East,Buckinghamshire,Chiltern Railways
+BCG,Birchgrove,Wales,Cardiff - Caerdydd,TfW Rail
+BCH,Birchington-on-Sea,South East,Thanet,Southeastern
+BCJ,Burscough Junction,North West,West Lancashire,Northern Trains
+BCK,Buckley,Wales,Flintshire - Sir y Fflint,TfW Rail
+BCN,Branchton,Scotland,Inverclyde,ScotRail
+BCS,Bicester North,South East,Cherwell,Chiltern Railways
+BCU,Brockenhurst,South East,New Forest,South Western Railway
+BCV,Bruce Grove,London,Haringey,London Overground
+BCY,Brockley,London,Lewisham,London Overground
+BCZ,Brent Cross West,London,Barnet,Govia Thameslink Railway (Thameslink)
+BDA,Brundall,East of England,Broadland,Greater Anglia
+BDB,Broadbottom,North West,Tameside,Northern Trains
+BDG,Bridgeton,Scotland,Glasgow City,ScotRail
+BDH,Bedhampton,South East,Havant,South Western Railway
+BDI,Bradford Interchange,Yorkshire and The Humber,Bradford,Northern Trains
+BDK,Baldock,East of England,North Hertfordshire,Govia Thameslink Railway (Great Northern)
+BDL,Birkdale,North West,Sefton,Merseyrail
+BDM,Bedford,East of England,Bedford,Govia Thameslink Railway (Thameslink)
+BDN,Brading,South East,Isle of Wight,South Western Railway (Island Line)
+BDQ,Bradford Forster Square,Yorkshire and The Humber,Bradford,Northern Trains
+BDS,Bond Street,London,Westminster,London Underground
+BDT,Bridlington,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+BDW,Bedwyn,South West,Wiltshire,Great Western Railway
+BDY,Bredbury,North West,Stockport,Northern Trains
+BEA,Bridge of Allan,Scotland,Stirling,ScotRail
+BEB,Bebington,North West,Wirral,Merseyrail
+BEC,Beckenham Hill,London,Lewisham,Govia Thameslink Railway (Thameslink)
+BEE,Beeston,East Midlands,Broxtowe,East Midlands Railway
+BEF,Benfleet,East of England,Castle Point,c2c
+BEG,Beltring,South East,Maidstone,Southeastern
+BEH,Bedworth,West Midlands,Nuneaton and Bedworth,West Midlands Trains (West Midlands Railway)
+BEJ,Bedlington,North East,Northumberland,Northern Trains
+BEL,Beauly,Scotland,Highland,ScotRail
+BEM,Bempton,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+BEN,Bentham,Yorkshire and The Humber,North Yorkshire,Northern Trains
+BEP,Bermuda Park,West Midlands,Nuneaton and Bedworth,West Midlands Trains (West Midlands Railway)
+BER,Bearley,West Midlands,Stratford-on-Avon,West Midlands Trains (West Midlands Railway)
+BES,Bescar Lane,North West,West Lancashire,Northern Trains
+BET,Bethnal Green,London,Tower Hamlets,London Overground
+BEU,Beaulieu Road,South East,New Forest,South Western Railway
+BEV,Beverley,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+BEX,Bexhill,South East,Rother,Govia Thameslink Railway (Southern)
+BEY,Ben Rhydding,Yorkshire and The Humber,Bradford,Northern Trains
+BFD,Brentford,London,Hounslow,South Western Railway
+BFE,Bere Ferrers,South West,West Devon,Great Western Railway
+BFF,Blaenau Ffestiniog,Wales,Gwynedd - Gwynedd,TfW Rail
+BFN,Byfleet and New Haw,South East,Runnymede,South Western Railway
+BFR,London Blackfriars,London,City of London,Govia Thameslink Railway (Thameslink)
+BGA,Brundall Gardens,East of England,Broadland,Greater Anglia
+BGD,Bargoed,Wales,Caerphilly - Caerffili,TfW Rail
+BGE,Broad Green,North West,Liverpool,Northern Trains
+BGG,Brigg,Yorkshire and The Humber,North Lincolnshire,Northern Trains
+BGH,Brighouse,Yorkshire and The Humber,Calderdale,Northern Trains
+BGI,Bargeddie,Scotland,North Lanarkshire,ScotRail
+BGL,Bugle,South West,Cornwall,Great Western Railway
+BGM,Bellingham,London,Lewisham,Govia Thameslink Railway (Thameslink)
+BGN,Bridgend,Wales,Bridgend - Pen-y-bont ar Ogwr,TfW Rail
+BGS,Bogston,Scotland,Inverclyde,ScotRail
+BGV,Barking Riverside,London,Barking and Dagenham,London Overground
+BHC,Balloch,Scotland,West Dunbartonshire,ScotRail
+BHD,Brithdir,Wales,Caerphilly - Caerffili,TfW Rail
+BHG,Bathgate,Scotland,West Lothian,ScotRail
+BHI,Birmingham International,West Midlands,Solihull,Avanti West Coast
+BHK,Bush Hill Park,London,Enfield,London Overground
+BHM,Birmingham New Street,West Midlands,Birmingham,Network Rail
+BHO,Blackhorse Road,London,Waltham Forest,London Underground
+BHR,Builth Road,Wales,Powys - Powys,TfW Rail
+BHS,Brockholes,Yorkshire and The Humber,Kirklees,Northern Trains
+BIA,Bishop Auckland,North East,County Durham,Northern Trains
+BIC,Billericay,East of England,Basildon,Greater Anglia
+BID,Bidston,North West,Wirral,Merseyrail
+BIF,Barrow-in-Furness,North West,Westmorland and Furness,Northern Trains
+BIG,Billingshurst,South East,Horsham,Govia Thameslink Railway (Southern)
+BIK,Birkbeck,London,Bromley,Govia Thameslink Railway (Southern)
+BIL,Billingham,North East,Stockton-on-Tees,Northern Trains
+BIN,Bingham,East Midlands,Rushcliffe,East Midlands Railway
+BIO,Baillieston,Scotland,Glasgow City,ScotRail
+BIP,Bishopstone (Sussex),South East,Lewes,Govia Thameslink Railway (Southern)
+BIS,Bishops Stortford,East of England,East Hertfordshire,Greater Anglia
+BIT,Bicester Village,South East,Cherwell,Chiltern Railways
+BIW,Biggleswade,East of England,Central Bedfordshire,Govia Thameslink Railway (Great Northern)
+BIY,Bingley,Yorkshire and The Humber,Bradford,Northern Trains
+BKA,Bookham,South East,Mole Valley,South Western Railway
+BKC,Birkenhead Central,North West,Wirral,Merseyrail
+BKD,Blakedown,West Midlands,Wyre Forest,West Midlands Trains (West Midlands Railway)
+BKG,Barking,London,Barking and Dagenham,c2c
+BKH,Blackheath,London,Lewisham,Southeastern
+BKJ,Beckenham Junction,London,Bromley,Southeastern
+BKL,Bickley,London,Bromley,Southeastern
+BKM,Berkhamsted,East of England,Dacorum,West Midlands Trains (London Northwestern Railway)
+BKN,Birkenhead North,North West,Wirral,Merseyrail
+BKO,Brookwood,South East,Woking,South Western Railway
+BKP,Birkenhead Park,North West,Wirral,Merseyrail
+BKQ,Birkenhead Hamilton Square,North West,Wirral,Merseyrail
+BKR,Blackridge,Scotland,West Lothian,ScotRail
+BKS,Bekesbourne,South East,Canterbury,Southeastern
+BKT,Blake Street,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+BKW,Berkswell,West Midlands,Solihull,West Midlands Trains (West Midlands Railway)
+BLA,Blair Atholl,Scotland,Perth and Kinross,ScotRail
+BLB,Battlesbridge,East of England,Chelmsford,Greater Anglia
+BLD,Baildon,Yorkshire and The Humber,Bradford,Northern Trains
+BLE,Bramley (West Yorkshire),Yorkshire and The Humber,Leeds,Northern Trains
+BLG,Bellgrove,Scotland,Glasgow City,ScotRail
+BLH,Bellshill,Scotland,North Lanarkshire,ScotRail
+BLI,Blyth Bebside,North East,Northumberland,Northern Trains
+BLK,Blackrod,North West,Bolton,Northern Trains
+BLL,Bardon Mill,North East,Northumberland,Northern Trains
+BLM,Belmont,London,Sutton,Govia Thameslink Railway (Southern)
+BLN,Blundellsands and Crosby,North West,Sefton,Merseyrail
+BLO,Blaydon,North East,Gateshead,Northern Trains
+BLP,Belper,East Midlands,Amber Valley,East Midlands Railway
+BLT,Blantyre,Scotland,South Lanarkshire,ScotRail
+BLV,Belle Vue,North West,Manchester,Northern Trains
+BLW,Bulwell,East Midlands,Nottingham,East Midlands Railway
+BLX,Bloxwich,West Midlands,Walsall,West Midlands Trains (West Midlands Railway)
+BLY,Bletchley,South East,Milton Keynes,West Midlands Trains (London Northwestern Railway)
+BMB,Bamber Bridge,North West,South Ribble,Northern Trains
+BMC,Bromley Cross (Lancs),North West,Bolton,Northern Trains
+BMD,Brimsdown,London,Enfield,Greater Anglia
+BME,Broome,West Midlands,Shropshire,TfW Rail
+BMF,Broomfleet,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+BMG,Barming,South East,Tonbridge and Malling,Southeastern
+BMH,Bournemouth,South West,"Bournemouth, Christchurch and Poole",South Western Railway
+BML,Bramhall,North West,Stockport,Northern Trains
+BMN,Bromley North,London,Bromley,Southeastern
+BMO,Birmingham Moor Street,West Midlands,Birmingham,Chiltern Railways
+BMP,Brampton (Cumbria),North West,Cumberland,Northern Trains
+BMR,Bromborough Rake,North West,Wirral,Merseyrail
+BMS,Bromley South,London,Bromley,Southeastern
+BMT,Bedminster,South West,"Bristol, City of",Great Western Railway
+BMV,Bromsgrove,West Midlands,Bromsgrove,West Midlands Trains (West Midlands Railway)
+BMY,Bramley (Hampshire),South East,Basingstoke and Deane,Great Western Railway
+BNA,Burnage,North West,Manchester,Northern Trains
+BNC,Burnley Central,North West,Burnley,Northern Trains
+BND,Brandon,East of England,Breckland,Greater Anglia
+BNE,Bourne End,South East,Buckinghamshire,Great Western Railway
+BNF,Briton Ferry,Wales,Neath Port Talbot - Castell-nedd Port Talbot,TfW Rail
+BNG,Bangor (Gwynedd),Wales,Gwynedd - Gwynedd,TfW Rail
+BNH,Barnehurst,London,Bexley,Southeastern
+BNI,Barnes Bridge,London,Richmond upon Thames,South Western Railway
+BNL,Barnhill,Scotland,Glasgow City,ScotRail
+BNM,Burnham (Buckinghamshire),South East,Slough,Elizabeth line
+BNP,Barnstaple,South West,North Devon,Great Western Railway
+BNS,Barnes,London,Richmond upon Thames,South Western Railway
+BNT,Brinnington,North West,Stockport,Northern Trains
+BNV,Banavie,Scotland,Highland,ScotRail
+BNW,Bootle New Strand,North West,Sefton,Merseyrail
+BNY,Barnsley,Yorkshire and The Humber,Barnsley,Northern Trains
+BOA,Bradford-on-Avon,South West,Wiltshire,Great Western Railway
+BOC,Bootle (Cumbria),North West,Cumberland,Northern Trains
+BOD,Bodmin Parkway,South West,Cornwall,Great Western Railway
+BOE,Botley,South East,Winchester,South Western Railway
+BOG,Bognor Regis,South East,Arun,Govia Thameslink Railway (Southern)
+BOH,Bosham,South East,Chichester,Govia Thameslink Railway (Southern)
+BOM,Bromborough,North West,Wirral,Merseyrail
+BON,Bolton,North West,Bolton,Northern Trains
+BOP,Bowes Park,London,Haringey,Govia Thameslink Railway (Great Northern)
+BOR,Bodorgan,Wales,Isle of Anglesey - Ynys Môn,TfW Rail
+BOT,Bootle Oriel Road,North West,Sefton,Merseyrail
+BOW,Bow Street,Wales,Ceredigion - Ceredigion,TfW Rail
+BPA,Beaulieu Park,East of England,Chelmsford,Greater Anglia
+BPB,Blackpool Pleasure Beach,North West,Blackpool,Northern Trains
+BPK,Brookmans Park,East of England,Welwyn Hatfield,Govia Thameslink Railway (Great Northern)
+BPN,Blackpool North,North West,Blackpool,Northern Trains
+BPS,Blackpool South,North West,Blackpool,Northern Trains
+BPT,Bishopton (Renfrewshire),Scotland,Renfrewshire,ScotRail
+BPW,Bristol Parkway,South West,South Gloucestershire,Great Western Railway
+BRA,Brora,Scotland,Highland,ScotRail
+BRC,Breich,Scotland,West Lothian,ScotRail
+BRE,Brentwood,East of England,Brentwood,Elizabeth line
+BRF,Brierfield,North West,Pendle,Northern Trains
+BRG,Borough Green and Wrotham,South East,Tonbridge and Malling,Southeastern
+BRH,Borth,Wales,Ceredigion - Ceredigion,TfW Rail
+BRI,Bristol Temple Meads,South West,"Bristol, City of",Network Rail
+BRK,Berwick (Sussex),South East,Wealden,Govia Thameslink Railway (Southern)
+BRL,Barrhill,Scotland,South Ayrshire,ScotRail
+BRM,Barmouth,Wales,Gwynedd - Gwynedd,TfW Rail
+BRN,Bearsden,Scotland,East Dunbartonshire,ScotRail
+BRO,Bridge of Orchy,Scotland,Argyll and Bute,ScotRail
+BRP,Brampton (Suffolk),East of England,East Suffolk,Greater Anglia
+BRR,Barrhead,Scotland,East Renfrewshire,ScotRail
+BRS,Berrylands,London,Kingston upon Thames,South Western Railway
+BRU,Bruton,South West,Somerset,Great Western Railway
+BRV,Bournville,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+BRW,Brunswick,North West,Liverpool,Merseyrail
+BRX,Brixton,London,Lambeth,Southeastern
+BRY,Barry,Wales,Vale of Glamorgan - Bro Morgannwg,TfW Rail
+BSB,Bleasby,East Midlands,Newark and Sherwood,East Midlands Railway
+BSC,Bescot Stadium,West Midlands,Sandwell,West Midlands Trains (West Midlands Railway)
+BSD,Bearsted,South East,Maidstone,Southeastern
+BSE,Bury St Edmunds,East of England,West Suffolk,Greater Anglia
+BSH,Bushey,East of England,Watford,London Overground
+BSI,Balmossie,Scotland,Angus,ScotRail
+BSJ,Bedford St Johns,East of England,Bedford,West Midlands Trains (London Northwestern Railway)
+BSK,Basingstoke,South East,Basingstoke and Deane,South Western Railway
+BSL,Beasdale,Scotland,Highland,ScotRail
+BSM,Branksome,South West,"Bournemouth, Christchurch and Poole",South Western Railway
+BSN,Boston,East Midlands,Boston,East Midlands Railway
+BSO,Basildon,East of England,Basildon,c2c
+BSP,Brondesbury Park,London,Brent,London Overground
+BSR,Broadstairs,South East,Thanet,Southeastern
+BSS,Barassie,Scotland,South Ayrshire,ScotRail
+BSU,Brunstane,Scotland,City of Edinburgh,ScotRail
+BSV,Buckshaw Parkway,North West,Chorley,Northern Trains
+BSW,Birmingham Snow Hill,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+BSY,Brondesbury,London,Brent,London Overground
+BTB,Barnetby,Yorkshire and The Humber,North Lincolnshire,TransPennine Express
+BTD,Bolton-upon-Dearne,Yorkshire and The Humber,Barnsley,Northern Trains
+BTE,Bitterne,South East,Southampton,South Western Railway
+BTF,Bottesford,East Midlands,Melton,East Midlands Railway
+BTG,Barnt Green,West Midlands,Bromsgrove,West Midlands Trains (West Midlands Railway)
+BTH,Bath Spa,South West,Bath and North East Somerset,Great Western Railway
+BTL,Batley,Yorkshire and The Humber,Kirklees,Northern Trains
+BTN,Brighton,South East,Brighton and Hove,Govia Thameslink Railway (Southern)
+BTO,Betchworth,South East,Mole Valley,Great Western Railway
+BTP,Braintree Freeport,East of England,Braintree,Greater Anglia
+BTR,Braintree,East of England,Braintree,Greater Anglia
+BTS,Burntisland,Scotland,Fife,ScotRail
+BTT,Battersby,Yorkshire and The Humber,North Yorkshire,Northern Trains
+BTY,Bentley (Hampshire),South East,East Hampshire,South Western Railway
+BUB,Burnley Barracks,North West,Burnley,Northern Trains
+BUC,Buckenham,East of England,Broadland,Greater Anglia
+BUD,Burneside (Cumbria),North West,Westmorland and Furness,Northern Trains
+BUE,Bures,East of England,Braintree,Greater Anglia
+BUG,Burgess Hill,South East,Mid Sussex,Govia Thameslink Railway (Southern)
+BUH,Brough,Yorkshire and The Humber,East Riding of Yorkshire,TransPennine Express
+BUI,Burnside (South Lanarkshire),Scotland,South Lanarkshire,ScotRail
+BUJ,Burton Joyce,East Midlands,Gedling,East Midlands Railway
+BUK,Bucknell,West Midlands,Shropshire,TfW Rail
+BUL,Butlers Lane,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+BUO,Bursledon,South East,Eastleigh,South Western Railway
+BUS,Busby,Scotland,East Renfrewshire,ScotRail
+BUT,Burton-on-Trent,West Midlands,East Staffordshire,East Midlands Railway
+BUU,Burnham-on-Crouch,East of England,Maldon,Greater Anglia
+BUW,Burley-in-Wharfedale,Yorkshire and The Humber,Bradford,Northern Trains
+BUX,Buxton,East Midlands,High Peak,Northern Trains
+BUY,Burley Park,Yorkshire and The Humber,Leeds,Northern Trains
+BVD,Belvedere,London,Bexley,Southeastern
+BWB,Bow Brickhill,South East,Milton Keynes,West Midlands Trains (London Northwestern Railway)
+BWD,Birchwood,North West,Warrington,Northern Trains
+BWG,Bowling,Scotland,West Dunbartonshire,ScotRail
+BWK,Berwick-upon-Tweed,North East,Northumberland,London North Eastern Railway
+BWN,Bloxwich North,West Midlands,Walsall,West Midlands Trains (West Midlands Railway)
+BWO,Bricket Wood,East of England,St Albans,West Midlands Trains (London Northwestern Railway)
+BWS,Barrow-upon-Soar,East Midlands,Charnwood,East Midlands Railway
+BWT,Bridgwater,South West,Somerset,Great Western Railway
+BXB,Broxbourne,East of England,Broxbourne,Greater Anglia
+BXD,Buxted,South East,Wealden,Govia Thameslink Railway (Southern)
+BXH,Bexleyheath,London,Bexley,Southeastern
+BXW,Box Hill and Westhumble,South East,Mole Valley,Govia Thameslink Railway (Southern)
+BXY,Bexley,London,Bexley,Southeastern
+BYA,Berney Arms,East of England,Broadland,Greater Anglia
+BYB,Blythe Bridge,West Midlands,Staffordshire Moorlands,East Midlands Railway
+BYC,Betws-y-Coed,Wales,Conwy - Conwy,TfW Rail
+BYD,Barry Docks,Wales,Vale of Glamorgan - Bro Morgannwg,TfW Rail
+BYE,Bynea,Wales,Carmarthenshire - Sir Gaerfyrddin,TfW Rail
+BYF,Broughty Ferry,Scotland,Dundee City,ScotRail
+BYI,Barry Island,Wales,Vale of Glamorgan - Bro Morgannwg,TfW Rail
+BYK,Bentley (South Yorkshire),Yorkshire and The Humber,Doncaster,Northern Trains
+BYL,Barry Links,Scotland,Angus,ScotRail
+BYM,Burnley Manchester Road,North West,Burnley,Northern Trains
+BYN,Bryn,North West,Wigan,Northern Trains
+BYS,Braystones,North West,Cumberland,Northern Trains
+CAA,Coventry Arena,West Midlands,Coventry,West Midlands Trains (West Midlands Railway)
+CAC,Caldercruix,Scotland,North Lanarkshire,ScotRail
+CAD,Cadoxton,Wales,Vale of Glamorgan - Bro Morgannwg,TfW Rail
+CAG,Carrbridge,Scotland,Highland,ScotRail
+CAK,Cark and Cartmel,North West,Westmorland and Furness,Northern Trains
+CAM,Camberley,South East,Surrey Heath,South Western Railway
+CAN,Carnoustie,Scotland,Angus,ScotRail
+CAO,Cannock,West Midlands,Cannock Chase,West Midlands Trains (West Midlands Railway)
+CAR,Carlisle,North West,Cumberland,Avanti West Coast
+CAS,Castleton (Manchester),North West,Rochdale,Northern Trains
+CAT,Caterham,South East,Tandridge,Govia Thameslink Railway (Southern)
+CAU,Causeland,South West,Cornwall,Great Western Railway
+CAY,Carntyne,Scotland,Glasgow City,ScotRail
+CBB,Carbis Bay,South West,Cornwall,Great Western Railway
+CBC,Coatbridge Central,Scotland,North Lanarkshire,ScotRail
+CBD,Conon Bridge,Scotland,Highland,ScotRail
+CBE,Canterbury East,South East,Canterbury,Southeastern
+CBG,Cambridge,East of England,Cambridge,Greater Anglia
+CBH,Cambridge Heath,London,Tower Hamlets,London Overground
+CBK,Cranbrook (Devon),South West,East Devon,South Western Railway
+CBL,Cambuslang,Scotland,South Lanarkshire,ScotRail
+CBN,Camborne,South West,Cornwall,Great Western Railway
+CBP,Castle Bar Park,London,Ealing,Great Western Railway
+CBR,Cooksbridge,South East,Lewes,Govia Thameslink Railway (Southern)
+CBS,Coatbridge Sunnyside,Scotland,North Lanarkshire,ScotRail
+CBW,Canterbury West,South East,Canterbury,Southeastern
+CBX,Cameron Bridge,Scotland,Fife,ScotRail
+CBY,Charlbury,South East,West Oxfordshire,Great Western Railway
+CCC,Criccieth,Wales,Gwynedd - Gwynedd,TfW Rail
+CCH,Chichester,South East,Chichester,Govia Thameslink Railway (Southern)
+CCT,Cathcart,Scotland,Glasgow City,ScotRail
+CDB,Cardiff Bay,Wales,Cardiff - Caerdydd,TfW Rail
+CDD,Cardenden,Scotland,Fife,ScotRail
+CDF,Cardiff Central,Wales,Cardiff - Caerdydd,TfW Rail
+CDI,Crediton,South West,Mid Devon,Great Western Railway
+CDN,Coulsdon Town,London,Croydon,Govia Thameslink Railway (Southern)
+CDO,Cardonald,Scotland,Glasgow City,ScotRail
+CDQ,Cardiff Queen Street,Wales,Cardiff - Caerdydd,TfW Rail
+CDR,Cardross,Scotland,Argyll and Bute,ScotRail
+CDS,Coulsdon South,London,Croydon,Govia Thameslink Railway (Southern)
+CDT,Caldicot,Wales,Monmouthshire - Sir Fynwy,TfW Rail
+CDU,Cam and Dursley,South West,Stroud,Great Western Railway
+CDY,Cartsdyke,Scotland,Inverclyde,ScotRail
+CEA,Cleland,Scotland,North Lanarkshire,ScotRail
+CED,Cheddington,South East,Buckinghamshire,West Midlands Trains (London Northwestern Railway)
+CEF,Chapel-en-le-Frith,East Midlands,High Peak,Northern Trains
+CEH,Coleshill Parkway,West Midlands,North Warwickshire,West Midlands Trains (West Midlands Railway)
+CEL,Chelford (Cheshire),North West,Cheshire East,Northern Trains
+CES,Cressing (Essex),East of England,Braintree,Greater Anglia
+CET,Colchester Town,East of England,Colchester,Greater Anglia
+CEY,Cononley,Yorkshire and The Humber,North Yorkshire,Northern Trains
+CFB,Catford Bridge,London,Lewisham,Southeastern
+CFD,Castleford,Yorkshire and The Humber,Wakefield,Northern Trains
+CFF,Croftfoot,Scotland,Glasgow City,ScotRail
+CFH,Chafford Hundred Lakeside,East of England,Thurrock,c2c
+CFL,Crossflatts,Yorkshire and The Humber,Bradford,Northern Trains
+CFN,Clifton Down,South West,"Bristol, City of",Great Western Railway
+CFO,Chalfont and Latimer,South East,Buckinghamshire,London Underground
+CFR,Chandlers Ford,South East,Eastleigh,South Western Railway
+CFT,Crofton Park,London,Lewisham,Govia Thameslink Railway (Thameslink)
+CGD,Craigendoran,Scotland,Argyll and Bute,ScotRail
+CGM,Cottingham,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+CGN,Cogan,Wales,Vale of Glamorgan - Bro Morgannwg,TfW Rail
+CGW,Caergwrle,Wales,Flintshire - Sir y Fflint,TfW Rail
+CHC,Charing Cross (Glasgow),Scotland,Glasgow City,ScotRail
+CHD,Chesterfield,East Midlands,Chesterfield,East Midlands Railway
+CHE,Cheam,London,Sutton,Govia Thameslink Railway (Southern)
+CHF,Church Fenton,Yorkshire and The Humber,North Yorkshire,Northern Trains
+CHG,Charing (Kent),South East,Ashford,Southeastern
+CHH,Christs Hospital,South East,Horsham,Govia Thameslink Railway (Southern)
+CHI,Chingford,London,Waltham Forest,London Overground
+CHK,Chiswick,London,Hounslow,South Western Railway
+CHL,Chilworth,South East,Guildford,Great Western Railway
+CHM,Chelmsford,East of England,Chelmsford,Greater Anglia
+CHN,Cheshunt,East of England,Broxbourne,Greater Anglia
+CHO,Cholsey,South East,South Oxfordshire,Great Western Railway
+CHP,Chipstead,South East,Reigate and Banstead,Govia Thameslink Railway (Southern)
+CHR,Christchurch,South West,"Bournemouth, Christchurch and Poole",South Western Railway
+CHT,Chathill,North East,Northumberland,Northern Trains
+CHU,Cheadle Hulme,North West,Stockport,Northern Trains
+CHW,Chalkwell,East of England,Southend-on-Sea,c2c
+CHX,London Charing Cross,London,Westminster,Network Rail
+CHY,Chertsey,South East,Runnymede,South Western Railway
+CIL,Chilham,South East,Ashford,Southeastern
+CIM,Cilmeri,Wales,Powys - Powys,TfW Rail
+CIR,Caledonian Road and Barnsbury,London,Islington,London Overground
+CIT,Chislehurst,London,Bromley,Southeastern
+CKH,Corkerhill,Scotland,Glasgow City,ScotRail
+CKL,Corkickle,North West,Cumberland,Northern Trains
+CKN,Crewkerne,South West,Somerset,South Western Railway
+CKS,Clarkston,Scotland,East Renfrewshire,ScotRail
+CKT,Crookston,Scotland,Glasgow City,ScotRail
+CKY,Crosskeys,Wales,Caerphilly - Caerffili,TfW Rail
+CLA,Clandon,South East,Guildford,South Western Railway
+CLC,Castle Cary,South West,Somerset,Great Western Railway
+CLD,Chelsfield,London,Bromley,Southeastern
+CLE,Cleethorpes,Yorkshire and The Humber,North East Lincolnshire,TransPennine Express
+CLG,Claygate,South East,Elmbridge,South Western Railway
+CLH,Clitheroe,North West,Ribble Valley,Northern Trains
+CLI,Clifton (Manchester),North West,Salford,Northern Trains
+CLJ,Clapham Junction,London,Wandsworth,Network Rail
+CLK,Clock House,London,Bromley,Southeastern
+CLL,Collington,South East,Rother,Govia Thameslink Railway (Southern)
+CLM,Collingham,East Midlands,Newark and Sherwood,East Midlands Railway
+CLN,Chapeltown (South Yorkshire),Yorkshire and The Humber,Sheffield,Northern Trains
+CLP,Clapham High Street,London,Lambeth,London Overground
+CLR,Clarbeston Road,Wales,Pembrokeshire - Sir Benfro,TfW Rail
+CLS,Chester-le-Street,North East,County Durham,Northern Trains
+CLT,Clacton-on-Sea,East of England,Tendring,Greater Anglia
+CLU,Carluke,Scotland,South Lanarkshire,ScotRail
+CLV,Claverdon,West Midlands,Stratford-on-Avon,West Midlands Trains (West Midlands Railway)
+CLW,Chorleywood,East of England,Three Rivers,London Underground
+CLY,Chinley,East Midlands,High Peak,Northern Trains
+CMB,Cambridge North,East of England,South Cambridgeshire,Greater Anglia
+CMD,Camden Road,London,Camden,London Overground
+CME,Combe (Oxon),South East,West Oxfordshire,Great Western Railway
+CMF,Cromford,East Midlands,Derbyshire Dales,East Midlands Railway
+CMH,Cwmbach,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+CML,Carmyle,Scotland,Glasgow City,ScotRail
+CMN,Carmarthen,Wales,Carmarthenshire - Sir Gaerfyrddin,TfW Rail
+CMO,Camelon,Scotland,Falkirk,ScotRail
+CMR,Cromer,East of England,North Norfolk,Greater Anglia
+CMY,Crossmyloof,Scotland,Glasgow City,ScotRail
+CNE,Colne,North West,Pendle,Northern Trains
+CNF,Carnforth,North West,Lancaster,Northern Trains
+CNG,Congleton,North West,Cheshire East,Northern Trains
+CNL,Canley,West Midlands,Coventry,West Midlands Trains (West Midlands Railway)
+CNM,Cheltenham Spa,South West,Cheltenham,Great Western Railway
+CNN,Canonbury,London,Islington,London Overground
+CNO,Chetnole,South West,Dorset,Great Western Railway
+CNP,Conway Park,North West,Wirral,Merseyrail
+CNR,Crianlarich,Scotland,Stirling,ScotRail
+CNS,Conisbrough,Yorkshire and The Humber,Doncaster,Northern Trains
+CNW,Conwy,Wales,Conwy - Conwy,TfW Rail
+CNY,Cantley,East of England,Broadland,Greater Anglia
+COA,Coatdyke,Scotland,North Lanarkshire,ScotRail
+COB,Cooden Beach,South East,Rother,Govia Thameslink Railway (Southern)
+COE,Coombe Junction Halt,South West,Cornwall,Great Western Railway
+COH,Crowborough,South East,Wealden,Govia Thameslink Railway (Southern)
+COI,Crosshill,Scotland,Glasgow City,ScotRail
+COL,Colchester,East of England,Colchester,Greater Anglia
+COM,Commondale,Yorkshire and The Humber,North Yorkshire,Northern Trains
+CON,Connel Ferry,Scotland,Argyll and Bute,ScotRail
+COO,Cookham,South East,Windsor and Maidenhead,Great Western Railway
+COP,Copplestone,South West,Mid Devon,Great Western Railway
+COR,Corby,East Midlands,North Northamptonshire,East Midlands Railway
+COS,Cosford,West Midlands,Shropshire,West Midlands Trains (West Midlands Railway)
+COT,Cottingley,Yorkshire and The Humber,Leeds,Northern Trains
+COV,Coventry,West Midlands,Coventry,Avanti West Coast
+COW,Cowdenbeath,Scotland,Fife,ScotRail
+COY,Coryton,Wales,Cardiff - Caerdydd,TfW Rail
+CPA,Corpach,Scotland,Highland,ScotRail
+CPH,Caerphilly,Wales,Caerphilly - Caerffili,TfW Rail
+CPK,Carpenders Park,East of England,Three Rivers,London Overground
+CPM,Chippenham,South West,Wiltshire,Great Western Railway
+CPN,Chapelton (Devon),South West,North Devon,Great Western Railway
+CPT,Clapton,London,Hackney,London Overground
+CPU,Capenhurst,North West,Cheshire West and Chester,Merseyrail
+CPW,Chepstow,Wales,Monmouthshire - Sir Fynwy,TfW Rail
+CPY,Clapham (North Yorkshire),Yorkshire and The Humber,North Yorkshire,Northern Trains
+CRA,Cradley Heath,West Midlands,Sandwell,West Midlands Trains (West Midlands Railway)
+CRB,Corbridge,North East,Northumberland,Northern Trains
+CRD,Chester Road,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+CRE,Crewe,North West,Cheshire East,Avanti West Coast
+CRF,Carfin,Scotland,North Lanarkshire,ScotRail
+CRG,Cross Gates,Yorkshire and The Humber,Leeds,Northern Trains
+CRH,Crouch Hill,London,Islington,London Overground
+CRI,Cricklewood,London,Barnet,Govia Thameslink Railway (Thameslink)
+CRK,Chirk,Wales,Wrexham - Wrecsam,TfW Rail
+CRL,Chorley,North West,Chorley,Northern Trains
+CRM,Cramlington,North East,Northumberland,Northern Trains
+CRN,Crowthorne,South East,Bracknell Forest,Great Western Railway
+CRO,Croy,Scotland,North Lanarkshire,ScotRail
+CRR,Corrour,Scotland,Highland,ScotRail
+CRS,Carstairs,Scotland,South Lanarkshire,ScotRail
+CRT,Chartham,South East,Canterbury,Southeastern
+CRV,Craven Arms,West Midlands,Shropshire,TfW Rail
+CRW,Crawley,South East,Crawley,Govia Thameslink Railway (Southern)
+CRY,Crayford,London,Bexley,Southeastern
+CSA,Cosham,South East,Portsmouth,South Western Railway
+CSB,Carshalton Beeches,London,Sutton,Govia Thameslink Railway (Southern)
+CSD,Cobham and Stoke d'Abernon,South East,Elmbridge,South Western Railway
+CSG,Cressington,North West,Liverpool,Merseyrail
+CSH,Carshalton,London,Sutton,Govia Thameslink Railway (Southern)
+CSK,Calstock,South West,Cornwall,Great Western Railway
+CSL,Codsall,West Midlands,South Staffordshire,West Midlands Trains (West Midlands Railway)
+CSM,Castleton Moor,Yorkshire and The Humber,North Yorkshire,Northern Trains
+CSN,Chessington North,London,Kingston upon Thames,South Western Railway
+CSO,Croston,North West,Chorley,Northern Trains
+CSR,Chassen Road,North West,Trafford,Northern Trains
+CSS,Chessington South,London,Kingston upon Thames,South Western Railway
+CST,London Cannon Street,London,City of London,Network Rail
+CSW,Chestfield and Swalecliffe,South East,Canterbury,Southeastern
+CSY,Coseley,West Midlands,Dudley,West Midlands Trains (West Midlands Railway)
+CTE,Chatelherault,Scotland,South Lanarkshire,ScotRail
+CTF,Catford,London,Lewisham,Govia Thameslink Railway (Thameslink)
+CTH,Chadwell Heath,London,Redbridge,Elizabeth line
+CTK,City Thameslink,London,City of London,Govia Thameslink Railway (Thameslink)
+CTL,Cattal,Yorkshire and The Humber,North Yorkshire,Northern Trains
+CTM,Chatham,South East,Medway,Southeastern
+CTN,Charlton,London,Greenwich,Southeastern
+CTO,Carlton,East Midlands,Gedling,East Midlands Railway
+CTR,Chester,North West,Cheshire West and Chester,TfW Rail
+CTT,Church Stretton,West Midlands,Shropshire,TfW Rail
+CTW,Church and Oswaldtwistle,North West,Hyndburn,Northern Trains
+CUA,Culrain,Scotland,Highland,ScotRail
+CUB,Cumbernauld,Scotland,North Lanarkshire,ScotRail
+CUD,Cuddington,North West,Cheshire West and Chester,Northern Trains
+CUF,Cuffley,East of England,Welwyn Hatfield,Govia Thameslink Railway (Great Northern)
+CUH,Curriehill,Scotland,City of Edinburgh,ScotRail
+CUM,Culham,South East,South Oxfordshire,Great Western Railway
+CUP,Cupar,Scotland,Fife,ScotRail
+CUS,Custom House,London,Newham,Elizabeth line
+CUW,Clunderwen,Wales,Pembrokeshire - Sir Benfro,TfW Rail
+CUX,Cuxton,South East,Medway,Southeastern
+CWB,Colwyn Bay,Wales,Conwy - Conwy,TfW Rail
+CWC,Chappel and Wakes Colne,East of England,Colchester,Greater Anglia
+CWD,Creswell,East Midlands,Bolsover,East Midlands Railway
+CWE,Crowle,Yorkshire and The Humber,North Lincolnshire,Northern Trains
+CWH,Crews Hill,London,Enfield,Govia Thameslink Railway (Great Northern)
+CWL,Colwall,West Midlands,"Herefordshire, County of",West Midlands Trains (West Midlands Railway)
+CWM,Cwmbran,Wales,Torfaen - Torfaen,TfW Rail
+CWN,Cowden (Kent),South East,Sevenoaks,Govia Thameslink Railway (Southern)
+CWS,Caersws,Wales,Powys - Powys,TfW Rail
+CWU,Crowhurst,South East,Rother,Southeastern
+CWX,Canary Wharf,London,Tower Hamlets,Elizabeth line
+CYB,Cefn-y-Bedd,Wales,Flintshire - Sir y Fflint,TfW Rail
+CYK,Clydebank,Scotland,West Dunbartonshire,ScotRail
+CYN,Cynghordy,Wales,Carmarthenshire - Sir Gaerfyrddin,TfW Rail
+CYP,Crystal Palace,London,Bromley,London Overground
+CYS,Cathays,Wales,Cardiff - Caerdydd,TfW Rail
+CYT,Cherry Tree,North West,Blackburn with Darwen,Northern Trains
+DAG,Dalgety Bay,Scotland,Fife,ScotRail
+DAK,Dalmarnock,Scotland,Glasgow City,ScotRail
+DAL,Dalmally,Scotland,Argyll and Bute,ScotRail
+DAM,Dalmeny,Scotland,City of Edinburgh,ScotRail
+DAN,Darnall,Yorkshire and The Humber,Sheffield,Northern Trains
+DAR,Darlington,North East,Darlington,London North Eastern Railway
+DAS,Darlaston,West Midlands,Walsall,West Midlands Trains (West Midlands Railway)
+DAT,Datchet,South East,Windsor and Maidenhead,South Western Railway
+DBC,Dumbarton Central,Scotland,West Dunbartonshire,ScotRail
+DBD,Denby Dale,Yorkshire and The Humber,Kirklees,Northern Trains
+DBE,Dumbarton East,Scotland,West Dunbartonshire,ScotRail
+DBG,Mottisfont and Dunbridge,South East,Test Valley,South Western Railway
+DBL,Dunblane,Scotland,Stirling,ScotRail
+DBR,Derby Road (Ipswich),East of England,Ipswich,Greater Anglia
+DBY,Derby,East Midlands,Derby,East Midlands Railway
+DCG,Duncraig,Scotland,Highland,ScotRail
+DCH,Dorchester South,South West,Dorset,South Western Railway
+DCT,Danescourt,Wales,Cardiff - Caerdydd,TfW Rail
+DCW,Dorchester West,South West,Dorset,Great Western Railway
+DDG,Dorridge,West Midlands,Solihull,Chiltern Railways
+DDK,Dagenham Dock,London,Barking and Dagenham,c2c
+DDP,Dudley Port,West Midlands,Sandwell,West Midlands Trains (West Midlands Railway)
+DEA,Deal,South East,Dover,Southeastern
+DEE,Dundee,Scotland,Dundee City,ScotRail
+DEN,Dean (Wilts),South West,Wiltshire,South Western Railway
+DEP,Deptford,London,Lewisham,Southeastern
+DEW,Dewsbury,Yorkshire and The Humber,Kirklees,TransPennine Express
+DFD,Dartford,South East,Dartford,Southeastern
+DFE,Dunfermline City,Scotland,Fife,ScotRail
+DFI,Duffield,East Midlands,Amber Valley,East Midlands Railway
+DFL,Dunfermline Queen Margaret,Scotland,Fife,ScotRail
+DFR,Drumfrochar,Scotland,Inverclyde,ScotRail
+DGC,Denham Golf Club,South East,Buckinghamshire,Chiltern Railways
+DGL,Dingle Road,Wales,Vale of Glamorgan - Bro Morgannwg,TfW Rail
+DGT,Deansgate,North West,Manchester,Northern Trains
+DGY,Deganwy,Wales,Conwy - Conwy,TfW Rail
+DHM,Durham,North East,County Durham,London North Eastern Railway
+DHN,Deighton,Yorkshire and The Humber,Kirklees,Northern Trains
+DID,Didcot Parkway,South East,South Oxfordshire,Great Western Railway
+DIG,Digby and Sowton,South West,Exeter,Great Western Railway
+DIN,Dingwall,Scotland,Highland,ScotRail
+DIS,Diss,East of England,South Norfolk,Greater Anglia
+DKD,Dunkeld and Birnam,Scotland,Perth and Kinross,ScotRail
+DKG,Dorking (Main),South East,Mole Valley,Govia Thameslink Railway (Southern)
+DKT,Dorking West,South East,Mole Valley,Great Western Railway
+DLG,Dolgarrog,Wales,Conwy - Conwy,TfW Rail
+DLH,Doleham,South East,Rother,Govia Thameslink Railway (Southern)
+DLJ,Dalston Junction,London,Hackney,London Overground
+DLK,Dalston Kingsland,London,Hackney,London Overground
+DLM,Delamere,North West,Cheshire West and Chester,Northern Trains
+DLR,Dalreoch,Scotland,West Dunbartonshire,ScotRail
+DLS,Dalston (Cumbria),North West,Cumberland,Northern Trains
+DLT,Dalton (Cumbria),North West,Westmorland and Furness,Northern Trains
+DLW,Dalwhinnie,Scotland,Highland,ScotRail
+DLY,Dalry,Scotland,North Ayrshire,ScotRail
+DMC,Drumchapel,Scotland,Glasgow City,ScotRail
+DMF,Dumfries,Scotland,Dumfries and Galloway,ScotRail
+DMG,Dinas (Rhondda),Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+DMH,Dilton Marsh,South West,Wiltshire,Great Western Railway
+DMK,Denmark Hill,London,Southwark,Govia Thameslink Railway (Thameslink)
+DMP,Dumpton Park,South East,Thanet,Southeastern
+DMR,Dalmuir,Scotland,West Dunbartonshire,ScotRail
+DMS,Dormans,South East,Tandridge,Govia Thameslink Railway (Southern)
+DMY,Drumry,Scotland,West Dunbartonshire,ScotRail
+DND,Dinsdale,North East,Darlington,Northern Trains
+DNG,Dunton Green,South East,Sevenoaks,Southeastern
+DNL,Dunlop,Scotland,East Ayrshire,ScotRail
+DNM,Denham,South East,Buckinghamshire,Chiltern Railways
+DNO,Dunrobin Castle,Scotland,Highland,ScotRail
+DNS,Dinas Powys,Wales,Vale of Glamorgan - Bro Morgannwg,TfW Rail
+DNT,Dent,North West,Westmorland and Furness,Northern Trains
+DNY,Danby,Yorkshire and The Humber,North Yorkshire,Northern Trains
+DOC,Dockyard (Devonport),South West,Plymouth,Great Western Railway
+DOD,Dodworth,Yorkshire and The Humber,Barnsley,Northern Trains
+DOL,Dolau,Wales,Powys - Powys,TfW Rail
+DON,Doncaster,Yorkshire and The Humber,Doncaster,London North Eastern Railway
+DOR,Dore and Totley,Yorkshire and The Humber,Sheffield,Northern Trains
+DOT,Dunston,North East,Gateshead,Northern Trains
+DOW,Downham Market,East of England,King's Lynn and West Norfolk,Govia Thameslink Railway (Great Northern)
+DPD,Dorking (Deepdene),South East,Mole Valley,Great Western Railway
+DPT,Devonport,South West,Plymouth,Great Western Railway
+DRF,Driffield,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+DRG,Drayton Green,London,Ealing,Great Western Railway
+DRI,Drigg,North West,Cumberland,Northern Trains
+DRM,Drem,Scotland,East Lothian,ScotRail
+DRN,Duirinish,Scotland,Highland,ScotRail
+DRO,Dronfield,East Midlands,North East Derbyshire,Northern Trains
+DRT,Darton,Yorkshire and The Humber,Barnsley,Northern Trains
+DRU,Drumgelloch,Scotland,North Lanarkshire,ScotRail
+DSL,Disley,North West,Cheshire East,Northern Trains
+DSM,Darsham,East of England,East Suffolk,Greater Anglia
+DST,Duke Street,Scotland,Glasgow City,ScotRail
+DSY,Daisy Hill,North West,Bolton,Northern Trains
+DTG,Dinting,East Midlands,High Peak,Northern Trains
+DTN,Denton,North West,Tameside,Northern Trains
+DTW,Droitwich Spa,West Midlands,Wychavon,West Midlands Trains (West Midlands Railway)
+DUD,Duddeston,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+DUL,Dullingham,East of England,East Cambridgeshire,Greater Anglia
+DUM,Dumbreck,Scotland,Glasgow City,ScotRail
+DUN,Dunbar,Scotland,East Lothian,ScotRail
+DUR,Durrington-on-Sea,South East,Worthing,Govia Thameslink Railway (Southern)
+DVC,Dovercourt,East of England,Tendring,Greater Anglia
+DVH,Dove Holes,East Midlands,High Peak,Northern Trains
+DVN,Davenport,North West,Stockport,Northern Trains
+DVP,Dover Priory,South East,Dover,Southeastern
+DVY,Dovey Junction,Wales,Powys - Powys,TfW Rail
+DWD,Dolwyddelan,Wales,Conwy - Conwy,TfW Rail
+DWL,Dawlish,South West,Teignbridge,Great Western Railway
+DWN,Darwen,North West,Blackburn with Darwen,Northern Trains
+DWW,Dawlish Warren,South West,Teignbridge,Great Western Railway
+DYC,Dyce,Scotland,Aberdeen City,ScotRail
+DYF,Dyffryn Ardudwy,Wales,Gwynedd - Gwynedd,TfW Rail
+DYP,Drayton Park,London,Islington,Govia Thameslink Railway (Great Northern)
+DZY,Danzey,West Midlands,Stratford-on-Avon,West Midlands Trains (West Midlands Railway)
+EAD,Earlsfield,London,Wandsworth,South Western Railway
+EAG,Eaglescliffe,North East,Stockton-on-Tees,Northern Trains
+EAL,Ealing Broadway,London,Ealing,Elizabeth line
+EAR,Earley,South East,Wokingham,South Western Railway
+EBA,Euxton Balshaw Lane,North West,Chorley,Northern Trains
+EBB,Ebbw Vale Town,Wales,Blaenau Gwent - Blaenau Gwent,TfW Rail
+EBD,Ebbsfleet International,South East,Dartford,HS1 Ltd
+EBK,Eastbrook,Wales,Vale of Glamorgan - Bro Morgannwg,TfW Rail
+EBN,Eastbourne,South East,Eastbourne,Govia Thameslink Railway (Southern)
+EBR,Edenbridge (Kent),South East,Sevenoaks,Govia Thameslink Railway (Southern)
+EBT,Edenbridge Town,South East,Sevenoaks,Govia Thameslink Railway (Southern)
+EBV,Ebbw Vale Parkway,Wales,Blaenau Gwent - Blaenau Gwent,TfW Rail
+ECC,Eccles (Manchester),North West,Salford,Northern Trains
+ECL,Eccleston Park,North West,St. Helens,Northern Trains
+ECP,Energlyn and Churchill Park,Wales,Caerphilly - Caerffili,TfW Rail
+ECR,East Croydon,London,Croydon,Govia Thameslink Railway (Southern)
+ECS,Eccles Road,East of England,Breckland,Greater Anglia
+EDB,Edinburgh,Scotland,City of Edinburgh,Network Rail
+EDG,Edge Hill,North West,Liverpool,Northern Trains
+EDL,Edale,East Midlands,High Peak,Northern Trains
+EDN,Eden Park,London,Bromley,Southeastern
+EDP,Edinburgh Park,Scotland,City of Edinburgh,ScotRail
+EDR,Edmonton Green,London,Enfield,London Overground
+EDW,East Dulwich,London,Southwark,Govia Thameslink Railway (Southern)
+EDY,East Didsbury,North West,Manchester,Northern Trains
+EFF,Effingham Junction,South East,Guildford,South Western Railway
+EFL,East Farleigh,South East,Maidstone,Southeastern
+EGF,East Garforth,Yorkshire and The Humber,Leeds,Northern Trains
+EGG,Eggesford,South West,Mid Devon,Great Western Railway
+EGH,Egham,South East,Runnymede,South Western Railway
+EGN,Eastrington,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+EGR,East Grinstead,South East,Mid Sussex,Govia Thameslink Railway (Southern)
+EGT,Egton,Yorkshire and The Humber,North Yorkshire,Northern Trains
+EGY,Edinburgh Gateway,Scotland,City of Edinburgh,ScotRail
+EKB,Eskbank,Scotland,Midlothian,ScotRail
+EKL,East Kilbride,Scotland,South Lanarkshire,ScotRail
+ELD,Earlswood (Surrey),South East,Reigate and Banstead,Govia Thameslink Railway (Southern)
+ELE,Elmers End,London,Bromley,Southeastern
+ELG,Elgin,Scotland,Moray,ScotRail
+ELO,Elton and Orston,East Midlands,Rushcliffe,East Midlands Railway
+ELP,Ellesmere Port,North West,Cheshire West and Chester,Merseyrail
+ELR,Elsecar,Yorkshire and The Humber,Barnsley,Northern Trains
+ELS,Elstree and Borehamwood,East of England,Hertsmere,Govia Thameslink Railway (Thameslink)
+ELT,East Linton,Scotland,East Lothian,ScotRail
+ELW,Eltham,London,Greenwich,Southeastern
+ELY,Ely,East of England,East Cambridgeshire,Greater Anglia
+EMD,East Midlands Parkway,East Midlands,Rushcliffe,East Midlands Railway
+EML,East Malling,South East,Tonbridge and Malling,Southeastern
+EMP,Emerson Park,London,Havering,London Overground
+EMS,Emsworth,South East,Havant,Govia Thameslink Railway (Southern)
+ENC,Enfield Chase,London,Enfield,Govia Thameslink Railway (Great Northern)
+ENF,Enfield Town,London,Enfield,London Overground
+ENL,Enfield Lock,London,Enfield,Greater Anglia
+ENT,Entwistle,North West,Blackburn with Darwen,Northern Trains
+EPD,Epsom Downs,South East,Reigate and Banstead,Govia Thameslink Railway (Southern)
+EPH,Elephant and Castle,London,Southwark,Govia Thameslink Railway (Thameslink)
+EPS,Epsom (Surrey),South East,Epsom and Ewell,Govia Thameslink Railway (Southern)
+ERA,Eastham Rake,North West,Wirral,Merseyrail
+ERD,Erdington,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+ERH,Erith,London,Bexley,Southeastern
+ERI,Eridge,South East,Wealden,Govia Thameslink Railway (Southern)
+ERL,Earlestown,North West,St. Helens,Northern Trains
+ESD,Elmstead Woods,London,Bromley,Southeastern
+ESH,Esher,South East,Elmbridge,South Western Railway
+ESL,Eastleigh,South East,Eastleigh,South Western Railway
+ESM,Elsenham (Essex),East of England,Uttlesford,Greater Anglia
+EST,Easterhouse,Scotland,Glasgow City,ScotRail
+ESW,Elmswell,East of England,Mid Suffolk,Greater Anglia
+ETC,Etchingham,South East,Rother,Southeastern
+ETL,East Tilbury,East of England,Thurrock,c2c
+EUS,London Euston,London,Camden,Network Rail
+EVE,Evesham,West Midlands,Wychavon,Great Western Railway
+EWD,Earlswood (West Midlands),West Midlands,Solihull,West Midlands Trains (West Midlands Railway)
+EWE,Ewell East,South East,Epsom and Ewell,Govia Thameslink Railway (Southern)
+EWR,East Worthing,South East,Worthing,Govia Thameslink Railway (Southern)
+EWW,Ewell West,South East,Epsom and Ewell,South Western Railway
+EXC,Exeter Central,South West,Exeter,Great Western Railway
+EXD,Exeter St David's,South West,Exeter,Great Western Railway
+EXG,Exhibition Centre (Glasgow),Scotland,Glasgow City,ScotRail
+EXM,Exmouth,South West,East Devon,Great Western Railway
+EXN,Exton,South West,East Devon,Great Western Railway
+EXR,Essex Road,London,Islington,Govia Thameslink Railway (Great Northern)
+EXT,Exeter St Thomas,South West,Exeter,Great Western Railway
+EYN,Eynsford,South East,Sevenoaks,Southeastern
+FAL,Falmouth Docks,South West,Cornwall,Great Western Railway
+FAV,Faversham,South East,Swale,Southeastern
+FAZ,Fazakerley,North West,Liverpool,Merseyrail
+FBY,Formby,North West,Sefton,Merseyrail
+FCN,Falconwood,London,Bexley,Southeastern
+FEA,Featherstone,Yorkshire and The Humber,Wakefield,Northern Trains
+FEL,Feltham,London,Hounslow,South Western Railway
+FEN,Fenny Stratford,South East,Milton Keynes,West Midlands Trains (London Northwestern Railway)
+FER,Fernhill,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+FFA,Ffairfach,Wales,Carmarthenshire - Sir Gaerfyrddin,TfW Rail
+FFD,Freshford,South West,Bath and North East Somerset,Great Western Railway
+FGH,Fishguard Harbour,Wales,Pembrokeshire - Sir Benfro,TfW Rail
+FGT,Faygate,South East,Horsham,Govia Thameslink Railway (Southern)
+FGW,Fishguard and Goodwick,Wales,Pembrokeshire - Sir Benfro,TfW Rail
+FIL,Filey,Yorkshire and The Humber,North Yorkshire,Northern Trains
+FIN,Finstock,South East,West Oxfordshire,Great Western Railway
+FIT,Filton Abbey Wood,South West,South Gloucestershire,Great Western Railway
+FKC,Folkestone Central,South East,Folkestone and Hythe,Southeastern
+FKG,Falkirk Grahamston,Scotland,Falkirk,ScotRail
+FKK,Falkirk High,Scotland,Falkirk,ScotRail
+FKW,Folkestone West,South East,Folkestone and Hythe,Southeastern
+FLD,Fauldhouse,Scotland,West Lothian,ScotRail
+FLE,Fleet,South East,Hart,South Western Railway
+FLF,Flowery Field,North West,Tameside,Northern Trains
+FLI,Flixton,North West,Trafford,Northern Trains
+FLM,Flimby,North West,Cumberland,Northern Trains
+FLN,Flint,Wales,Flintshire - Sir y Fflint,TfW Rail
+FLT,Flitwick,East of England,Central Bedfordshire,Govia Thameslink Railway (Thameslink)
+FLW,Fulwell,London,Richmond upon Thames,South Western Railway
+FLX,Felixstowe,East of England,East Suffolk,Greater Anglia
+FML,Frimley,South East,Surrey Heath,South Western Railway
+FMR,Falmer,South East,Brighton and Hove,Govia Thameslink Railway (Southern)
+FMT,Falmouth Town,South West,Cornwall,Great Western Railway
+FNB,Farnborough (Main),South East,Rushmoor,South Western Railway
+FNC,Farncombe,South East,Waverley,South Western Railway
+FNH,Farnham,South East,Waverley,South Western Railway
+FNN,Farnborough North,South East,Rushmoor,Great Western Railway
+FNR,Farningham Road,South East,Dartford,Southeastern
+FNT,Feniton,South West,East Devon,South Western Railway
+FNV,Furness Vale,East Midlands,High Peak,Northern Trains
+FNW,Farnworth,North West,Bolton,Northern Trains
+FNY,Finchley Road and Frognal,London,Camden,London Overground
+FOC,Falls of Cruachan,Scotland,Argyll and Bute,ScotRail
+FOD,Ford,South East,Arun,Govia Thameslink Railway (Southern)
+FOG,Forest Gate,London,Newham,Elizabeth line
+FOH,Forest Hill,London,Lewisham,London Overground
+FOK,Four Oaks,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+FOR,Forres,Scotland,Moray,ScotRail
+FOX,Foxfield,North West,Westmorland and Furness,Northern Trains
+FPK,Finsbury Park,London,Islington,Govia Thameslink Railway (Great Northern)
+FRB,Fairbourne,Wales,Gwynedd - Gwynedd,TfW Rail
+FRD,Frodsham,North West,Cheshire West and Chester,TfW Rail
+FRE,Freshfield,North West,Sefton,Merseyrail
+FRF,Fairfield,North West,Tameside,Northern Trains
+FRI,Frinton-on-Sea,East of England,Tendring,Greater Anglia
+FRL,Fairlie,Scotland,North Ayrshire,ScotRail
+FRM,Fareham,South East,Fareham,South Western Railway
+FRN,Fearn,Scotland,Highland,ScotRail
+FRO,Frome,South West,Somerset,Great Western Railway
+FRS,Forsinard,Scotland,Highland,ScotRail
+FRT,Frant,South East,Wealden,Southeastern
+FRW,Fairwater,Wales,Cardiff - Caerdydd,TfW Rail
+FRY,Ferriby,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+FSB,Fishbourne (Sussex),South East,Chichester,Govia Thameslink Railway (Southern)
+FSG,Fishersgate,South East,Adur,Govia Thameslink Railway (Southern)
+FSK,Fiskerton,East Midlands,Newark and Sherwood,East Midlands Railway
+FST,London Fenchurch Street,London,City of London,c2c
+FTM,Fort Matilda,Scotland,Inverclyde,ScotRail
+FTN,Fratton,South East,Portsmouth,South Western Railway
+FTW,Fort William,Scotland,Highland,ScotRail
+FWY,Five Ways,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+FXN,Foxton,East of England,South Cambridgeshire,Govia Thameslink Railway (Great Northern)
+FYS,Ferryside,Wales,Carmarthenshire - Sir Gaerfyrddin,TfW Rail
+FZH,Frizinghall,Yorkshire and The Humber,Bradford,Northern Trains
+FZP,Furze Platt,South East,Windsor and Maidenhead,Great Western Railway
+FZW,Fitzwilliam,Yorkshire and The Humber,Wakefield,Northern Trains
+GAL,Galashiels,Scotland,Scottish Borders,ScotRail
+GAR,Garrowhill,Scotland,Glasgow City,ScotRail
+GBD,Gilberdyke,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+GBG,Gorebridge,Scotland,Midlothian,ScotRail
+GBK,Greenbank,North West,Cheshire West and Chester,Northern Trains
+GBL,Gainsborough Lea Road,East Midlands,West Lindsey,East Midlands Railway
+GBS,Goring-by-Sea,South East,Worthing,Govia Thameslink Railway (Southern)
+GCH,Garelochhead,Scotland,Argyll and Bute,ScotRail
+GCR,Gloucester,South West,Gloucester,Great Western Railway
+GCT,Great Coates,Yorkshire and The Humber,North East Lincolnshire,East Midlands Railway
+GCW,Glan Conwy,Wales,Conwy - Conwy,TfW Rail
+GDH,Gordon Hill,London,Enfield,Govia Thameslink Railway (Great Northern)
+GDL,Godley,North West,Tameside,Northern Trains
+GDN,Godstone,South East,Tandridge,Govia Thameslink Railway (Southern)
+GDP,Gidea Park,London,Havering,Elizabeth line
+GEA,Gretna Green,Scotland,Dumfries and Galloway,ScotRail
+GER,Gerrards Cross,South East,Buckinghamshire,Chiltern Railways
+GFD,Greenford,London,Ealing,London Underground
+GFF,Gilfach Fargoed,Wales,Caerphilly - Caerffili,TfW Rail
+GFN,Giffnock,Scotland,East Renfrewshire,ScotRail
+GGJ,Georgemas Junction,Scotland,Highland,ScotRail
+GGV,Gargrave,Yorkshire and The Humber,North Yorkshire,Northern Trains
+GIG,Giggleswick,Yorkshire and The Humber,North Yorkshire,Northern Trains
+GIL,Gillingham (Dorset),South West,Dorset,South Western Railway
+GIP,Gipsy Hill,London,Lambeth,Govia Thameslink Railway (Southern)
+GIR,Girvan,Scotland,South Ayrshire,ScotRail
+GKC,Greenock Central,Scotland,Inverclyde,ScotRail
+GKW,Greenock West,Scotland,Inverclyde,ScotRail
+GLC,Glasgow Central,Scotland,Glasgow City,Network Rail
+GLD,Guildford,South East,Guildford,Network Rail
+GLE,Gleneagles,Scotland,Perth and Kinross,ScotRail
+GLF,Glenfinnan,Scotland,Highland,ScotRail
+GLG,Glengarnock,Scotland,North Ayrshire,ScotRail
+GLH,Glasshoughton,Yorkshire and The Humber,Wakefield,Northern Trains
+GLM,Gillingham (Kent),South East,Medway,Southeastern
+GLO,Glossop,East Midlands,High Peak,Northern Trains
+GLQ,Glasgow Queen Street,Scotland,Glasgow City,ScotRail
+GLS,Glaisdale,Yorkshire and The Humber,North Yorkshire,Northern Trains
+GLT,Glenrothes with Thornton,Scotland,Fife,ScotRail
+GLY,Glynde,South East,Lewes,Govia Thameslink Railway (Southern)
+GLZ,Glazebrook,North West,Warrington,Northern Trains
+GMB,Grimsby Town,Yorkshire and The Humber,North East Lincolnshire,TransPennine Express
+GMD,Grimsby Docks,Yorkshire and The Humber,North East Lincolnshire,East Midlands Railway
+GMG,Garth (Bridgend County),Wales,Bridgend - Pen-y-bont ar Ogwr,TfW Rail
+GMN,Great Missenden,South East,Buckinghamshire,Chiltern Railways
+GMT,Grosmont,Yorkshire and The Humber,North Yorkshire,Northern Trains
+GMV,Great Malvern,West Midlands,Malvern Hills,West Midlands Trains (West Midlands Railway)
+GMY,Goodmayes,London,Redbridge,Elizabeth line
+GNB,Gainsborough Central,East Midlands,West Lindsey,Northern Trains
+GNF,Greenfield,North West,Oldham,Northern Trains
+GNH,Greenhithe for Bluewater,South East,Dartford,Southeastern
+GNL,Green Lane,North West,Wirral,Merseyrail
+GNR,Green Road,North West,Cumberland,Northern Trains
+GNT,Gunton,East of England,North Norfolk,Greater Anglia
+GNW,Greenwich,London,Greenwich,Southeastern
+GOB,Gobowen,West Midlands,Shropshire,TfW Rail
+GOD,Godalming,South East,Waverley,South Western Railway
+GOE,Goldthorpe,Yorkshire and The Humber,Barnsley,Northern Trains
+GOF,Golf Street,Scotland,Angus,ScotRail
+GOL,Golspie,Scotland,Highland,ScotRail
+GOM,Gomshall,South East,Guildford,Great Western Railway
+GOO,Goole,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+GOR,Goring and Streatley,South East,South Oxfordshire,Great Western Railway
+GOS,Grange-over-Sands,North West,Westmorland and Furness,Northern Trains
+GOX,Goxhill,Yorkshire and The Humber,North Lincolnshire,East Midlands Railway
+GPK,Grange Park,London,Enfield,Govia Thameslink Railway (Great Northern)
+GPO,Gospel Oak,London,Camden,London Overground
+GRA,Grantham,East Midlands,South Kesteven,London North Eastern Railway
+GRB,Great Bentley,East of England,Tendring,Greater Anglia
+GRC,Great Chesterford,East of England,Uttlesford,Greater Anglia
+GRF,Garforth,Yorkshire and The Humber,Leeds,Northern Trains
+GRH,Gartcosh,Scotland,North Lanarkshire,ScotRail
+GRK,Gourock,Scotland,Inverclyde,ScotRail
+GRL,Greenfaulds,Scotland,North Lanarkshire,ScotRail
+GRN,Grindleford,East Midlands,Derbyshire Dales,Northern Trains
+GRP,Grove Park,London,Lewisham,Southeastern
+GRS,Garscadden,Scotland,Glasgow City,ScotRail
+GRT,Grateley,South East,Test Valley,South Western Railway
+GRV,Gravesend,South East,Gravesham,Southeastern
+GRY,Grays,East of England,Thurrock,c2c
+GSC,Gilshochill,Scotland,Glasgow City,ScotRail
+GSD,Garsdale,North West,Westmorland and Furness,Northern Trains
+GSL,Gunnislake,South West,Cornwall,Great Western Railway
+GSN,Garston (Hertfordshire),East of England,Watford,West Midlands Trains (London Northwestern Railway)
+GST,Gathurst,North West,Wigan,Northern Trains
+GSW,Garswood,North West,St. Helens,Northern Trains
+GSY,Guiseley,Yorkshire and The Humber,Leeds,Northern Trains
+GTA,Great Ayton,Yorkshire and The Humber,North Yorkshire,Northern Trains
+GTH,Garth (Powys),Wales,Powys - Powys,TfW Rail
+GTN,Grangetown (Cardiff),Wales,Cardiff - Caerdydd,TfW Rail
+GTO,Gorton,North West,Manchester,Northern Trains
+GTR,Goostrey,North West,Cheshire East,Northern Trains
+GTW,Gatwick Airport,South East,Crawley,Govia Thameslink Railway (Gatwick Express)
+GTY,Gatley,North West,Stockport,Northern Trains
+GUI,Guide Bridge,North West,Tameside,Northern Trains
+GUN,Gunnersbury,London,Hounslow,London Underground
+GVE,Garve,Scotland,Highland,ScotRail
+GVH,Gravelly Hill,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+GWE,Gwersyllt,Wales,Wrexham - Wrecsam,TfW Rail
+GWN,Gowerton,Wales,Swansea - Abertawe,TfW Rail
+GYM,Great Yarmouth,East of England,Great Yarmouth,Greater Anglia
+GYP,Gypsy Lane,North East,Redcar and Cleveland,Northern Trains
+HAB,Habrough,Yorkshire and The Humber,North East Lincolnshire,East Midlands Railway
+HAC,Hackney Downs,London,Hackney,London Overground
+HAD,Haddiscoe,East of England,South Norfolk,Greater Anglia
+HAF,Heathrow Terminal 4 (Rail Station Only),London,Hillingdon,Heathrow Express
+HAG,Hagley,West Midlands,Bromsgrove,West Midlands Trains (West Midlands Railway)
+HAI,Halling,South East,Medway,Southeastern
+HAL,Hale (Manchester),North West,Trafford,Northern Trains
+HAM,Hamworthy,South West,"Bournemouth, Christchurch and Poole",South Western Railway
+HAN,Hanwell,London,Ealing,Elizabeth line
+HAP,Hatfield Peverel,East of England,Braintree,Greater Anglia
+HAS,Halesworth,East of England,East Suffolk,Greater Anglia
+HAT,Hatfield (Herts),East of England,Welwyn Hatfield,Govia Thameslink Railway (Great Northern)
+HAV,Havant,South East,Havant,South Western Railway
+HAY,Hayes and Harlington,London,Hillingdon,Elizabeth line
+HAZ,Hazel Grove,North West,Stockport,Northern Trains
+HBB,Hubberts Bridge,East Midlands,Boston,East Midlands Railway
+HBD,Hebden Bridge,Yorkshire and The Humber,Calderdale,Northern Trains
+HBL,Headbolt Lane,North West,Knowsley,Merseyrail
+HBN,Hollingbourne,South East,Maidstone,Southeastern
+HBP,Hornbeam Park,Yorkshire and The Humber,North Yorkshire,Northern Trains
+HBY,Hartlebury,West Midlands,Wychavon,West Midlands Trains (West Midlands Railway)
+HCB,Hackbridge,London,Sutton,Govia Thameslink Railway (Southern)
+HCH,Holmes Chapel,North West,Cheshire East,Northern Trains
+HCN,Headcorn,South East,Maidstone,Southeastern
+HCT,Huncoat,North West,Hyndburn,Northern Trains
+HDB,Haydon Bridge,North East,Northumberland,Northern Trains
+HDE,Hedge End,South East,Eastleigh,South Western Railway
+HDF,Hadfield,East Midlands,High Peak,Northern Trains
+HDG,Heald Green,North West,Stockport,Northern Trains
+HDH,Hampstead Heath,London,Camden,London Overground
+HDL,Headstone Lane,London,Harrow,London Overground
+HDM,Haddenham and Thame Parkway,South East,Buckinghamshire,Chiltern Railways
+HDN,Harlesden,London,Brent,London Underground
+HDW,Hadley Wood,London,Enfield,Govia Thameslink Railway (Great Northern)
+HDY,Headingley,Yorkshire and The Humber,Leeds,Northern Trains
+HEC,Heckington,East Midlands,North Kesteven,East Midlands Railway
+HED,Halewood,North West,Knowsley,Northern Trains
+HEI,Heighington,North East,County Durham,Northern Trains
+HEL,Hensall,Yorkshire and The Humber,North Yorkshire,Northern Trains
+HEN,Hendon,London,Barnet,Govia Thameslink Railway (Thameslink)
+HER,Hersham,South East,Elmbridge,South Western Railway
+HES,Hessle,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+HEV,Hever,South East,Sevenoaks,Govia Thameslink Railway (Southern)
+HEW,Heworth,North East,Gateshead,Northern Trains
+HEX,Hexham,North East,Northumberland,Northern Trains
+HFD,Hereford,West Midlands,"Herefordshire, County of",TfW Rail
+HFE,Hertford East,East of England,East Hertfordshire,Greater Anglia
+HFN,Hertford North,East of England,East Hertfordshire,Govia Thameslink Railway (Great Northern)
+HFS,Hatfield and Stainforth,Yorkshire and The Humber,Doncaster,Northern Trains
+HFX,Halifax,Yorkshire and The Humber,Calderdale,Northern Trains
+HGD,Hungerford,South East,West Berkshire,Great Western Railway
+HGF,Hag Fold,North West,Wigan,Northern Trains
+HGG,Haggerston,London,Hackney,London Overground
+HGM,Higham,South East,Gravesham,Southeastern
+HGN,Hough Green,North West,Halton,Northern Trains
+HGR,Hither Green,London,Lewisham,Southeastern
+HGS,Hastings,South East,Hastings,Southeastern
+HGT,Harrogate,Yorkshire and The Humber,North Yorkshire,Northern Trains
+HGY,Harringay,London,Haringey,Govia Thameslink Railway (Great Northern)
+HHB,Heysham Port,North West,Lancaster,Northern Trains
+HHD,Holyhead,Wales,Isle of Anglesey - Ynys Môn,TfW Rail
+HHE,Haywards Heath,South East,Mid Sussex,Govia Thameslink Railway (Southern)
+HHL,Heath High Level,Wales,Cardiff - Caerdydd,TfW Rail
+HHY,Highbury and Islington,London,Islington,London Underground
+HIA,Hampton-in-Arden,West Midlands,Solihull,West Midlands Trains (West Midlands Railway)
+HIB,High Brooms,South East,Tunbridge Wells,Southeastern
+HID,Hall-i'-th'-Wood,North West,Bolton,Northern Trains
+HIG,Highbridge and Burnham,South West,Somerset,Great Western Railway
+HIL,Hillside,North West,Sefton,Merseyrail
+HIN,Hindley,North West,Wigan,Northern Trains
+HIP,Highams Park,London,Waltham Forest,London Overground
+HIR,Horton-in-Ribblesdale,Yorkshire and The Humber,North Yorkshire,Northern Trains
+HIT,Hitchin,East of England,North Hertfordshire,Govia Thameslink Railway (Great Northern)
+HKC,Hackney Central,London,Hackney,London Overground
+HKH,Hawkhead,Scotland,Renfrewshire,ScotRail
+HKM,Hykeham,East Midlands,North Kesteven,East Midlands Railway
+HKN,Hucknall,East Midlands,Ashfield,East Midlands Railway
+HKW,Hackney Wick,London,Hackney,London Overground
+HLB,Hildenborough,South East,Tonbridge and Malling,Southeastern
+HLC,Helensburgh Central,Scotland,Argyll and Bute,ScotRail
+HLD,Hellifield,Yorkshire and The Humber,North Yorkshire,Northern Trains
+HLE,Hillington East,Scotland,Glasgow City,ScotRail
+HLF,Hillfoot,Scotland,East Dunbartonshire,ScotRail
+HLG,Hall Green,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+HLI,Healing,Yorkshire and The Humber,North East Lincolnshire,East Midlands Railway
+HLL,Heath Low Level,Wales,Cardiff - Caerdydd,TfW Rail
+HLM,Holmwood,South East,Mole Valley,Govia Thameslink Railway (Southern)
+HLN,Harlington (Bedfordshire),East of England,Central Bedfordshire,Govia Thameslink Railway (Thameslink)
+HLR,Hall Road,North West,Sefton,Merseyrail
+HLS,Hilsea,South East,Portsmouth,South Western Railway
+HLU,Helensburgh Upper,Scotland,Argyll and Bute,ScotRail
+HLW,Hillington West,Scotland,Glasgow City,ScotRail
+HLY,Holytown,Scotland,North Lanarkshire,ScotRail
+HMC,Hampton Court,South East,Elmbridge,South Western Railway
+HMD,Hampden Park (Sussex),South East,Eastbourne,Govia Thameslink Railway (Southern)
+HME,Hamble,South East,Eastleigh,South Western Railway
+HML,Hemel Hempstead,East of England,Dacorum,West Midlands Trains (London Northwestern Railway)
+HMM,Hammerton,Yorkshire and The Humber,North Yorkshire,Northern Trains
+HMN,Homerton,London,Hackney,London Overground
+HMP,Hampton (London),London,Richmond upon Thames,South Western Railway
+HMS,Helmsdale,Scotland,Highland,ScotRail
+HMT,Ham Street,South East,Ashford,Govia Thameslink Railway (Southern)
+HMW,Hampton Wick,London,Richmond upon Thames,South Western Railway
+HMY,Hairmyres,Scotland,South Lanarkshire,ScotRail
+HNA,Hinton Admiral,South East,New Forest,South Western Railway
+HNB,Herne Bay,South East,Canterbury,Southeastern
+HNC,Hamilton Central,Scotland,South Lanarkshire,ScotRail
+HND,Hanborough,South East,West Oxfordshire,Great Western Railway
+HNF,Hednesford,West Midlands,Cannock Chase,West Midlands Trains (West Midlands Railway)
+HNG,Hengoed,Wales,Caerphilly - Caerffili,TfW Rail
+HNH,Herne Hill,London,Lambeth,Southeastern
+HNK,Hinckley (Leics),East Midlands,Hinckley and Bosworth,East Midlands Railway
+HNL,Henley-in-Arden,West Midlands,Stratford-on-Avon,West Midlands Trains (West Midlands Railway)
+HNT,Huntly,Scotland,Aberdeenshire,ScotRail
+HNW,Hamilton West,Scotland,South Lanarkshire,ScotRail
+HNX,Hunts Cross,North West,Liverpool,Merseyrail
+HOC,Hockley,East of England,Rochford,Greater Anglia
+HOH,Harrow-on-the-Hill,London,Harrow,London Underground
+HOK,Hook,South East,Hart,South Western Railway
+HOL,Holton Heath,South West,Dorset,South Western Railway
+HON,Honiton,South West,East Devon,South Western Railway
+HOO,Hooton,North West,Cheshire West and Chester,Merseyrail
+HOP,Hope (Derbyshire),East Midlands,High Peak,Northern Trains
+HOR,Horley,South East,Reigate and Banstead,Govia Thameslink Railway (Southern)
+HOT,Henley-on-Thames,South East,South Oxfordshire,Great Western Railway
+HOU,Hounslow,London,Hounslow,South Western Railway
+HOV,Hove,South East,Brighton and Hove,Govia Thameslink Railway (Southern)
+HOW,Howden,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+HOX,Hoxton,London,Hackney,London Overground
+HOY,Honley,Yorkshire and The Humber,Kirklees,Northern Trains
+HOZ,Howwood (Renfrewshire),Scotland,Renfrewshire,ScotRail
+HPA,Honor Oak Park,London,Lewisham,London Overground
+HPD,Harpenden,East of England,St Albans,Govia Thameslink Railway (Thameslink)
+HPE,Hope (Flintshire),Wales,Flintshire - Sir y Fflint,TfW Rail
+HPL,Hartlepool,North East,Hartlepool,Northern Trains
+HPN,Hapton,North West,Burnley,Northern Trains
+HPQ,Harwich International,East of England,Tendring,Greater Anglia
+HPT,Hopton Heath,West Midlands,Shropshire,TfW Rail
+HRD,Harling Road,East of England,Breckland,Greater Anglia
+HRE,Horden,North East,County Durham,Northern Trains
+HRH,Horsham,South East,Horsham,Govia Thameslink Railway (Southern)
+HRL,Harlech,Wales,Gwynedd - Gwynedd,TfW Rail
+HRM,Harrietsham,South East,Maidstone,Southeastern
+HRN,Hornsey,London,Haringey,Govia Thameslink Railway (Great Northern)
+HRO,Harold Wood,London,Havering,Elizabeth line
+HRR,Harrington,North West,Cumberland,Northern Trains
+HRS,Horsforth,Yorkshire and The Humber,Leeds,Northern Trains
+HRW,Harrow and Wealdstone,London,Harrow,London Underground
+HRY,Harringay Green Lanes,London,Haringey,London Overground
+HSB,Helsby,North West,Cheshire West and Chester,TfW Rail
+HSC,Hoscar,North West,West Lancashire,Northern Trains
+HSD,Hamstead (Birmingham),West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+HSG,Hathersage,East Midlands,Derbyshire Dales,Northern Trains
+HSK,Hassocks,South East,Mid Sussex,Govia Thameslink Railway (Southern)
+HSL,Haslemere,South East,Waverley,South Western Railway
+HST,High Street (Glasgow),Scotland,Glasgow City,ScotRail
+HSW,Heswall,North West,Wirral,TfW Rail
+HSY,Horsley,South East,Guildford,South Western Railway
+HTC,Heaton Chapel,North West,Stockport,Northern Trains
+HTE,Hatch End,London,Harrow,London Overground
+HTF,Hartford (Cheshire),North West,Cheshire West and Chester,West Midlands Trains (London Northwestern Railway)
+HTH,Handforth,North West,Cheshire East,Northern Trains
+HTN,Hatton,West Midlands,Warwick,Chiltern Railways
+HTO,Hightown,North West,Sefton,Merseyrail
+HTW,Hartwood,Scotland,North Lanarkshire,ScotRail
+HTY,Hattersley,North West,Tameside,Northern Trains
+HUB,Hunmanby,Yorkshire and The Humber,North Yorkshire,Northern Trains
+HUD,Huddersfield,Yorkshire and The Humber,Kirklees,TransPennine Express
+HUL,Hull,Yorkshire and The Humber,"Kingston upon Hull, City of",TransPennine Express
+HUN,Huntingdon,East of England,Huntingdonshire,Govia Thameslink Railway (Great Northern)
+HUP,Humphrey Park,North West,Trafford,Northern Trains
+HUR,Hurst Green,South East,Tandridge,Govia Thameslink Railway (Southern)
+HUT,Hutton Cranswick,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+HUY,Huyton,North West,Knowsley,Northern Trains
+HVF,Haverfordwest,Wales,Pembrokeshire - Sir Benfro,TfW Rail
+HVN,Havenhouse,East Midlands,East Lindsey,East Midlands Railway
+HWB,Hawarden Bridge,Wales,Flintshire - Sir y Fflint,TfW Rail
+HWC,Harwich Town,East of England,Tendring,Greater Anglia
+HWD,Hawarden,Wales,Flintshire - Sir y Fflint,TfW Rail
+HWH,Haltwhistle,North East,Northumberland,Northern Trains
+HWI,Horwich Parkway,North West,Bolton,Transport for Greater Manchester
+HWM,Harlow Mill,East of England,Harlow,Greater Anglia
+HWN,Harlow Town,East of England,Harlow,Greater Anglia
+HWV,Heathrow Terminal 5 (Rail Station Only),London,Hillingdon,Heathrow Express
+HWW,How Wood (Hertfordshire),East of England,St Albans,West Midlands Trains (London Northwestern Railway)
+HWY,High Wycombe,South East,Buckinghamshire,Chiltern Railways
+HXM,Hoveton and Wroxham,East of England,North Norfolk,Greater Anglia
+HXX,Heathrow Terminals 2 and 3 (Rail Station Only),London,Hillingdon,Heathrow Express
+HYB,Honeybourne,West Midlands,Wychavon,Great Western Railway
+HYC,Hyde Central,North West,Tameside,Northern Trains
+HYD,Heyford,South East,Cherwell,Great Western Railway
+HYH,Hythe (Essex),East of England,Colchester,Greater Anglia
+HYK,Hoylake,North West,Wirral,Merseyrail
+HYL,Hayle,South West,Cornwall,Great Western Railway
+HYM,Haymarket,Scotland,City of Edinburgh,ScotRail
+HYN,Hyndland,Scotland,Glasgow City,ScotRail
+HYR,Haydons Road,London,Merton,Govia Thameslink Railway (Thameslink)
+HYS,Hayes (Kent),London,Bromley,Southeastern
+HYT,Hyde North,North West,Tameside,Northern Trains
+HYW,Hinchley Wood,South East,Elmbridge,South Western Railway
+IFD,Ilford,London,Redbridge,Elizabeth line
+IFI,Ifield,South East,Crawley,Govia Thameslink Railway (Southern)
+IGD,Invergordon,Scotland,Highland,ScotRail
+ILK,Ilkley,Yorkshire and The Humber,Bradford,Northern Trains
+ILN,Ilkeston,East Midlands,Erewash,East Midlands Railway
+IMW,Imperial Wharf,London,Hammersmith and Fulham,London Overground
+INC,Ince (Manchester),North West,Wigan,Northern Trains
+INE,Ince and Elton (Cheshire),North West,Cheshire West and Chester,Northern Trains
+ING,Invergowrie,Scotland,Perth and Kinross,ScotRail
+INH,Invershin,Scotland,Highland,ScotRail
+INK,Inverkeithing,Scotland,Fife,ScotRail
+INP,Inverkip,Scotland,Inverclyde,ScotRail
+INR,Inverurie,Scotland,Aberdeenshire,ScotRail
+INS,Insch,Scotland,Aberdeenshire,ScotRail
+INT,Ingatestone,East of England,Brentwood,Greater Anglia
+INV,Inverness,Scotland,Highland,ScotRail
+IPS,Ipswich,East of England,Ipswich,Greater Anglia
+IRL,Irlam,North West,Salford,Northern Trains
+IRV,Irvine,Scotland,North Ayrshire,ScotRail
+ISL,Isleworth,London,Hounslow,South Western Railway
+ISP,Islip,South East,Cherwell,Chiltern Railways
+IVA,Inverness Airport,Scotland,Highland,ScotRail
+IVR,Iver,South East,Buckinghamshire,Elizabeth line
+IVY,Ivybridge,South West,South Hams,Great Western Railway
+JCH,James Cook University Hospital,North East,Middlesbrough,Northern Trains
+JEQ,Jewellery Quarter,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+JHN,Johnstone (Renfrewshire),Scotland,Renfrewshire,ScotRail
+JOH,Johnston (Pembs),Wales,Pembrokeshire - Sir Benfro,TfW Rail
+JOR,Jordanhill,Scotland,Glasgow City,ScotRail
+KBC,Kinbrace,Scotland,Highland,ScotRail
+KBF,Kirkby-in-Furness,North West,Westmorland and Furness,Northern Trains
+KBK,Kents Bank,North West,Westmorland and Furness,Northern Trains
+KBN,Kilburn High Road,London,Camden,London Overground
+KBW,Knebworth,East of England,North Hertfordshire,Govia Thameslink Railway (Great Northern)
+KBX,Kirby Cross,East of England,Tendring,Greater Anglia
+KCK,Knockholt,London,Bromley,Southeastern
+KDB,Kidbrooke,London,Greenwich,Southeastern
+KDG,Kidsgrove,West Midlands,Newcastle-under-Lyme,East Midlands Railway
+KDY,Kirkcaldy,Scotland,Fife,ScotRail
+KEH,Keith,Scotland,Moray,ScotRail
+KEI,Keighley,Yorkshire and The Humber,Bradford,Northern Trains
+KEL,Kelvedon,East of England,Braintree,Greater Anglia
+KEM,Kemble,South West,Cotswold,Great Western Railway
+KEN,Kendal,North West,Westmorland and Furness,Northern Trains
+KET,Kettering,East Midlands,North Northamptonshire,East Midlands Railway
+KEY,Keyham,South West,Plymouth,Great Western Railway
+KGE,Kingsknowe,Scotland,City of Edinburgh,ScotRail
+KGH,Kinghorn,Scotland,Fife,ScotRail
+KGL,Kings Langley,East of England,Three Rivers,West Midlands Trains (London Northwestern Railway)
+KGM,Kingham,South East,West Oxfordshire,Great Western Railway
+KGN,Kings Nympton,South West,North Devon,Great Western Railway
+KGP,Kings Park,Scotland,Glasgow City,ScotRail
+KGS,Kings Sutton,East Midlands,West Northamptonshire,Chiltern Railways
+KGT,Kilgetty,Wales,Pembrokeshire - Sir Benfro,TfW Rail
+KGX,London Kings Cross,London,Camden,Network Rail
+KID,Kidderminster,West Midlands,Wyre Forest,West Midlands Trains (West Midlands Railway)
+KIL,Kildonan,Scotland,Highland,ScotRail
+KIN,Kingussie,Scotland,Highland,ScotRail
+KIR,Kirkby (Merseyside),North West,Knowsley,Merseyrail
+KIT,Kintbury,South East,West Berkshire,Great Western Railway
+KIV,Kiveton Bridge,Yorkshire and The Humber,Rotherham,Northern Trains
+KKB,Kirkby-in-Ashfield,East Midlands,Ashfield,East Midlands Railway
+KKD,Kirkdale,North West,Liverpool,Merseyrail
+KKH,Kirkhill,Scotland,South Lanarkshire,ScotRail
+KKM,Kirkham and Wesham,North West,Fylde,Northern Trains
+KKN,Kirknewton,Scotland,West Lothian,ScotRail
+KKS,Kirk Sandall,Yorkshire and The Humber,Doncaster,Northern Trains
+KLD,Kildale,Yorkshire and The Humber,North Yorkshire,Northern Trains
+KLF,Kirkstall Forge,Yorkshire and The Humber,Leeds,Northern Trains
+KLM,Kilmaurs,Scotland,East Ayrshire,ScotRail
+KLN,Kings Lynn,East of England,King's Lynn and West Norfolk,Govia Thameslink Railway (Great Northern)
+KLY,Kenley,London,Croydon,Govia Thameslink Railway (Southern)
+KMH,Kempston Hardwick,East of England,Bedford,West Midlands Trains (London Northwestern Railway)
+KMK,Kilmarnock,Scotland,East Ayrshire,ScotRail
+KML,Kemsley,South East,Swale,Southeastern
+KMP,Kempton Park Racecourse,South East,Spelthorne,South Western Railway
+KMS,Kemsing,South East,Sevenoaks,Southeastern
+KNA,Knaresborough,Yorkshire and The Humber,North Yorkshire,Northern Trains
+KND,Kingswood,South East,Reigate and Banstead,Govia Thameslink Railway (Southern)
+KNE,Kennett,East of England,East Cambridgeshire,Greater Anglia
+KNF,Knutsford,North West,Cheshire East,Northern Trains
+KNG,Kingston,London,Kingston upon Thames,South Western Railway
+KNI,Knighton,West Midlands,Shropshire,TfW Rail
+KNL,Kensal Green,London,Brent,London Underground
+KNN,Kings Norton,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+KNO,Knottingley,Yorkshire and The Humber,Wakefield,Northern Trains
+KNR,Kensal Rise,London,Brent,London Overground
+KNS,Kennishead,Scotland,Glasgow City,ScotRail
+KNT,Kenton,London,Brent,London Underground
+KNU,Knucklas,Wales,Powys - Powys,TfW Rail
+KNW,Kenilworth,West Midlands,Warwick,West Midlands Trains (West Midlands Railway)
+KPA,Kensington Olympia,London,Kensington and Chelsea,London Overground
+KPT,Kilpatrick,Scotland,West Dunbartonshire,ScotRail
+KRK,Kirkconnel,Scotland,Dumfries and Galloway,ScotRail
+KSL,Kearsley (Manchester),North West,Bolton,Northern Trains
+KSN,Kearsney (Kent),South East,Dover,Southeastern
+KSW,Kirkby Stephen,North West,Westmorland and Furness,Northern Trains
+KTH,Kent House,London,Bromley,Southeastern
+KTL,Kirton Lindsey,Yorkshire and The Humber,North Lincolnshire,Northern Trains
+KTN,Kentish Town,London,Camden,London Underground
+KTR,Kintore,Scotland,Aberdeenshire,ScotRail
+KTW,Kentish Town West,London,Camden,London Overground
+KVD,Kelvindale,Scotland,Glasgow City,ScotRail
+KVP,Kiveton Park,Yorkshire and The Humber,Rotherham,Northern Trains
+KWB,Kew Bridge,London,Hounslow,South Western Railway
+KWD,Kirkwood,Scotland,North Lanarkshire,ScotRail
+KWG,Kew Gardens,London,Richmond upon Thames,London Underground
+KWL,Kidwelly,Wales,Carmarthenshire - Sir Gaerfyrddin,TfW Rail
+KWN,Kilwinning,Scotland,North Ayrshire,ScotRail
+KYL,Kyle of Lochalsh,Scotland,Highland,ScotRail
+KYN,Keynsham,South West,Bath and North East Somerset,Great Western Railway
+LAC,Lancing,South East,Adur,Govia Thameslink Railway (Southern)
+LAD,Ladywell,London,Lewisham,Southeastern
+LAG,Langwith-Whaley Thorns,East Midlands,Bolsover,East Midlands Railway
+LAI,Laindon,East of England,Basildon,c2c
+LAK,Lakenheath,East of England,West Suffolk,Greater Anglia
+LAM,Lamphey,Wales,Pembrokeshire - Sir Benfro,TfW Rail
+LAN,Lancaster,North West,Lancaster,Avanti West Coast
+LAP,Lapford,South West,Mid Devon,Great Western Railway
+LAR,Largs,Scotland,North Ayrshire,ScotRail
+LAS,Llansamlet,Wales,Swansea - Abertawe,TfW Rail
+LAU,Laurencekirk,Scotland,Aberdeenshire,ScotRail
+LAW,Landywood,West Midlands,South Staffordshire,West Midlands Trains (West Midlands Railway)
+LAY,Layton (Lancs),North West,Blackpool,Northern Trains
+LBG,London Bridge,London,Southwark,Network Rail
+LBK,Long Buckby,East Midlands,West Northamptonshire,West Midlands Trains (London Northwestern Railway)
+LBO,Loughborough,East Midlands,Charnwood,East Midlands Railway
+LBR,Llanbedr,Wales,Gwynedd - Gwynedd,TfW Rail
+LBT,Larbert,Scotland,Falkirk,ScotRail
+LBZ,Leighton Buzzard,East of England,Central Bedfordshire,West Midlands Trains (London Northwestern Railway)
+LCC,Lochluichart,Scotland,Highland,ScotRail
+LCG,Lochgelly,Scotland,Fife,ScotRail
+LCK,Lockwood,Yorkshire and The Humber,Kirklees,Northern Trains
+LCL,Lochailort,Scotland,Highland,ScotRail
+LCN,Lincoln,East Midlands,Lincoln,East Midlands Railway
+LCS,Locheilside,Scotland,Highland,ScotRail
+LDN,Llandanwg,Wales,Gwynedd - Gwynedd,TfW Rail
+LDS,Leeds,Yorkshire and The Humber,Leeds,Network Rail
+LDY,Ladybank,Scotland,Fife,ScotRail
+LEA,Leagrave,East of England,Luton,Govia Thameslink Railway (Thameslink)
+LEB,Lea Bridge,London,Waltham Forest,Greater Anglia
+LED,Ledbury,West Midlands,"Herefordshire, County of",West Midlands Trains (West Midlands Railway)
+LEE,Lee (London),London,Lewisham,Southeastern
+LEG,Lea Green,North West,St. Helens,Northern Trains
+LEH,Lea Hall,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+LEI,Leicester,East Midlands,Leicester,East Midlands Railway
+LEL,Lelant,South West,Cornwall,Great Western Railway
+LEM,Leyton Midland Road,London,Waltham Forest,London Overground
+LEN,Lenham,South East,Maidstone,Southeastern
+LEO,Leominster,West Midlands,"Herefordshire, County of",TfW Rail
+LER,Leytonstone High Road,London,Waltham Forest,London Overground
+LES,Leigh-on-Sea,East of England,Southend-on-Sea,c2c
+LET,Letchworth Garden City,East of England,North Hertfordshire,Govia Thameslink Railway (Great Northern)
+LEU,Leuchars (for St. Andrews),Scotland,Fife,ScotRail
+LEV,Leven,Scotland,Fife,ScotRail
+LEW,Lewisham,London,Lewisham,Southeastern
+LEY,Leyland,North West,South Ribble,Northern Trains
+LFD,Lingfield,South East,Tandridge,Govia Thameslink Railway (Southern)
+LGB,Langbank,Scotland,Renfrewshire,ScotRail
+LGD,Lingwood,East of England,Broadland,Greater Anglia
+LGE,Long Eaton,East Midlands,Erewash,East Midlands Railway
+LGF,Longfield,South East,Dartford,Southeastern
+LGG,Langley Green,West Midlands,Sandwell,West Midlands Trains (West Midlands Railway)
+LGJ,Loughborough Junction,London,Lambeth,Govia Thameslink Railway (Thameslink)
+LGK,Longbeck,North East,Redcar and Cleveland,Northern Trains
+LGM,Langley Mill,East Midlands,Amber Valley,East Midlands Railway
+LGN,Longton,West Midlands,Stoke-on-Trent,East Midlands Railway
+LGO,Llangynllo,Wales,Powys - Powys,TfW Rail
+LGS,Langside,Scotland,Glasgow City,ScotRail
+LGW,Langwathby,North West,Westmorland and Furness,Northern Trains
+LHA,Loch Awe,Scotland,Argyll and Bute,ScotRail
+LHD,Leatherhead,South East,Mole Valley,Govia Thameslink Railway (Southern)
+LHE,Loch Eil Outward Bound,Scotland,Highland,ScotRail
+LHM,Lealholm,Yorkshire and The Humber,North Yorkshire,Northern Trains
+LHO,Langho,North West,Ribble Valley,Northern Trains
+LHS,Limehouse,London,Tower Hamlets,c2c
+LHW,Lochwinnoch,Scotland,Renfrewshire,ScotRail
+LIC,Lichfield City,West Midlands,Lichfield,West Midlands Trains (West Midlands Railway)
+LID,Lidlington,East of England,Central Bedfordshire,West Midlands Trains (London Northwestern Railway)
+LIH,Leigh (Kent),South East,Sevenoaks,Govia Thameslink Railway (Southern)
+LIN,Linlithgow,Scotland,West Lothian,ScotRail
+LIP,Liphook,South East,East Hampshire,South Western Railway
+LIS,Liss,South East,East Hampshire,South Western Railway
+LIT,Littlehampton,South East,Arun,Govia Thameslink Railway (Southern)
+LIV,Liverpool Lime Street,North West,Liverpool,Network Rail
+LKE,Lake,South East,Isle of Wight,South Western Railway (Island Line)
+LLA,Llanaber,Wales,Gwynedd - Gwynedd,TfW Rail
+LLC,Llandecwyn,Wales,Gwynedd - Gwynedd,TfW Rail
+LLD,Llandudno,Wales,Conwy - Conwy,TfW Rail
+LLE,Llanelli,Wales,Carmarthenshire - Sir Gaerfyrddin,TfW Rail
+LLF,Llanfairfechan,Wales,Conwy - Conwy,TfW Rail
+LLG,Llangadog,Wales,Carmarthenshire - Sir Gaerfyrddin,TfW Rail
+LLH,Llangennech,Wales,Carmarthenshire - Sir Gaerfyrddin,TfW Rail
+LLI,Llandybie,Wales,Carmarthenshire - Sir Gaerfyrddin,TfW Rail
+LLJ,Llandudno Junction,Wales,Conwy - Conwy,TfW Rail
+LLL,Llandeilo,Wales,Carmarthenshire - Sir Gaerfyrddin,TfW Rail
+LLM,Llangammarch,Wales,Powys - Powys,TfW Rail
+LLN,Llandaf,Wales,Cardiff - Caerdydd,TfW Rail
+LLO,Llandrindod,Wales,Powys - Powys,TfW Rail
+LLR,Llanharan,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+LLS,Llanishen,Wales,Cardiff - Caerdydd,TfW Rail
+LLT,Llanbister Road,Wales,Powys - Powys,TfW Rail
+LLV,Llandovery,Wales,Carmarthenshire - Sir Gaerfyrddin,TfW Rail
+LLW,Llwyngwril,Wales,Gwynedd - Gwynedd,TfW Rail
+LLY,Llwynypia,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+LMR,Low Moor,Yorkshire and The Humber,Bradford,Northern Trains
+LMS,Leamington Spa,West Midlands,Warwick,Chiltern Railways
+LNB,Llanbradach,Wales,Caerphilly - Caerffili,TfW Rail
+LND,Longniddry,Scotland,East Lothian,ScotRail
+LNG,Longcross,South East,Runnymede,South Western Railway
+LNK,Lanark,Scotland,South Lanarkshire,ScotRail
+LNR,Llanwrda,Wales,Carmarthenshire - Sir Gaerfyrddin,TfW Rail
+LNW,Llanwrtyd,Wales,Powys - Powys,TfW Rail
+LNY,Langley (Berks),South East,Slough,Elizabeth line
+LNZ,Lenzie,Scotland,East Dunbartonshire,ScotRail
+LOB,Longbridge,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+LOC,Lockerbie,Scotland,Dumfries and Galloway,ScotRail
+LOF,London Fields,London,Hackney,London Overground
+LOH,Lostock Hall,North West,South Ribble,Northern Trains
+LOO,Looe,South West,Cornwall,Great Western Railway
+LOS,Lostwithiel,South West,Cornwall,Great Western Railway
+LOT,Lostock,North West,Bolton,Northern Trains
+LOW,Lowdham,East Midlands,Newark and Sherwood,East Midlands Railway
+LPG,Llanfairpwll,Wales,Isle of Anglesey - Ynys Môn,TfW Rail
+LPR,Long Preston,Yorkshire and The Humber,North Yorkshire,Northern Trains
+LPT,Longport,West Midlands,Stoke-on-Trent,East Midlands Railway
+LPW,Lapworth,West Midlands,Warwick,Chiltern Railways
+LPY,Liverpool South Parkway,North West,Liverpool,Merseyrail
+LRB,London Road (Brighton),South East,Brighton and Hove,Govia Thameslink Railway (Southern)
+LRD,London Road (Guildford),South East,Guildford,South Western Railway
+LRG,Lairg,Scotland,Highland,ScotRail
+LRH,Larkhall,Scotland,South Lanarkshire,ScotRail
+LSK,Liskeard,South West,Cornwall,Great Western Railway
+LSN,Livingston North,Scotland,West Lothian,ScotRail
+LST,London Liverpool Street,London,City of London,Network Rail
+LSW,Leasowe,North West,Wirral,Merseyrail
+LSY,Lower Sydenham,London,Lewisham,Southeastern
+LTG,Lostock Gralam,North West,Cheshire West and Chester,Northern Trains
+LTH,Llanhilleth,Wales,Blaenau Gwent - Blaenau Gwent,TfW Rail
+LTK,Little Kimble,South East,Buckinghamshire,Chiltern Railways
+LTL,Littleborough,North West,Rochdale,Northern Trains
+LTM,Lytham,North West,Fylde,Northern Trains
+LTN,Luton Airport Parkway,East of England,Luton,Govia Thameslink Railway (Thameslink)
+LTP,Littleport,East of England,East Cambridgeshire,Govia Thameslink Railway (Great Northern)
+LTS,Lelant Saltings,South West,Cornwall,Great Western Railway
+LTT,Little Sutton,North West,Cheshire West and Chester,Merseyrail
+LTV,Lichfield Trent Valley,West Midlands,Lichfield,West Midlands Trains (West Midlands Railway)
+LUD,Ludlow,West Midlands,Shropshire,TfW Rail
+LUT,Luton,East of England,Luton,Govia Thameslink Railway (Thameslink)
+LUX,Luxulyan,South West,Cornwall,Great Western Railway
+LVC,Liverpool Central,North West,Liverpool,Merseyrail
+LVG,Livingston South,Scotland,West Lothian,ScotRail
+LVJ,Liverpool James Street,North West,Liverpool,Merseyrail
+LVM,Levenshulme,North West,Manchester,Northern Trains
+LVN,Littlehaven,South East,Horsham,Govia Thameslink Railway (Southern)
+LVT,Lisvane and Thornhill,Wales,Cardiff - Caerdydd,TfW Rail
+LWH,Lawrence Hill,South West,"Bristol, City of",Great Western Railway
+LWM,Llantwit Major,Wales,Vale of Glamorgan - Bro Morgannwg,TfW Rail
+LWR,Llanrwst,Wales,Conwy - Conwy,TfW Rail
+LWS,Lewes,South East,Lewes,Govia Thameslink Railway (Southern)
+LWT,Lowestoft,East of England,East Suffolk,Greater Anglia
+LYC,Lympstone Commando,South West,East Devon,Great Western Railway
+LYD,Lydney,South West,Forest of Dean,TfW Rail
+LYE,Lye (West Midlands),West Midlands,Dudley,West Midlands Trains (West Midlands Railway)
+LYM,Lympstone Village,South West,East Devon,Great Western Railway
+LYP,Lymington Pier,South East,New Forest,South Western Railway
+LYT,Lymington Town,South East,New Forest,South Western Railway
+LZB,Lazonby and Kirkoswald,North West,Westmorland and Furness,Northern Trains
+MAC,Macclesfield,North West,Cheshire East,Avanti West Coast
+MAG,Maghull,North West,Sefton,Merseyrail
+MAI,Maidenhead,South East,Windsor and Maidenhead,Great Western Railway
+MAL,Malden Manor,London,Kingston upon Thames,South Western Railway
+MAN,Manchester Piccadilly,North West,Manchester,Network Rail
+MAO,Martins Heron,South East,Bracknell Forest,South Western Railway
+MAR,Margate,South East,Thanet,Southeastern
+MAS,Manors,North East,Newcastle upon Tyne,Northern Trains
+MAT,Matlock,East Midlands,Derbyshire Dales,East Midlands Railway
+MAU,Mauldeth Road,North West,Manchester,Northern Trains
+MAX,Maxwell Park,Scotland,Glasgow City,ScotRail
+MAY,Maybole,Scotland,South Ayrshire,ScotRail
+MBK,Millbrook (Hants),South East,Southampton,South Western Railway
+MBR,Middlesbrough,North East,Middlesbrough,TransPennine Express
+MBT,Marsh Barton,South West,Exeter,Great Western Railway
+MCB,Moulsecoomb,South East,Brighton and Hove,Govia Thameslink Railway (Southern)
+MCE,MetroCentre,North East,Gateshead,Northern Trains
+MCH,March,East of England,Fenland,Greater Anglia
+MCM,Morecambe,North West,Lancaster,Northern Trains
+MCN,Machynlleth,Wales,Powys - Powys,TfW Rail
+MCO,Manchester Oxford Road,North West,Manchester,Northern Trains
+MCV,Manchester Victoria,North West,Manchester,Northern Trains
+MDB,Maidstone Barracks,South East,Maidstone,Southeastern
+MDE,Maidstone East,South East,Maidstone,Southeastern
+MDG,Midgham,South East,West Berkshire,Great Western Railway
+MDL,Middlewood,North West,Stockport,Northern Trains
+MDN,Maiden Newton,South West,Dorset,Great Western Railway
+MDS,Morden South,London,Merton,Govia Thameslink Railway (Thameslink)
+MDW,Maidstone West,South East,Maidstone,Southeastern
+MEC,Meols Cop,North West,Sefton,Northern Trains
+MEL,Meldreth,East of England,South Cambridgeshire,Govia Thameslink Railway (Great Northern)
+MEN,Menheniot,South West,Cornwall,Great Western Railway
+MEO,Meols,North West,Wirral,Merseyrail
+MEP,Meopham,South East,Gravesham,Southeastern
+MER,Merthyr Tydfil,Wales,Merthyr Tydfil - Merthyr Tudful,TfW Rail
+MES,Melton (Suffolk),East of England,East Suffolk,Greater Anglia
+MEV,Merthyr Vale,Wales,Merthyr Tydfil - Merthyr Tudful,TfW Rail
+MEW,Maesteg (Ewenny Road),Wales,Bridgend - Pen-y-bont ar Ogwr,TfW Rail
+MEX,Mexborough,Yorkshire and The Humber,Doncaster,Northern Trains
+MEY,Merryton,Scotland,South Lanarkshire,ScotRail
+MFA,Morfa Mawddach,Wales,Gwynedd - Gwynedd,TfW Rail
+MFF,Minffordd,Wales,Gwynedd - Gwynedd,TfW Rail
+MFH,Milford Haven,Wales,Pembrokeshire - Sir Benfro,TfW Rail
+MFL,Mount Florida,Scotland,Glasgow City,ScotRail
+MFT,Mansfield,East Midlands,Mansfield,East Midlands Railway
+MGM,Metheringham,East Midlands,North Kesteven,East Midlands Railway
+MGN,Marston Green,West Midlands,Solihull,West Midlands Trains (West Midlands Railway)
+MHM,Merstham,South East,Reigate and Banstead,Govia Thameslink Railway (Southern)
+MHR,Market Harborough,East Midlands,Harborough,East Midlands Railway
+MHS,Meadowhall,Yorkshire and The Humber,Sheffield,Northern Trains
+MIA,Manchester Airport,North West,Manchester,TransPennine Express
+MIC,Micheldever,South East,Winchester,South Western Railway
+MIH,Mills Hill (Manchester),North West,Rochdale,Northern Trains
+MIJ,Mitcham Junction,London,Merton,Govia Thameslink Railway (Southern)
+MIK,Micklefield,Yorkshire and The Humber,Leeds,Northern Trains
+MIL,Mill Hill Broadway,London,Barnet,Govia Thameslink Railway (Thameslink)
+MIM,Moreton-in-Marsh,South West,Cotswold,Great Western Railway
+MIN,Milliken Park,Scotland,Renfrewshire,ScotRail
+MIR,Mirfield,Yorkshire and The Humber,Kirklees,Northern Trains
+MIS,Mistley,East of England,Tendring,Greater Anglia
+MKC,Milton Keynes Central,South East,Milton Keynes,West Midlands Trains (London Northwestern Railway)
+MKM,Melksham,South West,Wiltshire,Great Western Railway
+MKR,Market Rasen,East Midlands,West Lindsey,East Midlands Railway
+MKT,Marks Tey,East of England,Colchester,Greater Anglia
+MLB,Millbrook (Bedfordshire),East of England,Central Bedfordshire,West Midlands Trains (London Northwestern Railway)
+MLD,Mouldsworth,North West,Cheshire West and Chester,Northern Trains
+MLF,Milford (Surrey),South East,Waverley,South Western Railway
+MLG,Mallaig,Scotland,Highland,ScotRail
+MLH,Mill Hill (Lancs),North West,Blackburn with Darwen,Northern Trains
+MLM,Millom,North West,Cumberland,Northern Trains
+MLN,Milngavie,Scotland,East Dunbartonshire,ScotRail
+MLT,Malton,Yorkshire and The Humber,North Yorkshire,TransPennine Express
+MLW,Marlow,South East,Buckinghamshire,Great Western Railway
+MLY,Morley,Yorkshire and The Humber,Leeds,Northern Trains
+MMO,Melton Mowbray,East Midlands,Melton,East Midlands Railway
+MNC,Markinch,Scotland,Fife,ScotRail
+MNE,Manea,East of England,Fenland,Greater Anglia
+MNG,Manningtree,East of England,Tendring,Greater Anglia
+MNN,Menston,Yorkshire and The Humber,Bradford,Northern Trains
+MNP,Manor Park,London,Newham,Elizabeth line
+MNR,Manor Road,North West,Wirral,Merseyrail
+MNS,Maghull North,North West,Sefton,Merseyrail
+MOB,Mobberley,North West,Cheshire East,Northern Trains
+MOG,Moorgate,London,City of London,London Underground
+MON,Monifieth,Scotland,Angus,ScotRail
+MOO,Muir of Ord,Scotland,Highland,ScotRail
+MOR,Mortimer,South East,West Berkshire,Great Western Railway
+MOS,Moss Side,North West,Fylde,Northern Trains
+MOT,Motspur Park,London,Merton,South Western Railway
+MPK,Mosspark,Scotland,Glasgow City,ScotRail
+MPL,Marple,North West,Stockport,Northern Trains
+MPT,Morpeth,North East,Northumberland,Northern Trains
+MRB,Manorbier,Wales,Pembrokeshire - Sir Benfro,TfW Rail
+MRD,Morchard Road,South West,Mid Devon,Great Western Railway
+MRF,Moorfields,North West,Liverpool,Merseyrail
+MRN,Marden (Kent),South East,Maidstone,Southeastern
+MRP,Moorthorpe,Yorkshire and The Humber,Wakefield,Northern Trains
+MRR,Morar,Scotland,Highland,ScotRail
+MRS,Monks Risborough,South East,Buckinghamshire,Chiltern Railways
+MRT,Moreton (Merseyside),North West,Wirral,Merseyrail
+MRW,Meridian Water,London,Enfield,Greater Anglia
+MRY,Maryport,North West,Cumberland,Northern Trains
+MSD,Moorside,North West,Salford,Northern Trains
+MSH,Mossley Hill,North West,Liverpool,Northern Trains
+MSK,Marske,North East,Redcar and Cleveland,Northern Trains
+MSL,Mossley (Manchester),North West,Tameside,Northern Trains
+MSN,Marsden (Yorks),Yorkshire and The Humber,Kirklees,Northern Trains
+MSO,Moston,North West,Manchester,Northern Trains
+MSR,Minster,South East,Thanet,Southeastern
+MSS,Moses Gate,North West,Bolton,Northern Trains
+MST,Maesteg,Wales,Bridgend - Pen-y-bont ar Ogwr,TfW Rail
+MSW,Mansfield Woodhouse,East Midlands,Mansfield,East Midlands Railway
+MTA,Mountain Ash,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+MTB,Matlock Bath,East Midlands,Derbyshire Dales,East Midlands Railway
+MTC,Mitcham Eastfields,London,Merton,Govia Thameslink Railway (Southern)
+MTG,Mottingham,London,Greenwich,Southeastern
+MTH,Motherwell,Scotland,North Lanarkshire,ScotRail
+MTL,Mortlake,London,Richmond upon Thames,South Western Railway
+MTM,Martin Mill,South East,Dover,Southeastern
+MTN,Moreton (Dorset),South West,Dorset,South Western Railway
+MTO,Marton,North East,Redcar and Cleveland,Northern Trains
+MTP,Montpelier,South West,"Bristol, City of",Great Western Railway
+MTS,Montrose,Scotland,Angus,ScotRail
+MTV,Mount Vernon,Scotland,Glasgow City,ScotRail
+MUB,Musselburgh,Scotland,East Lothian,ScotRail
+MUI,Muirend,Scotland,Glasgow City,ScotRail
+MVL,Malvern Link,West Midlands,Malvern Hills,West Midlands Trains (West Midlands Railway)
+MYB,London Marylebone,London,Westminster,Chiltern Railways
+MYH,Maryhill,Scotland,Glasgow City,ScotRail
+MYL,Maryland,London,Newham,Elizabeth line
+MYT,Mytholmroyd,Yorkshire and The Humber,Calderdale,Northern Trains
+MZH,Maze Hill,London,Greenwich,Southeastern
+NAN,Nantwich,North West,Cheshire East,TfW Rail
+NAR,Narberth,Wales,Pembrokeshire - Sir Benfro,TfW Rail
+NAY,Newton Aycliffe,North East,County Durham,Northern Trains
+NBA,New Barnet,London,Barnet,Govia Thameslink Railway (Great Northern)
+NBC,New Beckenham,London,Bromley,Southeastern
+NBE,Newbridge,Wales,Caerphilly - Caerffili,TfW Rail
+NBN,New Brighton,North West,Wirral,Merseyrail
+NBR,Narborough,East Midlands,Blaby,East Midlands Railway
+NBT,Norbiton,London,Kingston upon Thames,South Western Railway
+NBW,North Berwick,Scotland,East Lothian,ScotRail
+NBY,Newbury,South East,West Berkshire,Great Western Railway
+NCE,New Clee,Yorkshire and The Humber,North East Lincolnshire,East Midlands Railway
+NCK,New Cumnock,Scotland,East Ayrshire,ScotRail
+NCL,Newcastle,North East,Newcastle upon Tyne,London North Eastern Railway
+NCM,North Camp,South East,Guildford,Great Western Railway
+NCO,Newcourt,South West,Exeter,Great Western Railway
+NCT,Newark Castle,East Midlands,Newark and Sherwood,East Midlands Railway
+NDL,North Dulwich,London,Southwark,Govia Thameslink Railway (Southern)
+NEG,Newtongrange,Scotland,Midlothian,ScotRail
+NEH,New Eltham,London,Greenwich,Southeastern
+NEI,Neilston,Scotland,East Renfrewshire,ScotRail
+NEL,Nelson,North West,Pendle,Northern Trains
+NEM,New Malden,London,Kingston upon Thames,South Western Railway
+NES,Neston,North West,Cheshire West and Chester,TfW Rail
+NET,Netherfield,East Midlands,Gedling,East Midlands Railway
+NEW,Newcraighall,Scotland,City of Edinburgh,ScotRail
+NFA,North Fambridge,East of England,Maldon,Greater Anglia
+NFD,Northfield,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+NFL,Northfleet,South East,Gravesham,Southeastern
+NFN,Nafferton,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+NGT,Newington,South East,Swale,Southeastern
+NHD,Nunhead,London,Southwark,Govia Thameslink Railway (Thameslink)
+NHE,New Hythe,South East,Tonbridge and Malling,Southeastern
+NHL,New Holland,Yorkshire and The Humber,North Lincolnshire,East Midlands Railway
+NIT,Nitshill,Scotland,Glasgow City,ScotRail
+NLN,New Lane,North West,West Lancashire,Northern Trains
+NLR,North Llanrwst,Wales,Conwy - Conwy,TfW Rail
+NLS,Nailsea and Backwell,South West,North Somerset,Great Western Railway
+NLT,Northolt Park,London,Ealing,Chiltern Railways
+NLW,Newton-le-Willows,North West,St. Helens,Northern Trains
+NMC,New Mills Central,East Midlands,High Peak,Northern Trains
+NMK,Newmarket,East of England,East Cambridgeshire,Greater Anglia
+NMN,New Mills Newtown,East Midlands,High Peak,Northern Trains
+NMP,Northampton,East Midlands,West Northamptonshire,West Midlands Trains (London Northwestern Railway)
+NMT,Needham Market,East of England,Mid Suffolk,Greater Anglia
+NNG,Newark Northgate,East Midlands,Newark and Sherwood,London North Eastern Railway
+NNP,Ninian Park,Wales,Cardiff - Caerdydd,TfW Rail
+NNT,Nunthorpe,North East,Redcar and Cleveland,Northern Trains
+NOA,Newton-on-Ayr,Scotland,South Ayrshire,ScotRail
+NOP,Northumberland Park (Tyne and Wear),North East,North Tyneside,Northern Trains
+NOR,Normanton,Yorkshire and The Humber,Wakefield,Northern Trains
+NOT,Nottingham,East Midlands,Nottingham,East Midlands Railway
+NPD,New Pudsey,Yorkshire and The Humber,Leeds,Northern Trains
+NQU,North Queensferry,Scotland,Fife,ScotRail
+NQY,Newquay,South West,Cornwall,Great Western Railway
+NRB,Norbury,London,Croydon,Govia Thameslink Railway (Southern)
+NRC,Newbury Racecourse,South East,West Berkshire,Great Western Railway
+NRD,North Road (Darlington),North East,Darlington,Northern Trains
+NRN,Nairn,Scotland,Highland,ScotRail
+NRT,Nethertown,North West,Cumberland,Northern Trains
+NRW,Norwich,East of England,Norwich,Greater Anglia
+NSB,Normans Bay,South East,Rother,Govia Thameslink Railway (Southern)
+NSD,Newstead,East Midlands,Gedling,East Midlands Railway
+NSG,New Southgate,London,Enfield,Govia Thameslink Railway (Great Northern)
+NSH,North Sheen,London,Richmond upon Thames,South Western Railway
+NTA,Newton Abbot,South West,Teignbridge,Great Western Railway
+NTC,Newton St Cyres,South West,Mid Devon,Great Western Railway
+NTH,Neath,Wales,Neath Port Talbot - Castell-nedd Port Talbot,TfW Rail
+NTL,Netley,South East,Eastleigh,South Western Railway
+NTN,Newton (Lanark),Scotland,South Lanarkshire,ScotRail
+NTR,Northallerton,Yorkshire and The Humber,North Yorkshire,TransPennine Express
+NUF,Nutfield,South East,Tandridge,Govia Thameslink Railway (Southern)
+NUM,Northumberland Park London,London,Haringey,Greater Anglia
+NUN,Nuneaton,West Midlands,Nuneaton and Bedworth,West Midlands Trains (London Northwestern Railway)
+NUT,Nutbourne,South East,Chichester,Govia Thameslink Railway (Southern)
+NVH,Newhaven Harbour,South East,Lewes,Govia Thameslink Railway (Southern)
+NVN,Newhaven Town,South East,Lewes,Govia Thameslink Railway (Southern)
+NVR,Navigation Road,North West,Trafford,Northern Trains
+NWA,North Walsham,East of England,North Norfolk,Greater Anglia
+NWB,North Wembley,London,Brent,London Underground
+NWD,Norwood Junction,London,Croydon,London Overground
+NWE,Newport (Essex),East of England,Uttlesford,Greater Anglia
+NWH,Newsham,North East,Northumberland,Northern Trains
+NWI,Northwich,North West,Cheshire West and Chester,Northern Trains
+NWM,New Milton,South East,New Forest,South Western Railway
+NWN,Newton for Hyde,North West,Tameside,Northern Trains
+NWP,Newport (South Wales),Wales,Newport - Casnewydd,TfW Rail
+NWR,Newtonmore,Scotland,Highland,ScotRail
+NWT,Newtown (Powys),Wales,Powys - Powys,TfW Rail
+NWX,New Cross,London,Lewisham,Southeastern
+NXG,New Cross Gate,London,Lewisham,London Overground
+OBN,Oban,Scotland,Argyll and Bute,ScotRail
+OCK,Ockendon,East of England,Thurrock,c2c
+OHL,Old Hill,West Midlands,Sandwell,West Midlands Trains (West Midlands Railway)
+OKE,Okehampton,South West,West Devon,Great Western Railway
+OKL,Oakleigh Park,London,Barnet,Govia Thameslink Railway (Great Northern)
+OKM,Oakham,East Midlands,Rutland,East Midlands Railway
+OKN,Oakengates,West Midlands,Telford and Wrekin,West Midlands Trains (West Midlands Railway)
+OLD,Old Street,London,Islington,London Underground
+OLF,Oldfield Park,South West,Bath and North East Somerset,Great Western Railway
+OLT,Olton,West Midlands,Solihull,West Midlands Trains (West Midlands Railway)
+OLY,Ockley,South East,Mole Valley,Govia Thameslink Railway (Southern)
+OMS,Ormskirk,North West,West Lancashire,Merseyrail
+OPK,Orrell Park,North West,Liverpool,Merseyrail
+ORE,Ore,South East,Hastings,Govia Thameslink Railway (Southern)
+ORN,Old Roan,North West,Sefton,Merseyrail
+ORP,Orpington,London,Bromley,Southeastern
+ORR,Orrell,North West,Wigan,Northern Trains
+OTF,Otford,South East,Sevenoaks,Southeastern
+OUN,Oulton Broad North,East of England,East Suffolk,Greater Anglia
+OUS,Oulton Broad South,East of England,East Suffolk,Greater Anglia
+OUT,Outwood,Yorkshire and The Humber,Wakefield,Northern Trains
+OVE,Overpool,North West,Cheshire West and Chester,Merseyrail
+OVR,Overton,South East,Basingstoke and Deane,South Western Railway
+OXF,Oxford,South East,Oxford,Great Western Railway
+OXN,Oxenholme Lake District,North West,Westmorland and Furness,Avanti West Coast
+OXP,Oxford Parkway,South East,Cherwell,Chiltern Railways
+OXS,Oxshott,South East,Elmbridge,South Western Railway
+OXT,Oxted,South East,Tandridge,Govia Thameslink Railway (Southern)
+PAD,London Paddington,London,Westminster,Network Rail
+PAL,Palmers Green,London,Enfield,Govia Thameslink Railway (Great Northern)
+PAN,Pangbourne,South East,West Berkshire,Great Western Railway
+PAR,Par,South West,Cornwall,Great Western Railway
+PAT,Patricroft,North West,Salford,Northern Trains
+PBL,Parbold,North West,West Lancashire,Northern Trains
+PBO,Peterborough,East of England,Peterborough,London North Eastern Railway
+PBR,Potters Bar,East of England,Hertsmere,Govia Thameslink Railway (Great Northern)
+PBY,Pembrey and Burry Port,Wales,Carmarthenshire - Sir Gaerfyrddin,TfW Rail
+PCD,Pencoed,Wales,Bridgend - Pen-y-bont ar Ogwr,TfW Rail
+PCN,Paisley Canal,Scotland,Renfrewshire,ScotRail
+PDG,Padgate,North West,Warrington,Northern Trains
+PDW,Paddock Wood,South East,Tunbridge Wells,Southeastern
+PEA,Peartree,East Midlands,Derby,East Midlands Railway
+PEB,Pevensey Bay,South East,Wealden,Govia Thameslink Railway (Southern)
+PEG,Pegswood,North East,Northumberland,Northern Trains
+PEM,Pemberton,North West,Wigan,Northern Trains
+PEN,Penarth,Wales,Vale of Glamorgan - Bro Morgannwg,TfW Rail
+PER,Penrhiwceiber,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+PES,Pensarn (Gwynedd),Wales,Gwynedd - Gwynedd,TfW Rail
+PET,Petts Wood,London,Bromley,Southeastern
+PEV,Pevensey and Westham,South East,Wealden,Govia Thameslink Railway (Southern)
+PEW,Pewsey,South West,Wiltshire,Great Western Railway
+PFL,Purfleet,East of England,Thurrock,c2c
+PFM,Pontefract Monkhill,Yorkshire and The Humber,Wakefield,Northern Trains
+PFR,Pontefract Baghill,Yorkshire and The Humber,Wakefield,Northern Trains
+PFY,Poulton-le-Fylde,North West,Wyre,Northern Trains
+PGM,Pengam,Wales,Caerphilly - Caerffili,TfW Rail
+PGN,Paignton,South West,Torbay,Great Western Railway
+PHG,Penhelig,Wales,Gwynedd - Gwynedd,TfW Rail
+PHR,Penshurst,South East,Sevenoaks,Govia Thameslink Railway (Southern)
+PIL,Pilning,South West,South Gloucestershire,Great Western Railway
+PIN,Pinhoe,South West,Exeter,South Western Railway
+PIT,Pitlochry,Scotland,Perth and Kinross,ScotRail
+PKG,Penkridge,West Midlands,South Staffordshire,West Midlands Trains (West Midlands Railway)
+PKS,Parkstone (Dorset),South West,"Bournemouth, Christchurch and Poole",South Western Railway
+PKT,Park Street,East of England,St Albans,West Midlands Trains (London Northwestern Railway)
+PLC,Pluckley,South East,Ashford,Southeastern
+PLD,Portslade,South East,Brighton and Hove,Govia Thameslink Railway (Southern)
+PLE,Pollokshields East,Scotland,Glasgow City,ScotRail
+PLG,Polegate,South East,Wealden,Govia Thameslink Railway (Southern)
+PLK,Plockton,Scotland,Highland,ScotRail
+PLM,Plumley,North West,Cheshire East,Northern Trains
+PLN,Portlethen,Scotland,Aberdeenshire,ScotRail
+PLS,Pleasington,North West,Blackburn with Darwen,Northern Trains
+PLT,Pontlottyn,Wales,Caerphilly - Caerffili,TfW Rail
+PLU,Plumstead,London,Greenwich,Southeastern
+PLW,Pollokshields West,Scotland,Glasgow City,ScotRail
+PLY,Plymouth,South West,Plymouth,Great Western Railway
+PMA,Portsmouth Arms,South West,North Devon,Great Western Railway
+PMB,Pembroke,Wales,Pembrokeshire - Sir Benfro,TfW Rail
+PMD,Pembroke Dock,Wales,Pembrokeshire - Sir Benfro,TfW Rail
+PMH,Portsmouth Harbour,South East,Portsmouth,South Western Railway
+PMP,Plumpton,South East,Lewes,Govia Thameslink Railway (Southern)
+PMR,Peckham Rye,London,Southwark,Govia Thameslink Railway (Southern)
+PMS,Portsmouth and Southsea,South East,Portsmouth,South Western Railway
+PMT,Polmont,Scotland,Falkirk,ScotRail
+PMW,Penmaenmawr,Wales,Conwy - Conwy,TfW Rail
+PNA,Penally,Wales,Pembrokeshire - Sir Benfro,TfW Rail
+PNC,Penychain,Wales,Gwynedd - Gwynedd,TfW Rail
+PNE,Penge East,London,Bromley,Southeastern
+PNF,Penyffordd,Wales,Flintshire - Sir y Fflint,TfW Rail
+PNL,Pannal,Yorkshire and The Humber,North Yorkshire,Northern Trains
+PNM,Penmere,South West,Cornwall,Great Western Railway
+PNR,Penrith (North Lakes),North West,Westmorland and Furness,Avanti West Coast
+PNS,Penistone,Yorkshire and The Humber,Barnsley,Northern Trains
+PNW,Penge West,London,Bromley,London Overground
+PNY,Pen-y-Bont (Mid Wales),Wales,Powys - Powys,TfW Rail
+PNZ,Penzance,South West,Cornwall,Great Western Railway
+POK,Pokesdown,South West,"Bournemouth, Christchurch and Poole",South Western Railway
+POL,Polsloe Bridge,South West,Exeter,Great Western Railway
+PON,Ponders End,London,Enfield,Greater Anglia
+POO,Poole,South West,"Bournemouth, Christchurch and Poole",South Western Railway
+POP,Poppleton,Yorkshire and The Humber,York,Northern Trains
+POR,Porth,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+POT,Pontefract Tanshelf,Yorkshire and The Humber,Wakefield,Northern Trains
+PPD,Pontypridd,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+PPK,Possilpark and Parkhouse,Scotland,Glasgow City,ScotRail
+PPL,Pontypool and New Inn,Wales,Torfaen - Torfaen,TfW Rail
+PRA,Prestwick International Airport,Scotland,South Ayrshire,Glasgow Prestwick Airport Ltd
+PRB,Prestbury,North West,Cheshire East,Northern Trains
+PRE,Preston (Lancs),North West,Preston,Avanti West Coast
+PRH,Penrhyndeudraeth,Wales,Gwynedd - Gwynedd,TfW Rail
+PRI,Portway Park and Ride,South West,"Bristol, City of",Great Western Railway
+PRL,Prittlewell,East of England,Southend-on-Sea,Greater Anglia
+PRN,Parton,North West,Cumberland,Northern Trains
+PRP,Preston Park,South East,Brighton and Hove,Govia Thameslink Railway (Southern)
+PRR,Princes Risborough,South East,Buckinghamshire,Chiltern Railways
+PRS,Prees,West Midlands,Shropshire,TfW Rail
+PRT,Prestatyn,Wales,Denbighshire - Sir Ddinbych,TfW Rail
+PRU,Prudhoe,North East,Northumberland,Northern Trains
+PRW,Perranwell,South West,Cornwall,Great Western Railway
+PRY,Perry Barr,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+PSC,Prescot,North West,Knowsley,Northern Trains
+PSE,Pitsea,East of England,Basildon,c2c
+PSH,Pershore,West Midlands,Wychavon,Great Western Railway
+PSL,Port Sunlight,North West,Wirral,Merseyrail
+PSN,Parson Street,South West,"Bristol, City of",Great Western Railway
+PST,Prestonpans,Scotland,East Lothian,ScotRail
+PSW,Polesworth,West Midlands,North Warwickshire,West Midlands Trains (London Northwestern Railway)
+PTA,Port Talbot Parkway,Wales,Neath Port Talbot - Castell-nedd Port Talbot,TfW Rail
+PTB,Pentre-Bach,Wales,Merthyr Tydfil - Merthyr Tudful,TfW Rail
+PTC,Portchester,South East,Fareham,South Western Railway
+PTD,Pontarddulais,Wales,Swansea - Abertawe,TfW Rail
+PTF,Pantyffynnon,Wales,Carmarthenshire - Sir Gaerfyrddin,TfW Rail
+PTG,Port Glasgow,Scotland,Inverclyde,ScotRail
+PTH,Perth,Scotland,Perth and Kinross,ScotRail
+PTK,Partick,Scotland,Glasgow City,ScotRail
+PTL,Priesthill and Darnley,Scotland,Glasgow City,ScotRail
+PTM,Porthmadog,Wales,Gwynedd - Gwynedd,TfW Rail
+PTR,Petersfield,South East,East Hampshire,South Western Railway
+PTT,Patterton,Scotland,East Renfrewshire,ScotRail
+PTW,Prestwick Town,Scotland,South Ayrshire,ScotRail
+PUL,Pulborough,South East,Horsham,Govia Thameslink Railway (Southern)
+PUO,Purley Oaks,London,Croydon,Govia Thameslink Railway (Southern)
+PUR,Purley,London,Croydon,Govia Thameslink Railway (Southern)
+PUT,Putney,London,Wandsworth,South Western Railway
+PWE,Pollokshaws East,Scotland,Glasgow City,ScotRail
+PWL,Pwllheli,Wales,Gwynedd - Gwynedd,TfW Rail
+PWW,Pollokshaws West,Scotland,Glasgow City,ScotRail
+PWY,Patchway,South West,South Gloucestershire,Great Western Railway
+PYC,Pontyclun,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+PYE,Pye Corner,Wales,Newport - Casnewydd,TfW Rail
+PYG,Paisley Gilmour Street,Scotland,Renfrewshire,ScotRail
+PYJ,Paisley St James,Scotland,Renfrewshire,ScotRail
+PYL,Pyle,Wales,Bridgend - Pen-y-bont ar Ogwr,TfW Rail
+PYN,Penryn (Cornwall),South West,Cornwall,Great Western Railway
+PYP,Pont-y-Pant,Wales,Conwy - Conwy,TfW Rail
+PYT,Poynton,North West,Cheshire East,Northern Trains
+QBR,Queenborough,South East,Swale,Southeastern
+QPK,Queens Park (Glasgow),Scotland,Glasgow City,ScotRail
+QPW,Queens Park (London),London,Brent,London Underground
+QRB,Queenstown Road (Battersea),London,Wandsworth,South Western Railway
+QRP,Queens Road (Peckham),London,Southwark,Govia Thameslink Railway (Southern)
+QUI,Quintrell Downs,South West,Cornwall,Great Western Railway
+QYD,Quakers Yard,Wales,Merthyr Tydfil - Merthyr Tudful,TfW Rail
+RAD,Radley,South East,Vale of White Horse,Great Western Railway
+RAI,Rainham (Kent),South East,Medway,Southeastern
+RAM,Ramsgate,South East,Thanet,Southeastern
+RAN,Rannoch,Scotland,Perth and Kinross,ScotRail
+RAU,Rauceby,East Midlands,North Kesteven,East Midlands Railway
+RAV,Ravenglass for Eskdale,North West,Cumberland,Northern Trains
+RAY,Raynes Park,London,Merton,South Western Railway
+RBR,Robertsbridge,South East,Rother,Southeastern
+RCA,Risca and Pontymister,Wales,Caerphilly - Caerffili,TfW Rail
+RCC,Redcar Central,North East,Redcar and Cleveland,Northern Trains
+RCD,Rochdale,North West,Rochdale,Northern Trains
+RCE,Redcar East,North East,Redcar and Cleveland,Northern Trains
+RDA,Redland,South West,"Bristol, City of",Great Western Railway
+RDB,Redbridge,South East,Southampton,South Western Railway
+RDC,Redditch,West Midlands,Redditch,West Midlands Trains (West Midlands Railway)
+RDD,Riddlesdown,London,Croydon,Govia Thameslink Railway (Southern)
+RDF,Radcliffe (Nottinghamshire),East Midlands,Rushcliffe,East Midlands Railway
+RDG,Reading,South East,Reading,Network Rail
+RDH,Redhill,South East,Reigate and Banstead,Govia Thameslink Railway (Southern)
+RDM,Riding Mill,North East,Northumberland,Northern Trains
+RDN,Reddish North,North West,Stockport,Northern Trains
+RDR,Radyr,Wales,Cardiff - Caerdydd,TfW Rail
+RDS,Reddish South,North West,Stockport,Northern Trains
+RDT,Radlett,East of England,Hertsmere,Govia Thameslink Railway (Thameslink)
+RDW,Reading West,South East,Reading,Great Western Railway
+REC,Rectory Road,London,Hackney,London Overground
+RED,Redruth,South West,Cornwall,Great Western Railway
+REE,Reedham (Norfolk),East of England,Broadland,Greater Anglia
+REI,Reigate,South East,Reigate and Banstead,Govia Thameslink Railway (Southern)
+RET,Retford,East Midlands,Bassetlaw,London North Eastern Railway
+RFD,Rochford,East of England,Rochford,Greater Anglia
+RFY,Rock Ferry,North West,Wirral,Merseyrail
+RGL,Rugeley Trent Valley,West Midlands,Lichfield,West Midlands Trains (West Midlands Railway)
+RGP,Reading Green Park,South East,West Berkshire,Great Western Railway
+RGT,Rugeley Town,West Midlands,Cannock Chase,West Midlands Trains (West Midlands Railway)
+RGW,Ramsgreave and Wilpshire,North West,Ribble Valley,Northern Trains
+RHD,Ribblehead,Yorkshire and The Humber,North Yorkshire,Northern Trains
+RHI,Rhiwbina,Wales,Cardiff - Caerdydd,TfW Rail
+RHL,Rhyl,Wales,Denbighshire - Sir Ddinbych,TfW Rail
+RHM,Reedham (London),London,Croydon,Govia Thameslink Railway (Southern)
+RHO,Rhosneigr,Wales,Isle of Anglesey - Ynys Môn,TfW Rail
+RHY,Rhymney,Wales,Caerphilly - Caerffili,TfW Rail
+RIA,Rhoose Cardiff International Airport,Wales,Vale of Glamorgan - Bro Morgannwg,TfW Rail
+RIC,Rickmansworth,East of England,Three Rivers,London Underground
+RID,Ridgmont,East of England,Central Bedfordshire,West Midlands Trains (London Northwestern Railway)
+RIL,Rice Lane,North West,Liverpool,Merseyrail
+RIS,Rishton,North West,Hyndburn,Northern Trains
+RKT,Ruskington,East Midlands,North Kesteven,East Midlands Railway
+RLG,Rayleigh,East of England,Rochford,Greater Anglia
+RLN,Rowlands Castle,South East,East Hampshire,South Western Railway
+RMB,Roman Bridge,Wales,Conwy - Conwy,TfW Rail
+RMC,Rotherham Central,Yorkshire and The Humber,Rotherham,Northern Trains
+RMD,Richmond (London),London,Richmond upon Thames,South Western Railway
+RMF,Romford,London,Havering,Elizabeth line
+RML,Romiley,North West,Stockport,Northern Trains
+RNF,Rainford,North West,St. Helens,Northern Trains
+RNH,Rainhill,North West,St. Helens,Northern Trains
+RNM,Rainham (Essex),London,Havering,c2c
+RNR,Roughton Road,East of England,North Norfolk,Greater Anglia
+ROB,Roby,North West,Knowsley,Northern Trains
+ROC,Roche,South West,Cornwall,Great Western Railway
+ROE,Rotherhithe,London,Southwark,London Overground
+ROG,Rogart,Scotland,Highland,ScotRail
+ROL,Rolleston,East Midlands,Newark and Sherwood,East Midlands Railway
+ROM,Romsey,South East,Test Valley,South Western Railway
+ROO,Roose,North West,Westmorland and Furness,Northern Trains
+ROR,Rogerstone,Wales,Newport - Casnewydd,TfW Rail
+ROS,Rosyth,Scotland,Fife,ScotRail
+ROW,Rowley Regis,West Midlands,Sandwell,West Midlands Trains (West Midlands Railway)
+RRB,Ryder Brow,North West,Manchester,Northern Trains
+RRN,Robroyston,Scotland,Glasgow City,ScotRail
+RSG,Rose Grove,North West,Burnley,Northern Trains
+RSH,Rose Hill Marple,North West,Stockport,Northern Trains
+RSN,Reston,Scotland,Scottish Borders,ScotRail
+RTN,Renton,Scotland,West Dunbartonshire,ScotRail
+RTR,Rochester,South East,Medway,Southeastern
+RUA,Ruabon,Wales,Wrexham - Wrecsam,TfW Rail
+RUE,Runcorn East,North West,Halton,TfW Rail
+RUF,Rufford,North West,West Lancashire,Northern Trains
+RUG,Rugby,West Midlands,Rugby,Avanti West Coast
+RUN,Runcorn,North West,Halton,Avanti West Coast
+RUS,Ruswarp,Yorkshire and The Humber,North Yorkshire,Northern Trains
+RUT,Rutherglen,Scotland,South Lanarkshire,ScotRail
+RVB,Ravensbourne,London,Bromley,Govia Thameslink Railway (Thameslink)
+RVN,Ravensthorpe,Yorkshire and The Humber,Kirklees,Northern Trains
+RWC,Rawcliffe,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+RYB,Roy Bridge,Scotland,Highland,ScotRail
+RYD,Ryde Esplanade,South East,Isle of Wight,South Western Railway (Island Line)
+RYE,Rye (Sussex),South East,Rother,Govia Thameslink Railway (Southern)
+RYH,Rye House,East of England,Broxbourne,Greater Anglia
+RYN,Roydon,East of England,Epping Forest,Greater Anglia
+RYP,Ryde Pier Head,South East,Isle of Wight,South Western Railway (Island Line)
+RYR,Ryde St Johns Road,South East,Isle of Wight,South Western Railway (Island Line)
+RYS,Royston,East of England,North Hertfordshire,Govia Thameslink Railway (Great Northern)
+SAA,St Albans Abbey,East of England,St Albans,West Midlands Trains (London Northwestern Railway)
+SAB,Smallbrook Junction,South East,Isle of Wight,South Western Railway (Island Line)
+SAC,St Albans City,East of England,St Albans,Govia Thameslink Railway (Thameslink)
+SAD,Sandwell and Dudley,West Midlands,Sandwell,West Midlands Trains (West Midlands Railway)
+SAE,Saltaire,Yorkshire and The Humber,Bradford,Northern Trains
+SAF,Salfords (Surrey),South East,Reigate and Banstead,Govia Thameslink Railway (Southern)
+SAH,Salhouse,East of England,Broadland,Greater Anglia
+SAJ,St Johns (London),London,Lewisham,Southeastern
+SAL,Salisbury,South West,Wiltshire,South Western Railway
+SAM,Saltmarshe,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+SAN,Sandown,South East,Isle of Wight,South Western Railway (Island Line)
+SAR,St Andrews Road,South West,"Bristol, City of",Great Western Railway
+SAS,St Annes-on-the-Sea,North West,Fylde,Northern Trains
+SAT,South Acton,London,Ealing,London Overground
+SAU,St Austell,South West,Cornwall,Great Western Railway
+SAV,Stratford-upon-Avon,West Midlands,Stratford-on-Avon,West Midlands Trains (West Midlands Railway)
+SAW,Sawbridgeworth,East of England,East Hertfordshire,Greater Anglia
+SAX,Saxmundham,East of England,East Suffolk,Greater Anglia
+SAY,Swanley,South East,Sevenoaks,Southeastern
+SBE,Starbeck,Yorkshire and The Humber,North Yorkshire,Northern Trains
+SBF,St Budeaux Ferry Road,South West,Plymouth,Great Western Railway
+SBJ,Stourbridge Junction,West Midlands,Dudley,West Midlands Trains (West Midlands Railway)
+SBK,South Bank,North East,Redcar and Cleveland,Northern Trains
+SBM,South Bermondsey,London,Southwark,Govia Thameslink Railway (Southern)
+SBP,Stonebridge Park,London,Brent,London Underground
+SBR,Spean Bridge,Scotland,Highland,ScotRail
+SBS,St Bees,North West,Cumberland,Northern Trains
+SBT,Stourbridge Town,West Midlands,Dudley,West Midlands Trains (West Midlands Railway)
+SBU,Southbury,London,Enfield,London Overground
+SBV,St Budeaux Victoria Road,South West,Plymouth,Great Western Railway
+SBY,Selby,Yorkshire and The Humber,North Yorkshire,TransPennine Express
+SCA,Scarborough,Yorkshire and The Humber,North Yorkshire,TransPennine Express
+SCF,Stechford,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+SCG,Stone Crossing,South East,Dartford,Southeastern
+SCH,Scotstounhill,Scotland,Glasgow City,ScotRail
+SCR,St Columb Road,South West,Cornwall,Great Western Railway
+SCS,Starcross,South West,Teignbridge,Great Western Railway
+SCT,Scotscalder,Scotland,Highland,ScotRail
+SCU,Scunthorpe,Yorkshire and The Humber,North Lincolnshire,TransPennine Express
+SCY,South Croydon,London,Croydon,Govia Thameslink Railway (Southern)
+SDA,Snodland,South East,Tonbridge and Malling,Southeastern
+SDB,Sandbach,North West,Cheshire East,Northern Trains
+SDC,Shoreditch High Street,London,Tower Hamlets,London Overground
+SDE,Shadwell,London,Tower Hamlets,London Overground
+SDF,Saundersfoot,Wales,Pembrokeshire - Sir Benfro,TfW Rail
+SDG,Sandling,South East,Folkestone and Hythe,Southeastern
+SDH,Sudbury Hill Harrow,London,Harrow,Chiltern Railways
+SDL,Sandhills,North West,Liverpool,Merseyrail
+SDM,Shieldmuir,Scotland,North Lanarkshire,ScotRail
+SDN,St Denys,South East,Southampton,South Western Railway
+SDP,Sandplace,South West,Cornwall,Great Western Railway
+SDR,Saunderton,South East,Buckinghamshire,Chiltern Railways
+SDW,Sandwich,South East,Dover,Southeastern
+SDY,Sandy,East of England,Central Bedfordshire,Govia Thameslink Railway (Great Northern)
+SEA,Seaham,North East,County Durham,Northern Trains
+SEC,Seaton Carew,North East,Hartlepool,Northern Trains
+SED,Shelford (Cambs),East of England,South Cambridgeshire,Greater Anglia
+SEE,Southease,South East,Lewes,Govia Thameslink Railway (Southern)
+SEF,Seaford (Sussex),South East,Lewes,Govia Thameslink Railway (Southern)
+SEG,Selling,South East,Swale,Southeastern
+SEH,Shoreham (Kent),South East,Sevenoaks,Southeastern
+SEJ,Seaton Delaval,North East,Northumberland,Northern Trains
+SEL,Sellafield,North West,Cumberland,Northern Trains
+SEM,Seamer,Yorkshire and The Humber,North Yorkshire,TransPennine Express
+SEN,Shenstone,West Midlands,Lichfield,West Midlands Trains (West Midlands Railway)
+SER,St Erth,South West,Cornwall,Great Western Railway
+SES,South Elmsall,Yorkshire and The Humber,Wakefield,Northern Trains
+SET,Settle,Yorkshire and The Humber,North Yorkshire,Northern Trains
+SEV,Sevenoaks,South East,Sevenoaks,Southeastern
+SFA,Stratford International,London,Newham,HS1 Ltd
+SFD,Salford Central,North West,Salford,Northern Trains
+SFI,Shawfair,Scotland,Midlothian,ScotRail
+SFL,Seaforth and Litherland,North West,Sefton,Merseyrail
+SFN,Shifnal,West Midlands,Shropshire,West Midlands Trains (West Midlands Railway)
+SFO,Stanford-le-Hope,East of England,Thurrock,c2c
+SFR,Shalford (Surrey),South East,Guildford,Great Western Railway
+SGB,Smethwick Galton Bridge,West Midlands,Sandwell,West Midlands Trains (West Midlands Railway)
+SGL,South Gyle,Scotland,City of Edinburgh,ScotRail
+SGM,St Germans,South West,Cornwall,Great Western Railway
+SGN,South Greenford,London,Ealing,Great Western Railway
+SGR,Slade Green,London,Bexley,Southeastern
+SHB,Shirebrook,East Midlands,Bolsover,East Midlands Railway
+SHC,Streethouse,Yorkshire and The Humber,Wakefield,Northern Trains
+SHD,Shildon,North East,County Durham,Northern Trains
+SHE,Sherborne,South West,Dorset,South Western Railway
+SHF,Sheffield,Yorkshire and The Humber,Sheffield,East Midlands Railway
+SHH,Shirehampton,South West,"Bristol, City of",Great Western Railway
+SHI,Shiplake,South East,South Oxfordshire,Great Western Railway
+SHJ,St Helens Junction,North West,St. Helens,Northern Trains
+SHL,Shawlands,Scotland,Glasgow City,ScotRail
+SHM,Sheringham,East of England,North Norfolk,Greater Anglia
+SHN,Shanklin,South East,Isle of Wight,South Western Railway (Island Line)
+SHO,Sholing,South East,Southampton,South Western Railway
+SHP,Shepperton,South East,Spelthorne,South Western Railway
+SHR,Shrewsbury,West Midlands,Shropshire,TfW Rail
+SHS,Shotts,Scotland,North Lanarkshire,ScotRail
+SHT,Shotton,Wales,Flintshire - Sir y Fflint,TfW Rail
+SHU,Stonehouse,South West,Stroud,Great Western Railway
+SHW,Shawford,South East,Winchester,South Western Railway
+SHY,Shipley (Yorks),Yorkshire and The Humber,Bradford,Northern Trains
+SIA,Southend Airport,East of England,Rochford,Stobart Rail
+SIC,Silecroft,North West,Cumberland,Northern Trains
+SID,Sidcup,London,Bexley,Southeastern
+SIE,Sherburn-in-Elmet,Yorkshire and The Humber,North Yorkshire,Northern Trains
+SIH,St Helier (London),London,Merton,Govia Thameslink Railway (Thameslink)
+SIL,Sileby,East Midlands,Charnwood,East Midlands Railway
+SIN,Singer,Scotland,West Dunbartonshire,ScotRail
+SIP,Shipton,South East,West Oxfordshire,Great Western Railway
+SIT,Sittingbourne,South East,Swale,Southeastern
+SIV,St Ives (Cornwall),South West,Cornwall,Great Western Railway
+SJP,St James Park (Exeter),South West,Exeter,Great Western Railway
+SJS,St James Street (Walthamstow),London,Waltham Forest,London Overground
+SKE,Skewen,Wales,Neath Port Talbot - Castell-nedd Port Talbot,TfW Rail
+SKG,Skegness,East Midlands,East Lindsey,East Midlands Railway
+SKI,Skipton,Yorkshire and The Humber,North Yorkshire,Northern Trains
+SKM,Stoke Mandeville,South East,Buckinghamshire,Chiltern Railways
+SKN,St Keyne Wishing Well Halt,South West,Cornwall,Great Western Railway
+SKS,Stocksfield,North East,Northumberland,Northern Trains
+SKW,Stoke Newington,London,Hackney,London Overground
+SLA,Slateford,Scotland,City of Edinburgh,ScotRail
+SLB,Saltburn,North East,Redcar and Cleveland,Northern Trains
+SLD,Salford Crescent,North West,Salford,Northern Trains
+SLH,Sleights,Yorkshire and The Humber,North Yorkshire,Northern Trains
+SLK,Silkstone Common,Yorkshire and The Humber,Barnsley,Northern Trains
+SLL,Stallingborough,Yorkshire and The Humber,North East Lincolnshire,East Midlands Railway
+SLO,Slough,South East,Slough,Great Western Railway
+SLQ,St Leonards Warrior Square,South East,Hastings,Southeastern
+SLR,Sleaford,East Midlands,North Kesteven,East Midlands Railway
+SLS,Shettleston,Scotland,Glasgow City,ScotRail
+SLT,Saltcoats,Scotland,North Ayrshire,ScotRail
+SLV,Silver Street,London,Enfield,London Overground
+SLW,Salwick,North West,Fylde,Northern Trains
+SLY,Selly Oak,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+SMA,Small Heath,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+SMB,Smithy Bridge,North West,Rochdale,Northern Trains
+SMD,Stamford (Lincs),East Midlands,South Kesteven,East Midlands Railway
+SMG,St Margarets (London),London,Richmond upon Thames,South Western Railway
+SMH,Stamford Hill,London,Hackney,London Overground
+SMK,Stowmarket,East of England,Mid Suffolk,Greater Anglia
+SML,Sea Mills,South West,"Bristol, City of",Great Western Railway
+SMN,Southminster,East of England,Maldon,Greater Anglia
+SMO,South Merton,London,Merton,Govia Thameslink Railway (Thameslink)
+SMR,Smethwick Rolfe Street,West Midlands,Sandwell,West Midlands Trains (West Midlands Railway)
+SMT,St Margarets (Herts),East of England,East Hertfordshire,Greater Anglia
+SMY,St Mary Cray,London,Bromley,Southeastern
+SNA,Sandal and Agbrigg,Yorkshire and The Humber,Wakefield,Northern Trains
+SND,Sandhurst (Berks),South East,Bracknell Forest,Great Western Railway
+SNE,Stone (Staffs),West Midlands,Stafford,West Midlands Trains (West Midlands Railway)
+SNF,Shenfield,East of England,Brentwood,Greater Anglia
+SNG,Sunningdale,South East,Windsor and Maidenhead,South Western Railway
+SNH,St Helens Central,North West,St. Helens,Northern Trains
+SNI,Snaith,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+SNK,Sankey for Penketh,North West,Warrington,Northern Trains
+SNL,Stoneleigh,South East,Epsom and Ewell,South Western Railway
+SNN,Swinton (Manchester),North West,Salford,Northern Trains
+SNO,St Neots,East of England,Huntingdonshire,Govia Thameslink Railway (Great Northern)
+SNR,Sanderstead,London,Croydon,Govia Thameslink Railway (Southern)
+SNS,Staines,South East,Spelthorne,South Western Railway
+SNT,Stanlow and Thornton,North West,Cheshire West and Chester,Northern Trains
+SNW,Swanwick,South East,Fareham,South Western Railway
+SNY,Sunnymeads,South East,Windsor and Maidenhead,South Western Railway
+SOA,Southampton Airport Parkway,South East,Eastleigh,South Western Railway
+SOB,Southbourne,South East,Chichester,Govia Thameslink Railway (Southern)
+SOC,Southend Central,East of England,Southend-on-Sea,c2c
+SOE,Southend East,East of England,Southend-on-Sea,c2c
+SOF,South Woodham Ferrers,East of England,Chelmsford,Greater Anglia
+SOG,Stonegate,South East,Rother,Southeastern
+SOH,South Hampstead,London,Camden,London Overground
+SOI,Stow,Scotland,Scottish Borders,ScotRail
+SOJ,Soham,East of England,East Cambridgeshire,Greater Anglia
+SOK,South Kenton,London,Brent,London Underground
+SOL,Solihull,West Midlands,Solihull,Chiltern Railways
+SOM,South Milford,Yorkshire and The Humber,North Yorkshire,Northern Trains
+SON,Steeton and Silsden,Yorkshire and The Humber,Bradford,Northern Trains
+SOO,Strood (Kent),South East,Medway,Southeastern
+SOP,Southport,North West,Sefton,Merseyrail
+SOR,Sole Street,South East,Gravesham,Southeastern
+SOT,Stoke-on-Trent,West Midlands,Stoke-on-Trent,Avanti West Coast
+SOU,Southampton Central,South East,Southampton,South Western Railway
+SOV,Southend Victoria,East of England,Southend-on-Sea,Greater Anglia
+SOW,Sowerby Bridge,Yorkshire and The Humber,Calderdale,Northern Trains
+SPA,Spalding,East Midlands,South Holland,East Midlands Railway
+SPB,Shepherd's Bush,London,Hammersmith and Fulham,London Overground
+SPF,Springfield,Scotland,Fife,ScotRail
+SPH,Shepherds Well,South East,Dover,Southeastern
+SPI,Spital,North West,Wirral,Merseyrail
+SPK,Sutton Parkway,East Midlands,Ashfield,East Midlands Railway
+SPN,Spooner Row,East of England,South Norfolk,Greater Anglia
+SPO,Spondon,East Midlands,Derby,East Midlands Railway
+SPP,Shippea Hill,East of England,East Cambridgeshire,Greater Anglia
+SPR,Springburn,Scotland,Glasgow City,ScotRail
+SPS,Stepps,Scotland,North Lanarkshire,ScotRail
+SPT,Stockport,North West,Stockport,Avanti West Coast
+SPU,Staplehurst,South East,Maidstone,Southeastern
+SPY,Shepley,Yorkshire and The Humber,Kirklees,Northern Trains
+SQE,Surrey Quays,London,Southwark,London Overground
+SQH,Sanquhar,Scotland,Dumfries and Galloway,ScotRail
+SQU,Squires Gate,North West,Fylde,Northern Trains
+SRA,Stratford (London),London,Newham,Elizabeth line
+SRC,Streatham Common,London,Lambeth,Govia Thameslink Railway (Southern)
+SRD,Stapleton Road,South West,"Bristol, City of",Great Western Railway
+SRG,Seer Green and Jordans,South East,Buckinghamshire,Chiltern Railways
+SRH,Streatham Hill,London,Lambeth,Govia Thameslink Railway (Southern)
+SRI,Spring Road,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+SRL,Shirley,West Midlands,Solihull,West Midlands Trains (West Midlands Railway)
+SRN,Strines,North West,Stockport,Northern Trains
+SRO,Shireoaks,East Midlands,Bassetlaw,Northern Trains
+SRR,Sarn,Wales,Bridgend - Pen-y-bont ar Ogwr,TfW Rail
+SRS,Selhurst,London,Croydon,Govia Thameslink Railway (Southern)
+SRT,Shortlands,London,Bromley,Southeastern
+SRU,South Ruislip,London,Hillingdon,London Underground
+SRY,Shoeburyness,East of England,Southend-on-Sea,c2c
+SSC,Seascale,North West,Cumberland,Northern Trains
+SSD,Stansted Airport,East of England,Uttlesford,Greater Anglia
+SSE,Shoreham-by-Sea,South East,Adur,Govia Thameslink Railway (Southern)
+SSM,Stocksmoor,Yorkshire and The Humber,Kirklees,Northern Trains
+SSS,Sheerness-on-Sea,South East,Swale,Southeastern
+SST,Stansted Mountfitchet,East of England,Uttlesford,Greater Anglia
+STA,Stafford,West Midlands,Stafford,Avanti West Coast
+STC,Strathcarron,Scotland,Highland,ScotRail
+STD,Stroud (Gloucs),South West,Stroud,Great Western Railway
+STE,Streatham (Greater London),London,Lambeth,Govia Thameslink Railway (Southern)
+STF,Stromeferry,Scotland,Highland,ScotRail
+STG,Stirling,Scotland,Stirling,ScotRail
+STH,Shepreth,East of England,South Cambridgeshire,Govia Thameslink Railway (Great Northern)
+STJ,Severn Tunnel Junction,Wales,Monmouthshire - Sir Fynwy,TfW Rail
+STK,Stockton,North East,Stockton-on-Tees,Northern Trains
+STL,Southall,London,Ealing,Elizabeth line
+STM,St Michaels,North West,Liverpool,Merseyrail
+STN,Stonehaven,Scotland,Aberdeenshire,ScotRail
+STO,South Tottenham,London,Haringey,London Overground
+STP,London St Pancras International,London,Camden,Network Rail
+STR,Stranraer,Scotland,Dumfries and Galloway,ScotRail
+STS,Saltash,South West,Cornwall,Great Western Railway
+STT,Stewarton,Scotland,East Ayrshire,ScotRail
+STU,Sturry,South East,Canterbury,Southeastern
+STV,Stevenston,Scotland,North Ayrshire,ScotRail
+STW,Strawberry Hill,London,Richmond upon Thames,South Western Railway
+STY,Stratford-upon-Avon Parkway,West Midlands,Stratford-on-Avon,West Midlands Trains (West Midlands Railway)
+SUC,Sutton Common,London,Sutton,Govia Thameslink Railway (Thameslink)
+SUD,Sudbury and Harrow Road,London,Brent,Chiltern Railways
+SUG,Sugar Loaf,Wales,Powys - Powys,TfW Rail
+SUM,Summerston,Scotland,Glasgow City,ScotRail
+SUN,Sunderland,North East,Sunderland,Northern Trains
+SUO,Sutton (London),London,Sutton,Govia Thameslink Railway (Southern)
+SUP,Sundridge Park,London,Bromley,Southeastern
+SUR,Surbiton,London,Kingston upon Thames,South Western Railway
+SUT,Sutton Coldfield,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+SUU,Sunbury,South East,Spelthorne,South Western Railway
+SUY,Sudbury (Suffolk),East of England,Babergh,Greater Anglia
+SVB,Severn Beach,South West,South Gloucestershire,Great Western Railway
+SVG,Stevenage,East of England,Stevenage,Govia Thameslink Railway (Great Northern)
+SVK,Seven Kings,London,Redbridge,Elizabeth line
+SVL,Staveley (Cumbria),North West,Westmorland and Furness,Northern Trains
+SVR,Silverdale,North West,Lancaster,Northern Trains
+SVS,Seven Sisters,London,Haringey,London Overground
+SWA,Swansea,Wales,Swansea - Abertawe,TfW Rail
+SWD,Swinderby,East Midlands,North Kesteven,East Midlands Railway
+SWE,Swineshead,East Midlands,Boston,East Midlands Railway
+SWG,Swaythling,South East,Southampton,South Western Railway
+SWI,Swindon (Wilts),South West,Swindon,Great Western Railway
+SWK,Southwick,South East,Adur,Govia Thameslink Railway (Southern)
+SWL,Swale,South East,Swale,Southeastern
+SWM,Swanscombe,South East,Dartford,Southeastern
+SWN,Swinton (South Yorks),Yorkshire and The Humber,Rotherham,Northern Trains
+SWO,Snowdown,South East,Dover,Southeastern
+SWR,Stewartby,East of England,Central Bedfordshire,West Midlands Trains (London Northwestern Railway)
+SWS,South Wigston,East Midlands,Oadby and Wigston,East Midlands Railway
+SWT,Slaithwaite,Yorkshire and The Humber,Kirklees,Northern Trains
+SWY,Sway,South East,New Forest,South Western Railway
+SXY,Saxilby,East Midlands,West Lindsey,East Midlands Railway
+SYA,Styal,North West,Cheshire East,Northern Trains
+SYB,Stalybridge,North West,Tameside,TransPennine Express
+SYD,Sydenham (London),London,Lewisham,London Overground
+SYH,Sydenham Hill,London,Southwark,Southeastern
+SYL,Syon Lane,London,Hounslow,South Western Railway
+SYS,Syston,East Midlands,Charnwood,East Midlands Railway
+SYT,Somerleyton,East of England,East Suffolk,Greater Anglia
+TAB,Tame Bridge Parkway,West Midlands,Sandwell,West Midlands Trains (West Midlands Railway)
+TAC,Tackley,South East,West Oxfordshire,Great Western Railway
+TAD,Tadworth,South East,Reigate and Banstead,Govia Thameslink Railway (Southern)
+TAF,Taffs Well,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+TAI,Tain,Scotland,Highland,ScotRail
+TAL,Talsarnau,Wales,Gwynedd - Gwynedd,TfW Rail
+TAM,Tamworth,West Midlands,Tamworth,West Midlands Trains (London Northwestern Railway)
+TAP,Taplow,South East,Buckinghamshire,Elizabeth line
+TAT,Tattenham Corner,South East,Reigate and Banstead,Govia Thameslink Railway (Southern)
+TAU,Taunton,South West,Somerset,Great Western Railway
+TAY,Taynuilt,Scotland,Argyll and Bute,ScotRail
+TBD,Three Bridges,South East,Crawley,Govia Thameslink Railway (Southern)
+TBW,Tunbridge Wells,South East,Tunbridge Wells,Southeastern
+TBY,Thornaby,North East,Stockton-on-Tees,TransPennine Express
+TCR,Tottenham Court Road,London,Camden,London Underground
+TDU,Tondu,Wales,Bridgend - Pen-y-bont ar Ogwr,TfW Rail
+TEA,Teesside Airport,North East,Darlington,Northern Trains
+TED,Teddington,London,Richmond upon Thames,South Western Railway
+TEN,Tenby,Wales,Pembrokeshire - Sir Benfro,TfW Rail
+TEO,Theobalds Grove,East of England,Broxbourne,London Overground
+TEY,Teynham,South East,Swale,Southeastern
+TFC,Telford Central,West Midlands,Telford and Wrekin,West Midlands Trains (West Midlands Railway)
+TGM,Teignmouth,South West,Teignbridge,Great Western Railway
+TGS,Ty Glas,Wales,Cardiff - Caerdydd,TfW Rail
+THA,Thatcham,South East,West Berkshire,Great Western Railway
+THB,Thornliebank,Scotland,East Renfrewshire,ScotRail
+THC,Thurnscoe,Yorkshire and The Humber,Barnsley,Northern Trains
+THD,Thames Ditton,South East,Elmbridge,South Western Railway
+THE,Theale,South East,West Berkshire,Great Western Railway
+THH,Thatto Heath,North West,St. Helens,Northern Trains
+THI,Thirsk,Yorkshire and The Humber,North Yorkshire,TransPennine Express
+THL,Tile Hill,West Midlands,Coventry,West Midlands Trains (West Midlands Railway)
+THO,Thornford,South West,Dorset,Great Western Railway
+THP,Thanet Parkway,South East,Thanet,Southeastern
+THS,Thurso,Scotland,Highland,ScotRail
+THT,Thorntonhall,Scotland,South Lanarkshire,ScotRail
+THU,Thurgarton,East Midlands,Newark and Sherwood,East Midlands Railway
+THW,The Hawthorns,West Midlands,Sandwell,West Midlands Trains (West Midlands Railway)
+TIL,Tilbury Town,East of England,Thurrock,c2c
+TIP,Tipton,West Midlands,Sandwell,West Midlands Trains (West Midlands Railway)
+TIR,Tir-Phil,Wales,Caerphilly - Caerffili,TfW Rail
+TIS,Tisbury,South West,Wiltshire,South Western Railway
+TLB,Talybont,Wales,Gwynedd - Gwynedd,TfW Rail
+TLC,Tal-y-Cafn,Wales,Conwy - Conwy,TfW Rail
+TLH,Tilehurst,South East,Reading,Great Western Railway
+TLK,The Lakes (Warks),West Midlands,Stratford-on-Avon,West Midlands Trains (West Midlands Railway)
+TLS,Thorpe-le-Soken,East of England,Tendring,Greater Anglia
+TMC,Templecombe,South West,Somerset,South Western Railway
+TNA,Thornton Abbey,Yorkshire and The Humber,North Lincolnshire,East Midlands Railway
+TNF,Tonfanau,Wales,Gwynedd - Gwynedd,TfW Rail
+TNN,Thorne North,Yorkshire and The Humber,Doncaster,Northern Trains
+TNP,Tonypandy,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+TNS,Thorne South,Yorkshire and The Humber,Doncaster,Northern Trains
+TOD,Todmorden,Yorkshire and The Humber,Calderdale,Northern Trains
+TOK,Three Oaks,South East,Rother,Govia Thameslink Railway (Southern)
+TOL,Tolworth,London,Kingston upon Thames,South Western Railway
+TOM,Tottenham Hale,London,Haringey,Greater Anglia
+TON,Tonbridge,South East,Tonbridge and Malling,Southeastern
+TOO,Tooting,London,Merton,Govia Thameslink Railway (Thameslink)
+TOP,Topsham,South West,Exeter,Great Western Railway
+TOT,Totnes,South West,South Hams,Great Western Railway
+TPB,Thorpe Bay,East of England,Southend-on-Sea,c2c
+TPC,Thorpe Culvert,East Midlands,East Lindsey,East Midlands Railway
+TPN,Ton Pentre,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+TQY,Torquay,South West,Torbay,Great Western Railway
+TRA,Trafford Park,North West,Trafford,Northern Trains
+TRB,Treherbert,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+TRD,Troed-y-rhiw,Wales,Merthyr Tydfil - Merthyr Tudful,TfW Rail
+TRE,Trefforest Estate,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+TRF,Trefforest,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+TRH,Trehafod,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+TRI,Tring,East of England,Dacorum,West Midlands Trains (London Northwestern Railway)
+TRM,Trimley,East of England,East Suffolk,Greater Anglia
+TRN,Troon,Scotland,South Ayrshire,ScotRail
+TRO,Trowbridge,South West,Wiltshire,Great Western Railway
+TRR,Torre,South West,Torbay,Great Western Railway
+TRS,Thurston,East of England,Mid Suffolk,Greater Anglia
+TRU,Truro,South West,Cornwall,Great Western Railway
+TRY,Treorchy,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+TTF,Thetford,East of England,Breckland,Greater Anglia
+TTH,Thornton Heath,London,Croydon,Govia Thameslink Railway (Southern)
+TTN,Totton,South East,New Forest,South Western Railway
+TUH,Tulse Hill,London,Lambeth,Govia Thameslink Railway (Southern)
+TUL,Tulloch,Scotland,Highland,ScotRail
+TUR,Turkey Street,London,Enfield,London Overground
+TUT,Tutbury and Hatton,East Midlands,South Derbyshire,East Midlands Railway
+TVP,Tiverton Parkway,South West,Mid Devon,Great Western Railway
+TWB,Tweedbank,Scotland,Scottish Borders,ScotRail
+TWI,Twickenham,London,Richmond upon Thames,South Western Railway
+TWN,Town Green,North West,West Lancashire,Merseyrail
+TWY,Twyford,South East,Wokingham,Great Western Railway
+TYC,Ty Croes,Wales,Isle of Anglesey - Ynys Môn,TfW Rail
+TYG,Tygwyn,Wales,Gwynedd - Gwynedd,TfW Rail
+TYL,Tyndrum Lower,Scotland,Stirling,ScotRail
+TYS,Tyseley,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+TYW,Tywyn,Wales,Gwynedd - Gwynedd,TfW Rail
+UCK,Uckfield,South East,Wealden,Govia Thameslink Railway (Southern)
+UDD,Uddingston,Scotland,South Lanarkshire,ScotRail
+UHA,Uphall,Scotland,West Lothian,ScotRail
+UHL,Upper Holloway,London,Islington,London Overground
+ULC,Ulceby,Yorkshire and The Humber,North Lincolnshire,East Midlands Railway
+ULL,Ulleskelf,Yorkshire and The Humber,North Yorkshire,Northern Trains
+ULV,Ulverston,North West,Westmorland and Furness,Northern Trains
+UMB,Umberleigh,South West,North Devon,Great Western Railway
+UNI,University (Birmingham),West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+UPH,Upper Halliford,South East,Spelthorne,South Western Railway
+UPL,Upholland,North West,West Lancashire,Northern Trains
+UPM,Upminster,London,Havering,c2c
+UPT,Upton (Merseyside),North West,Wirral,TfW Rail
+UPW,Upwey,South West,Dorset,South Western Railway
+URM,Urmston,North West,Trafford,Northern Trains
+UTT,Uttoxeter,West Midlands,East Staffordshire,East Midlands Railway
+UTY,Upper Tyndrum,Scotland,Stirling,ScotRail
+UWL,Upper Warlingham,South East,Tandridge,Govia Thameslink Railway (Southern)
+VAL,Valley,Wales,Isle of Anglesey - Ynys Môn,TfW Rail
+VIC,London Victoria,London,Westminster,Network Rail
+VIR,Virginia Water,South East,Runnymede,South Western Railway
+VXH,Vauxhall,London,Lambeth,South Western Railway
+WAC,Warrington Central,North West,Warrington,Northern Trains
+WAD,Wadhurst,South East,Wealden,Southeastern
+WAE,London Waterloo East,London,Lambeth,Southeastern
+WAF,Wallyford,Scotland,East Lothian,ScotRail
+WAL,Walton-on-Thames,South East,Elmbridge,South Western Railway
+WAM,Walmer,South East,Dover,Southeastern
+WAN,Wanborough,South East,Guildford,South Western Railway
+WAO,Walton (Merseyside),North West,Liverpool,Merseyrail
+WAR,Ware (Herts),East of England,East Hertfordshire,Greater Anglia
+WAS,Watton-at-Stone,East of England,East Hertfordshire,Govia Thameslink Railway (Great Northern)
+WAT,London Waterloo,London,Lambeth,Network Rail
+WAV,Wavertree Technology Park,North West,Liverpool,Northern Trains
+WAW,Warrington West,North West,Warrington,Northern Trains
+WBC,Waterbeach,East of England,South Cambridgeshire,Govia Thameslink Railway (Great Northern)
+WBD,Whitley Bridge,Yorkshire and The Humber,North Yorkshire,Northern Trains
+WBL,Warblington,South East,Havant,Govia Thameslink Railway (Southern)
+WBO,Wimbledon Chase,London,Merton,Govia Thameslink Railway (Thameslink)
+WBP,West Brompton,London,Hammersmith and Fulham,London Underground
+WBQ,Warrington Bank Quay,North West,Warrington,Avanti West Coast
+WBR,Whaley Bridge,East Midlands,High Peak,Northern Trains
+WBY,West Byfleet,South East,Woking,South Western Railway
+WCB,Westcombe Park,London,Greenwich,Southeastern
+WCF,Westcliff,East of England,Southend-on-Sea,c2c
+WCH,Whitchurch (Hampshire),South East,Basingstoke and Deane,South Western Railway
+WCK,Wick,Scotland,Highland,ScotRail
+WCL,West Calder,Scotland,West Lothian,ScotRail
+WCM,Wickham Market,East of England,East Suffolk,Greater Anglia
+WCP,Worcester Park,London,Kingston upon Thames,South Western Railway
+WCR,Whitecraigs,Scotland,East Renfrewshire,ScotRail
+WCX,Wembley Stadium,London,Brent,Chiltern Railways
+WCY,West Croydon,London,Croydon,London Overground
+WDB,Woodbridge,East of England,East Suffolk,Greater Anglia
+WDD,Widdrington,North East,Northumberland,Northern Trains
+WDE,Wood End,West Midlands,Stratford-on-Avon,West Midlands Trains (West Midlands Railway)
+WDH,Woodhouse,Yorkshire and The Humber,Sheffield,Northern Trains
+WDL,Woodhall,Scotland,Inverclyde,ScotRail
+WDM,Windermere,North West,Westmorland and Furness,Northern Trains
+WDN,Walsden,Yorkshire and The Humber,Calderdale,Northern Trains
+WDO,Waddon,London,Croydon,Govia Thameslink Railway (Southern)
+WDS,Woodlesford,Yorkshire and The Humber,Leeds,Northern Trains
+WDT,West Drayton,London,Hillingdon,Elizabeth line
+WDU,West Dulwich,London,Southwark,Southeastern
+WEA,West Ealing,London,Ealing,Elizabeth line
+WEE,Weeley,East of England,Tendring,Greater Anglia
+WEH,West Ham,London,Newham,London Underground
+WEL,Wellingborough,East Midlands,North Northamptonshire,East Midlands Railway
+WEM,Wem,West Midlands,Shropshire,TfW Rail
+WES,Westerton,Scotland,East Dunbartonshire,ScotRail
+WET,Weeton,Yorkshire and The Humber,North Yorkshire,Northern Trains
+WEY,Weymouth,South West,Dorset,South Western Railway
+WFF,Whifflet,Scotland,North Lanarkshire,ScotRail
+WFH,Watford High Street,East of England,Watford,London Overground
+WFI,Westerfield,East of England,East Suffolk,Greater Anglia
+WFJ,Watford Junction,East of England,Watford,West Midlands Trains (London Northwestern Railway)
+WFL,Wainfleet,East Midlands,East Lindsey,East Midlands Railway
+WFN,Watford North,East of England,Watford,West Midlands Trains (London Northwestern Railway)
+WGA,Westgate-on-Sea,South East,Thanet,Southeastern
+WGC,Welwyn Garden City,East of England,Welwyn Hatfield,Govia Thameslink Railway (Great Northern)
+WGN,Wigan North Western,North West,Wigan,Avanti West Coast
+WGR,Woodgrange Park,London,Newham,London Overground
+WGT,Wigton,North West,Cumberland,Northern Trains
+WGV,Wargrave,South East,Wokingham,Great Western Railway
+WGW,Wigan Wallgate,North West,Wigan,Northern Trains
+WHA,Westenhanger,South East,Folkestone and Hythe,Southeastern
+WHC,Walthamstow Central,London,Waltham Forest,London Overground
+WHD,West Hampstead,London,Camden,London Overground
+WHE,Whalley (Lancashire),North West,Ribble Valley,Northern Trains
+WHG,Westhoughton,North West,Bolton,Northern Trains
+WHI,Whitstable,South East,Canterbury,Southeastern
+WHL,White Hart Lane,London,Haringey,London Overground
+WHM,Whimple,South West,East Devon,South Western Railway
+WHN,Whiston,North West,Knowsley,Northern Trains
+WHP,West Hampstead Thameslink,London,Camden,Govia Thameslink Railway (Thameslink)
+WHR,West Horndon,East of England,Brentwood,c2c
+WHS,Whyteleafe South,South East,Tandridge,Govia Thameslink Railway (Southern)
+WHT,Whitchurch (Cardiff),Wales,Cardiff - Caerdydd,TfW Rail
+WHY,Whyteleafe,South East,Tandridge,Govia Thameslink Railway (Southern)
+WIA,Willenhall,West Midlands,Walsall,West Midlands Trains (West Midlands Railway)
+WIC,Wickford,East of England,Basildon,Greater Anglia
+WID,Widnes,North West,Halton,Northern Trains
+WIH,Winchmore Hill,London,Enfield,Govia Thameslink Railway (Great Northern)
+WIJ,Willesden Junction,London,Brent,London Overground
+WIL,Willington,East Midlands,South Derbyshire,East Midlands Railway
+WIM,Wimbledon,London,Merton,South Western Railway
+WIN,Winchester,South East,Winchester,South Western Railway
+WIV,Wivenhoe,East of England,Colchester,Greater Anglia
+WKB,West Kilbride,Scotland,North Ayrshire,ScotRail
+WKD,Walkden,North West,Salford,Northern Trains
+WKF,Wakefield Westgate,Yorkshire and The Humber,Wakefield,London North Eastern Railway
+WKG,Workington,North West,Cumberland,Northern Trains
+WKI,West Kirby,North West,Wirral,Merseyrail
+WKK,Wakefield Kirkgate,Yorkshire and The Humber,Wakefield,Northern Trains
+WKM,Wokingham,South East,Wokingham,South Western Railway
+WLC,Waltham Cross,East of England,Broxbourne,Greater Anglia
+WLD,West St Leonards,South East,Hastings,Southeastern
+WLE,Whittlesea,East of England,Fenland,Greater Anglia
+WLF,Whittlesford Parkway,East of England,South Cambridgeshire,Greater Anglia
+WLG,Wallasey Grove Road,North West,Wirral,Merseyrail
+WLI,Welling,London,Bexley,Southeastern
+WLM,Williamwood,Scotland,East Renfrewshire,ScotRail
+WLN,Wellington (Shropshire),West Midlands,Telford and Wrekin,West Midlands Trains (West Midlands Railway)
+WLO,Waterloo (Merseyside),North West,Sefton,Merseyrail
+WLP,Welshpool,Wales,Powys - Powys,TfW Rail
+WLS,Woolston,South East,Southampton,South Western Railway
+WLT,Wallington,London,Sutton,Govia Thameslink Railway (Southern)
+WLV,Wallasey Village,North West,Wirral,Merseyrail
+WLW,Welwyn North,East of England,Welwyn Hatfield,Govia Thameslink Railway (Great Northern)
+WLY,Woodley,North West,Stockport,Northern Trains
+WMA,West Malling,South East,Tonbridge and Malling,Southeastern
+WMB,Wembley Central,London,Brent,London Underground
+WMC,Wilmcote,West Midlands,Stratford-on-Avon,West Midlands Trains (West Midlands Railway)
+WMD,Wymondham,East of England,South Norfolk,Greater Anglia
+WME,Woodmansterne,London,Croydon,Govia Thameslink Railway (Southern)
+WMG,Welham Green,East of England,Welwyn Hatfield,Govia Thameslink Railway (Great Northern)
+WMI,Wildmill,Wales,Bridgend - Pen-y-bont ar Ogwr,TfW Rail
+WML,Wilmslow,North West,Cheshire East,Northern Trains
+WMN,Warminster,South West,Wiltshire,Great Western Railway
+WMR,Widney Manor,West Midlands,Solihull,West Midlands Trains (West Midlands Railway)
+WMS,Wemyss Bay,Scotland,Inverclyde,ScotRail
+WMW,Walthamstow Queen's Road,London,Waltham Forest,London Overground
+WNC,Windsor and Eton Central,South East,Windsor and Maidenhead,Great Western Railway
+WND,Wendover,South East,Buckinghamshire,Chiltern Railways
+WNE,Wilnecote (Staffs),West Midlands,Tamworth,West Midlands Trains (West Midlands Railway)
+WNF,Winchfield,South East,Hart,South Western Railway
+WNG,Waun-Gron Park,Wales,Cardiff - Caerdydd,TfW Rail
+WNH,Warnham,South East,Horsham,Govia Thameslink Railway (Southern)
+WNL,Whinhill,Scotland,Inverclyde,ScotRail
+WNM,Weston Milton,South West,North Somerset,Great Western Railway
+WNN,Wennington,North West,Lancaster,Northern Trains
+WNP,Wanstead Park,London,Newham,London Overground
+WNR,Windsor and Eton Riverside,South East,Windsor and Maidenhead,South Western Railway
+WNS,Winnersh,South East,Wokingham,South Western Railway
+WNT,Wandsworth Town,London,Wandsworth,South Western Railway
+WNW,West Norwood,London,Lambeth,Govia Thameslink Railway (Southern)
+WNY,White Notley,East of England,Braintree,Greater Anglia
+WOB,Woburn Sands,South East,Milton Keynes,West Midlands Trains (London Northwestern Railway)
+WOF,Worcester Foregate Street,West Midlands,Worcester,West Midlands Trains (West Midlands Railway)
+WOH,Woldingham,South East,Tandridge,Govia Thameslink Railway (Southern)
+WOK,Woking,South East,Woking,South Western Railway
+WOL,Wolverton,South East,Milton Keynes,West Midlands Trains (London Northwestern Railway)
+WOM,Wombwell,Yorkshire and The Humber,Barnsley,Northern Trains
+WON,Walton-on-the-Naze,East of England,Tendring,Greater Anglia
+WOO,Wool,South West,Dorset,South Western Railway
+WOP,Worcestershire Parkway,West Midlands,Wychavon,Great Western Railway
+WOR,Worle,South West,North Somerset,Great Western Railway
+WOS,Worcester Shrub Hill,West Midlands,Worcester,West Midlands Trains (West Midlands Railway)
+WPE,Wapping,London,Tower Hamlets,London Overground
+WPL,Worplesdon,South East,Woking,South Western Railway
+WRB,Wrabness,East of England,Tendring,Greater Anglia
+WRE,Wrenbury,North West,Cheshire East,TfW Rail
+WRH,Worthing,South East,Worthing,Govia Thameslink Railway (Southern)
+WRK,Worksop,East Midlands,Bassetlaw,Northern Trains
+WRL,Wetheral,North West,Cumberland,Northern Trains
+WRM,Wareham (Dorset),South West,Dorset,South Western Railway
+WRN,West Runton,East of England,North Norfolk,Greater Anglia
+WRP,Warwick Parkway,West Midlands,Warwick,Chiltern Railways
+WRS,Wressle,Yorkshire and The Humber,East Riding of Yorkshire,Northern Trains
+WRT,Worstead,East of England,North Norfolk,Greater Anglia
+WRU,West Ruislip,London,Hillingdon,London Underground
+WRW,Warwick,West Midlands,Warwick,Chiltern Railways
+WRX,Wrexham General,Wales,Wrexham - Wrecsam,TfW Rail
+WRY,Wraysbury,South East,Windsor and Maidenhead,South Western Railway
+WSA,West Allerton,North West,Liverpool,Northern Trains
+WSB,Westbury,South West,Wiltshire,Great Western Railway
+WSE,Winchelsea,South East,Rother,Govia Thameslink Railway (Southern)
+WSF,Winsford,North West,Cheshire West and Chester,West Midlands Trains (London Northwestern Railway)
+WSH,Wishaw,Scotland,North Lanarkshire,ScotRail
+WSL,Walsall,West Midlands,Walsall,West Midlands Trains (West Midlands Railway)
+WSM,Weston-super-Mare,South West,North Somerset,Great Western Railway
+WSR,Woodsmoor,North West,Stockport,Northern Trains
+WST,Wood Street,London,Waltham Forest,London Overground
+WSU,West Sutton,London,Sutton,Govia Thameslink Railway (Thameslink)
+WSW,Wandsworth Common,London,Wandsworth,Govia Thameslink Railway (Southern)
+WTA,Wester Hailes,Scotland,City of Edinburgh,ScotRail
+WTB,Whitby,Yorkshire and The Humber,North Yorkshire,Northern Trains
+WTC,Whitchurch (Shropshire),West Midlands,Shropshire,TfW Rail
+WTE,Whitlocks End,West Midlands,Solihull,West Midlands Trains (West Midlands Railway)
+WTG,Watlington,East of England,King's Lynn and West Norfolk,Govia Thameslink Railway (Great Northern)
+WTH,Whitehaven,North West,Cumberland,Northern Trains
+WTI,Winnersh Triangle,South East,Wokingham,South Western Railway
+WTL,Whitland,Wales,Carmarthenshire - Sir Gaerfyrddin,TfW Rail
+WTM,Witham,East of England,Braintree,Greater Anglia
+WTN,Whitton (London),London,Richmond upon Thames,South Western Railway
+WTO,Water Orton,West Midlands,North Warwickshire,West Midlands Trains (West Midlands Railway)
+WTR,Wateringbury,South East,Tonbridge and Malling,Southeastern
+WTS,Whatstandwell,East Midlands,Amber Valley,East Midlands Railway
+WTT,Witton (West Midlands),West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+WTY,Witley,South East,Waverley,South Western Railway
+WVF,Wivelsfield,South East,Mid Sussex,Govia Thameslink Railway (Southern)
+WVH,Wolverhampton,West Midlands,Wolverhampton,West Midlands Trains (West Midlands Railway)
+WWA,Woolwich Arsenal,London,Greenwich,Southeastern
+WWC,Woolwich,London,Greenwich,Elizabeth line
+WWD,Woolwich Dockyard,London,Greenwich,Southeastern
+WWI,West Wickham,London,Bromley,Southeastern
+WWL,Whitwell (Derbyshire),East Midlands,Bolsover,East Midlands Railway
+WWO,West Worthing,South East,Worthing,Govia Thameslink Railway (Southern)
+WWR,Wandsworth Road,London,Lambeth,London Overground
+WWW,Wootton Wawen,West Midlands,Stratford-on-Avon,West Midlands Trains (West Midlands Railway)
+WXC,Wrexham Central,Wales,Wrexham - Wrecsam,TfW Rail
+WYB,Weybridge,South East,Elmbridge,South Western Railway
+WYE,Wye,South East,Ashford,Southeastern
+WYL,Wylde Green,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+WYM,Wylam,North East,Northumberland,Northern Trains
+WYT,Wythall,West Midlands,Bromsgrove,West Midlands Trains (West Midlands Railway)
+YAE,Yate,South West,South Gloucestershire,Great Western Railway
+YAL,Yalding,South East,Maidstone,Southeastern
+YAT,Yatton,South West,North Somerset,Great Western Railway
+YEO,Yeoford,South West,Mid Devon,Great Western Railway
+YET,Yetminster,South West,Dorset,Great Western Railway
+YNW,Ynyswen,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+YOK,Yoker,Scotland,West Dunbartonshire,ScotRail
+YRD,Yardley Wood,West Midlands,Birmingham,West Midlands Trains (West Midlands Railway)
+YRK,York,Yorkshire and The Humber,York,London North Eastern Railway
+YRM,Yarm,North East,Stockton-on-Tees,TransPennine Express
+YRT,Yorton,West Midlands,Shropshire,TfW Rail
+YSM,Ystrad Mynach,Wales,Caerphilly - Caerffili,TfW Rail
+YSR,Ystrad Rhondda,Wales,Rhondda Cynon Taf - Rhondda Cynon Taf,TfW Rail
+YVJ,Yeovil Junction,South West,Somerset,South Western Railway
+YVP,Yeovil Pen Mill,South West,Somerset,Great Western Railway
+ZCW,Canada Water,London,Southwark,London Underground
+ZFD,Farringdon,London,Islington,London Underground
+ZLW,Whitechapel,London,Tower Hamlets,London Underground
